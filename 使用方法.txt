@@ -1,0 +1,13 @@
+一般使用
+1、运行“获取cf_push+整合.bat”获取ip.txt文件，或自行替换ip.txt文件内容，每一行格式为“ip  端口”
+2、运行“!start.bat”
+
+
+如果ip.txt文件每一行只有ip没有端口，则把ip.txt文件重命名为“x-x-端口号”(例如“x-x-443")后，运行“自动补全端口.bat”
+如果cf_push的ip想自己整合，则运行“获取cf_push.bat”文件，会自动下载并解压ip文件到当前目录
+
+
+“!start.bat”文件中的tcpurl和测速url有需求可自行替换，可自行编辑打开bat文件修改下面两个地方
+set "speedtest_url=speed.bestip.one/__down?bytes=50000000"
+set "tcptest_url=www.bing.com" 
+
