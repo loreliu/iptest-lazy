@@ -33,7 +33,7 @@ var (
 	speedTest    = flag.Int("speedtest", 10, "下载测速协程数量,设为0禁用测速")                          // 下载测速协程数量
 	speedTestURL = flag.String("url", "speed.bestip.one/__down?bytes=50000000", "测速文件地址") // 测速文件地址
 	enableTLS    = flag.Bool("tls", false, "是否启用TLS")                                     // TLS是否启用
-	TCPurl       = flag.String("tcpurl", "speed.bestip.one", "TCP请求地址")                   // TCP请求地址
+	TCPurl       = flag.String("tcpurl", "api.gyue.cn.eu.org", "TCP请求地址")                 // TCP请求地址
 )
 
 type result struct {
@@ -149,6 +149,7 @@ func main() {
 		}
 	} else {
 		fmt.Println("本地 locations.json 已存在,无需重新下载")
+		fmt.Printf("information: %s\n %s\n %s\n", *TCPurl, *outFile, *File)
 		file, err := os.Open("locations.json")
 		if err != nil {
 			fmt.Printf("无法打开文件: %v\n", err)
