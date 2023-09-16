@@ -1,0 +1,287 @@
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟,IP国家,IP城市,国家代码,AS
+5.189.207.5,443,True,ALA,Asia Pacific,Almaty,263 ms,Kazakhstan,Almaty,KZ,AS199524 G-Core Labs S.A.
+5.189.207.4,443,True,ALA,Asia Pacific,Almaty,265 ms,Kazakhstan,Almaty,KZ,AS199524 G-Core Labs S.A.
+5.189.207.14,443,True,ALA,Asia Pacific,Almaty,279 ms,Kazakhstan,Almaty,KZ,AS199524 G-Core Labs S.A.
+217.76.64.195,443,True,ALA,Asia Pacific,Almaty,213 ms,Kazakhstan,Almaty,KZ,AS29555 Mobile Telecom-Service LLP
+93.123.17.134,443,True,AMS,Europe,Amsterdam,188 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.148,443,True,AMS,Europe,Amsterdam,184 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.132,443,True,AMS,Europe,Amsterdam,188 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.141,443,True,AMS,Europe,Amsterdam,184 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.139,443,True,AMS,Europe,Amsterdam,197 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.254,443,True,AMS,Europe,Amsterdam,160 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.135,443,True,AMS,Europe,Amsterdam,176 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.159,443,True,AMS,Europe,Amsterdam,160 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.253,443,True,AMS,Europe,Amsterdam,160 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.133,443,True,AMS,Europe,Amsterdam,185 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.150,443,True,AMS,Europe,Amsterdam,173 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.144,443,True,AMS,Europe,Amsterdam,187 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.143,443,True,AMS,Europe,Amsterdam,172 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.145,443,True,AMS,Europe,Amsterdam,186 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.147,443,True,AMS,Europe,Amsterdam,186 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.151,443,True,AMS,Europe,Amsterdam,173 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.140,443,True,AMS,Europe,Amsterdam,160 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.137,443,True,AMS,Europe,Amsterdam,184 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.146,443,True,AMS,Europe,Amsterdam,174 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+93.123.17.136,443,True,AMS,Europe,Amsterdam,174 ms,Netherlands,Amsterdam,NL,AS199524 G-Core Labs S.A.
+80.240.113.6,443,True,ARN,Europe,Stockholm,193 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.62,443,True,ARN,Europe,Stockholm,191 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.5,443,True,ARN,Europe,Stockholm,193 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.10,443,True,ARN,Europe,Stockholm,192 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.8,443,True,ARN,Europe,Stockholm,193 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.13,443,True,ARN,Europe,Stockholm,190 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.7,443,True,ARN,Europe,Stockholm,214 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.14,443,True,ARN,Europe,Stockholm,179 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.11,443,True,ARN,Europe,Stockholm,207 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.12,443,True,ARN,Europe,Stockholm,205 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.61,443,True,ARN,Europe,Stockholm,205 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.4,443,True,ARN,Europe,Stockholm,180 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.240.113.9,443,True,ARN,Europe,Stockholm,182 ms,Sweden,Stockholm,SE,AS199524 G-Core Labs S.A.
+80.93.210.4,443,True,ATH,Europe,Athens,217 ms,Greece,Athens,GR,AS199524 G-Core Labs S.A.
+92.38.159.4,443,True,ATL,North America,Atlanta,251 ms,United States,Atlanta,US,AS199524 G-Core Labs S.A.
+92.38.159.14,443,True,ATL,North America,Atlanta,261 ms,United States,Atlanta,US,AS199524 G-Core Labs S.A.
+92.38.159.5,443,True,ATL,North America,Atlanta,270 ms,United States,Atlanta,US,AS199524 G-Core Labs S.A.
+5.1.106.249,443,True,BGW,Middle East,Baghdad,270 ms,Iraq,Baghdad,IQ,"AS198735 Hilal Al-Rafidain for Computer and Internet Services Co., Ltd."
+109.230.114.2,443,True,BGW,Middle East,Baghdad,233 ms,Iraq,Baghdad,IQ,AS57324 Al Lawn Al Akhdar International Company for Communications and Information Technology Ltd.
+87.120.106.61,443,True,BOG,South America,Bogotá,322 ms,Colombia,Bogotá,CO,AS199524 G-Core Labs S.A.
+87.120.106.11,443,True,BOG,South America,Bogotá,329 ms,Colombia,Bogotá,CO,AS199524 G-Core Labs S.A.
+80.93.215.4,443,True,BOG,South America,Bogotá,327 ms,Colombia,Bogotá,CO,AS199524 G-Core Labs S.A.
+87.120.106.5,443,True,BOG,South America,Bogotá,327 ms,Colombia,Bogotá,CO,AS199524 G-Core Labs S.A.
+185.105.1.14,443,True,BOM,Asia Pacific,Mumbai,185 ms,India,Mumbai,IN,AS199524 G-Core Labs S.A.
+185.105.1.10,443,True,BOM,Asia Pacific,Mumbai,186 ms,India,Mumbai,IN,AS199524 G-Core Labs S.A.
+80.93.223.4,443,True,BOS,North America,Boston,271 ms,United States,Boston,US,AS199524 G-Core Labs S.A.
+80.93.223.62,443,True,BOS,North America,Boston,280 ms,United States,Boston,US,AS199524 G-Core Labs S.A.
+80.93.223.61,443,True,BOS,North America,Boston,271 ms,United States,Boston,US,AS199524 G-Core Labs S.A.
+5.101.217.4,443,True,BUD,Europe,Budapest,200 ms,Hungary,Budapest,HU,AS199524 G-Core Labs S.A.
+94.176.183.7,443,True,CDG,Europe,Paris,164 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.11,443,True,CDG,Europe,Paris,175 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.8,443,True,CDG,Europe,Paris,177 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.61,443,True,CDG,Europe,Paris,151 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.5,443,True,CDG,Europe,Paris,150 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.12,443,True,CDG,Europe,Paris,162 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.6,443,True,CDG,Europe,Paris,150 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+94.176.183.62,443,True,CDG,Europe,Paris,186 ms,France,Paris,FR,AS199524 G-Core Labs S.A.
+78.111.101.4,443,True,CPT,Africa,Cape Town,306 ms,South Africa,Cape Town,ZA,AS199524 G-Core Labs S.A.
+78.111.101.62,443,True,CPT,Africa,Cape Town,337 ms,South Africa,Cape Town,ZA,AS199524 G-Core Labs S.A.
+78.111.101.61,443,True,CPT,Africa,Cape Town,333 ms,South Africa,Cape Town,ZA,AS199524 G-Core Labs S.A.
+43.245.140.2,443,True,DAC,Asia Pacific,Dhaka,85 ms,Bangladesh,Dhaka,BD,AS58717 Summit Communications Ltd
+80.93.221.4,443,True,DEN,North America,Denver,229 ms,United States,Denver,US,AS199524 G-Core Labs S.A.
+80.93.221.62,443,True,DEN,North America,Denver,227 ms,United States,Denver,US,AS199524 G-Core Labs S.A.
+80.93.221.61,443,True,DEN,North America,Denver,230 ms,United States,Denver,US,AS199524 G-Core Labs S.A.
+185.101.136.9,443,True,DFW,North America,Dallas,247 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+185.101.136.13,443,True,DFW,North America,Dallas,244 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+185.101.136.29,443,True,DFW,North America,Dallas,250 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+185.101.136.7,443,True,DFW,North America,Dallas,252 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+185.101.136.30,443,True,DFW,North America,Dallas,253 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+185.101.136.8,443,True,DFW,North America,Dallas,249 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+185.101.136.12,443,True,DFW,North America,Dallas,250 ms,United States,Dallas,US,AS199524 G-Core Labs S.A.
+82.148.98.42,443,True,DOH,Middle East,Doha,115 ms,Qatar,Doha,QA,AS8781 Ooredoo Q.S.C.
+213.156.156.5,443,True,DUB,Europe,Dublin,185 ms,Ireland,Dublin,IE,AS199524 G-Core Labs S.A.
+213.156.156.62,443,True,DUB,Europe,Dublin,187 ms,Ireland,Dublin,IE,AS199524 G-Core Labs S.A.
+213.156.156.61,443,True,DUB,Europe,Dublin,185 ms,Ireland,Dublin,IE,AS199524 G-Core Labs S.A.
+213.156.156.4,443,True,DUB,Europe,Dublin,186 ms,Ireland,Dublin,IE,AS199524 G-Core Labs S.A.
+130.193.166.2,443,True,EBL,Middle East,Erbil,228 ms,Iraq,Erbil,IQ,AS21277 Allay Nawroz Telecom Company for Communication/Ltd.
+45.82.100.4,443,True,EVN,Middle East,Yerevan,247 ms,Armenia,Yerevan,AM,AS199524 G-Core Labs S.A.
+45.82.100.61,443,True,EVN,Middle East,Yerevan,225 ms,Armenia,Yerevan,AM,AS199524 G-Core Labs S.A.
+45.82.100.5,443,True,EVN,Middle East,Yerevan,238 ms,Armenia,Yerevan,AM,AS199524 G-Core Labs S.A.
+45.82.100.62,443,True,EVN,Middle East,Yerevan,213 ms,Armenia,Yerevan,AM,AS199524 G-Core Labs S.A.
+82.97.205.5,443,True,EZE,South America,Buenos Aires,409 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+82.97.205.61,443,True,EZE,South America,Buenos Aires,410 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+87.120.164.5,443,True,EZE,South America,Buenos Aires,377 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+87.120.164.7,443,True,EZE,South America,Buenos Aires,373 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+87.120.164.62,443,True,EZE,South America,Buenos Aires,377 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+82.97.205.62,443,True,EZE,South America,Buenos Aires,403 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+87.120.164.4,443,True,EZE,South America,Buenos Aires,375 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+87.120.164.6,443,True,EZE,South America,Buenos Aires,373 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+82.97.205.4,443,True,EZE,South America,Buenos Aires,406 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+87.120.164.61,443,True,EZE,South America,Buenos Aires,374 ms,Argentina,Buenos Aires,AR,AS199524 G-Core Labs S.A.
+80.240.124.6,443,True,FOR,South America,Fortaleza,344 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.7,443,True,FOR,South America,Fortaleza,331 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.61,443,True,FOR,South America,Fortaleza,334 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.62,443,True,FOR,South America,Fortaleza,335 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.9,443,True,FOR,South America,Fortaleza,339 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.8,443,True,FOR,South America,Fortaleza,336 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.11,443,True,FOR,South America,Fortaleza,336 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.5,443,True,FOR,South America,Fortaleza,336 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+170.238.234.217,443,True,FOR,South America,Fortaleza,288 ms,Brazil,Fortaleza,BR,AS37468 Angola Cables
+80.240.124.10,443,True,FOR,South America,Fortaleza,340 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+80.240.124.4,443,True,FOR,South America,Fortaleza,342 ms,Brazil,Fortaleza,BR,AS199524 G-Core Labs S.A.
+95.85.92.6,443,True,GIG,South America,Rio de Janeiro,418 ms,Brazil,Rio de Janeiro,BR,AS199524 G-Core Labs S.A.
+95.85.92.8,443,True,GIG,South America,Rio de Janeiro,416 ms,Brazil,Rio de Janeiro,BR,AS199524 G-Core Labs S.A.
+95.85.92.5,443,True,GIG,South America,Rio de Janeiro,418 ms,Brazil,Rio de Janeiro,BR,AS199524 G-Core Labs S.A.
+95.85.92.62,443,True,GIG,South America,Rio de Janeiro,419 ms,Brazil,Rio de Janeiro,BR,AS199524 G-Core Labs S.A.
+95.85.92.7,443,True,GIG,South America,Rio de Janeiro,415 ms,Brazil,Rio de Janeiro,BR,AS199524 G-Core Labs S.A.
+95.85.92.4,443,True,GIG,South America,Rio de Janeiro,420 ms,Brazil,Rio de Janeiro,BR,AS199524 G-Core Labs S.A.
+92.223.12.30,443,True,GRU,South America,São Paulo,407 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.5,443,True,GRU,South America,São Paulo,403 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+193.36.180.5,443,True,GRU,South America,São Paulo,403 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.26,443,True,GRU,South America,São Paulo,403 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.20,443,True,GRU,South America,São Paulo,403 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.25,443,True,GRU,South America,São Paulo,413 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.9,443,True,GRU,South America,São Paulo,403 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.13,443,True,GRU,South America,São Paulo,404 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.27,443,True,GRU,South America,São Paulo,407 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+193.36.180.4,443,True,GRU,South America,São Paulo,402 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+193.36.180.7,443,True,GRU,South America,São Paulo,409 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.4,443,True,GRU,South America,São Paulo,401 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.8,443,True,GRU,South America,São Paulo,406 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.18,443,True,GRU,South America,São Paulo,406 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.11,443,True,GRU,South America,São Paulo,407 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.12,443,True,GRU,South America,São Paulo,398 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.10,443,True,GRU,South America,São Paulo,405 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+193.36.180.6,443,True,GRU,South America,São Paulo,405 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.6,443,True,GRU,South America,São Paulo,400 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+92.223.12.7,443,True,GRU,South America,São Paulo,406 ms,Brazil,São Paulo,BR,AS199524 G-Core Labs S.A.
+181.39.11.210,443,True,GYE,South America,Guayaquil,346 ms,Ecuador,Guayaquil,EC,AS27947 Telconet S.A
+92.223.76.25,443,True,HKG,Asia Pacific,Hong Kong,49 ms,Hong Kong,Hong Kong,HK,AS199524 G-Core Labs S.A.
+92.223.76.20,443,True,HKG,Asia Pacific,Hong Kong,48 ms,Hong Kong,Hong Kong,HK,AS199524 G-Core Labs S.A.
+92.223.76.24,443,True,HKG,Asia Pacific,Hong Kong,44 ms,Hong Kong,Hong Kong,HK,AS199524 G-Core Labs S.A.
+92.223.76.30,443,True,HKG,Asia Pacific,Hong Kong,50 ms,Hong Kong,Hong Kong,HK,AS199524 G-Core Labs S.A.
+92.223.76.23,443,True,HKG,Asia Pacific,Hong Kong,51 ms,Hong Kong,Hong Kong,HK,AS199524 G-Core Labs S.A.
+92.223.118.20,443,True,IAD,North America,Ashburn,272 ms,United States,Ashburn,US,AS199524 G-Core Labs S.A.
+92.223.118.19,443,True,IAD,North America,Ashburn,270 ms,United States,Ashburn,US,AS199524 G-Core Labs S.A.
+92.223.118.15,443,True,IAD,North America,Ashburn,280 ms,United States,Ashburn,US,AS199524 G-Core Labs S.A.
+92.223.118.17,443,True,IAD,North America,Ashburn,275 ms,United States,Ashburn,US,AS199524 G-Core Labs S.A.
+92.223.118.16,443,True,IAD,North America,Ashburn,275 ms,United States,Ashburn,US,AS199524 G-Core Labs S.A.
+92.223.118.14,443,True,IAD,North America,Ashburn,275 ms,United States,Ashburn,US,AS199524 G-Core Labs S.A.
+92.223.61.23,443,True,ICN,Asia Pacific,Seoul,89 ms,South Korea,Seoul,KR,AS199524 G-Core Labs S.A.
+92.223.61.25,443,True,ICN,Asia Pacific,Seoul,86 ms,South Korea,Seoul,KR,AS199524 G-Core Labs S.A.
+92.223.61.24,443,True,ICN,Asia Pacific,Seoul,83 ms,South Korea,Seoul,KR,AS199524 G-Core Labs S.A.
+92.223.61.30,443,True,ICN,Asia Pacific,Seoul,87 ms,South Korea,Seoul,KR,AS199524 G-Core Labs S.A.
+92.223.61.21,443,True,ICN,Asia Pacific,Seoul,86 ms,South Korea,Seoul,KR,AS199524 G-Core Labs S.A.
+92.38.142.21,443,True,IST,Europe,Istanbul,196 ms,Turkey,Istanbul,TR,AS199524 G-Core Labs S.A.
+92.38.142.29,443,True,IST,Europe,Istanbul,211 ms,Turkey,Istanbul,TR,AS199524 G-Core Labs S.A.
+92.38.142.25,443,True,IST,Europe,Istanbul,196 ms,Turkey,Istanbul,TR,AS199524 G-Core Labs S.A.
+92.38.142.30,443,True,IST,Europe,Istanbul,224 ms,Turkey,Istanbul,TR,AS199524 G-Core Labs S.A.
+5.188.133.11,443,True,JNB,Africa,Johannesburg,343 ms,South Africa,Johannesburg,ZA,AS199524 G-Core Labs S.A.
+5.188.133.10,443,True,JNB,Africa,Johannesburg,369 ms,South Africa,Johannesburg,ZA,AS199524 G-Core Labs S.A.
+79.133.108.62,443,True,KBP,Europe,Kyiv,221 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+185.158.211.186,443,True,KBP,Europe,Kyiv,230 ms,Ukraine,Kyiv,UA,AS59613 Ukrainian Backbone Networks LLC
+79.133.108.7,443,True,KBP,Europe,Kyiv,188 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.26,443,True,KBP,Europe,Kyiv,215 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.9,443,True,KBP,Europe,Kyiv,214 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.14,443,True,KBP,Europe,Kyiv,187 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.4,443,True,KBP,Europe,Kyiv,212 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.8,443,True,KBP,Europe,Kyiv,187 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.25,443,True,KBP,Europe,Kyiv,188 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.24,443,True,KBP,Europe,Kyiv,187 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.13,443,True,KBP,Europe,Kyiv,188 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.5,443,True,KBP,Europe,Kyiv,202 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.16,443,True,KBP,Europe,Kyiv,202 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.23,443,True,KBP,Europe,Kyiv,200 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.6,443,True,KBP,Europe,Kyiv,188 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+79.133.108.10,443,True,KBP,Europe,Kyiv,188 ms,Ukraine,Kyiv,UA,AS199524 G-Core Labs S.A.
+31.184.207.8,443,True,KIX,Asia Pacific,Osaka,94 ms,Japan,Osaka,JP,AS199524 G-Core Labs S.A.
+31.184.207.62,443,True,KIX,Asia Pacific,Osaka,91 ms,Japan,Osaka,JP,AS199524 G-Core Labs S.A.
+31.184.207.6,443,True,KIX,Asia Pacific,Osaka,91 ms,Japan,Osaka,JP,AS199524 G-Core Labs S.A.
+31.184.207.7,443,True,KIX,Asia Pacific,Osaka,92 ms,Japan,Osaka,JP,AS199524 G-Core Labs S.A.
+31.184.207.4,443,True,KIX,Asia Pacific,Osaka,99 ms,Japan,Osaka,JP,AS199524 G-Core Labs S.A.
+31.184.207.5,443,True,KIX,Asia Pacific,Osaka,90 ms,Japan,Osaka,JP,AS199524 G-Core Labs S.A.
+102.130.69.141,443,True,LAD,Africa,Luanda,210 ms,Angola,Luanda,AO,AS37468 Angola Cables
+92.38.170.6,443,True,LAX,North America,Los Angeles,211 ms,United States,Los Angeles,US,AS199524 G-Core Labs S.A.
+92.38.170.8,443,True,LAX,North America,Los Angeles,210 ms,United States,Los Angeles,US,AS199524 G-Core Labs S.A.
+92.38.170.7,443,True,LAX,North America,Los Angeles,213 ms,United States,Los Angeles,US,AS199524 G-Core Labs S.A.
+92.38.170.10,443,True,LAX,North America,Los Angeles,215 ms,United States,Los Angeles,US,AS199524 G-Core Labs S.A.
+213.156.151.61,443,True,LIM,South America,Lima,327 ms,Peru,Lima,PE,AS199524 G-Core Labs S.A.
+213.156.151.62,443,True,LIM,South America,Lima,331 ms,Peru,Lima,PE,AS199524 G-Core Labs S.A.
+213.156.151.6,443,True,LIM,South America,Lima,331 ms,Peru,Lima,PE,AS199524 G-Core Labs S.A.
+213.156.151.5,443,True,LIM,South America,Lima,326 ms,Peru,Lima,PE,AS199524 G-Core Labs S.A.
+5.188.126.4,443,True,MAD,Europe,Madrid,173 ms,Spain,Madrid,ES,AS199524 G-Core Labs S.A.
+5.188.126.5,443,True,MAD,Europe,Madrid,171 ms,Spain,Madrid,ES,AS199524 G-Core Labs S.A.
+5.188.126.6,443,True,MAD,Europe,Madrid,172 ms,Spain,Madrid,ES,AS199524 G-Core Labs S.A.
+5.188.126.7,443,True,MAD,Europe,Madrid,171 ms,Spain,Madrid,ES,AS199524 G-Core Labs S.A.
+5.188.126.14,443,True,MAD,Europe,Madrid,202 ms,Spain,Madrid,ES,AS199524 G-Core Labs S.A.
+134.0.219.37,443,True,MCT,Middle East,Muscat,301 ms,Oman,Muscat,OM,AS8529 Oman Telecommunications Company (S.A.O.G)
+134.0.219.26,443,True,MCT,Middle East,Muscat,297 ms,Oman,Muscat,OM,AS8529 Oman Telecommunications Company (S.A.O.G)
+146.185.221.190,443,True,MEL,Oceania,Melbourne,116 ms,Australia,Melbourne,AU,AS199524 G-Core Labs S.A.
+146.185.221.132,443,True,MEL,Oceania,Melbourne,115 ms,Australia,Melbourne,AU,AS199524 G-Core Labs S.A.
+92.223.107.62,443,True,MIA,North America,Miami,271 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.61,443,True,MIA,North America,Miami,281 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.43,443,True,MIA,North America,Miami,282 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.40,443,True,MIA,North America,Miami,273 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.57,443,True,MIA,North America,Miami,267 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.44,443,True,MIA,North America,Miami,273 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.45,443,True,MIA,North America,Miami,272 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.58,443,True,MIA,North America,Miami,274 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.42,443,True,MIA,North America,Miami,276 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.107.56,443,True,MIA,North America,Miami,276 ms,United States,Miami,US,AS199524 G-Core Labs S.A.
+92.223.55.6,443,True,MRS,Europe,Marseille,189 ms,France,Marseille,FR,AS199524 G-Core Labs S.A.
+92.223.55.5,443,True,MRS,Europe,Marseille,189 ms,France,Marseille,FR,AS199524 G-Core Labs S.A.
+92.223.55.4,443,True,MRS,Europe,Marseille,188 ms,France,Marseille,FR,AS199524 G-Core Labs S.A.
+92.223.55.62,443,True,MRS,Europe,Marseille,193 ms,France,Marseille,FR,AS199524 G-Core Labs S.A.
+197.225.145.26,443,True,MRU,Africa,Port Louis,102 ms,Mauritius,Port Louis,MU,AS23889 Mauritius Telecom Ltd
+45.65.8.61,443,True,MSP,North America,Minneapolis,242 ms,United States,Minneapolis,US,AS199524 G-Core Labs S.A.
+45.65.8.62,443,True,MSP,North America,Minneapolis,247 ms,United States,Minneapolis,US,AS199524 G-Core Labs S.A.
+45.65.8.4,443,True,MSP,North America,Minneapolis,243 ms,United States,Minneapolis,US,AS199524 G-Core Labs S.A.
+45.82.101.7,443,True,MXP,Europe,Milan,181 ms,Italy,Milan,IT,AS199524 G-Core Labs S.A.
+45.82.101.8,443,True,MXP,Europe,Milan,180 ms,Italy,Milan,IT,AS199524 G-Core Labs S.A.
+45.82.101.6,443,True,MXP,Europe,Milan,191 ms,Italy,Milan,IT,AS199524 G-Core Labs S.A.
+45.82.101.5,443,True,MXP,Europe,Milan,193 ms,Italy,Milan,IT,AS199524 G-Core Labs S.A.
+45.82.101.9,443,True,MXP,Europe,Milan,168 ms,Italy,Milan,IT,AS199524 G-Core Labs S.A.
+45.82.101.62,443,True,MXP,Europe,Milan,195 ms,Italy,Milan,IT,AS199524 G-Core Labs S.A.
+92.223.63.28,443,True,NRT,Asia Pacific,Tokyo,98 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.26,443,True,NRT,Asia Pacific,Tokyo,102 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.22,443,True,NRT,Asia Pacific,Tokyo,99 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.5,443,True,NRT,Asia Pacific,Tokyo,102 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.9,443,True,NRT,Asia Pacific,Tokyo,99 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.8,443,True,NRT,Asia Pacific,Tokyo,100 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.25,443,True,NRT,Asia Pacific,Tokyo,99 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.10,443,True,NRT,Asia Pacific,Tokyo,100 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.29,443,True,NRT,Asia Pacific,Tokyo,98 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.11,443,True,NRT,Asia Pacific,Tokyo,98 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.4,443,True,NRT,Asia Pacific,Tokyo,97 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.24,443,True,NRT,Asia Pacific,Tokyo,94 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.23,443,True,NRT,Asia Pacific,Tokyo,96 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.27,443,True,NRT,Asia Pacific,Tokyo,96 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.6,443,True,NRT,Asia Pacific,Tokyo,93 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.7,443,True,NRT,Asia Pacific,Tokyo,96 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.63.21,443,True,NRT,Asia Pacific,Tokyo,95 ms,Japan,Tokyo,JP,AS199524 G-Core Labs S.A.
+92.223.68.25,443,True,ORD,North America,Chicago,242 ms,United States,Chicago,US,AS199524 G-Core Labs S.A.
+92.223.68.26,443,True,ORD,North America,Chicago,245 ms,United States,Chicago,US,AS199524 G-Core Labs S.A.
+92.223.68.27,443,True,ORD,North America,Chicago,244 ms,United States,Chicago,US,AS199524 G-Core Labs S.A.
+185.244.209.4,443,True,OSL,Europe,Oslo,190 ms,Norway,Oslo,NO,AS199524 G-Core Labs S.A.
+185.244.209.62,443,True,OSL,Europe,Oslo,191 ms,Norway,Oslo,NO,AS199524 G-Core Labs S.A.
+185.244.209.61,443,True,OSL,Europe,Oslo,177 ms,Norway,Oslo,NO,AS199524 G-Core Labs S.A.
+95.85.69.7,443,True,OTP,Europe,Bucharest,184 ms,Romania,Bucharest,RO,AS199524 G-Core Labs S.A.
+95.85.69.6,443,True,OTP,Europe,Bucharest,197 ms,Romania,Bucharest,RO,AS199524 G-Core Labs S.A.
+95.85.69.62,443,True,OTP,Europe,Bucharest,199 ms,Romania,Bucharest,RO,AS199524 G-Core Labs S.A.
+95.85.69.61,443,True,OTP,Europe,Bucharest,200 ms,Romania,Bucharest,RO,AS199524 G-Core Labs S.A.
+92.223.74.26,443,True,PRG,Europe,Prague,166 ms,Czechia,Prague,CZ,AS199524 G-Core Labs S.A.
+92.223.74.20,443,True,PRG,Europe,Prague,190 ms,Czechia,Prague,CZ,AS199524 G-Core Labs S.A.
+92.223.74.21,443,True,PRG,Europe,Prague,191 ms,Czechia,Prague,CZ,AS199524 G-Core Labs S.A.
+45.82.103.62,443,True,SCL,South America,Santiago,366 ms,Chile,Santiago,CL,AS199524 G-Core Labs S.A.
+45.82.103.6,443,True,SCL,South America,Santiago,359 ms,Chile,Santiago,CL,AS199524 G-Core Labs S.A.
+45.82.103.61,443,True,SCL,South America,Santiago,355 ms,Chile,Santiago,CL,AS199524 G-Core Labs S.A.
+45.82.103.4,443,True,SCL,South America,Santiago,354 ms,Chile,Santiago,CL,AS199524 G-Core Labs S.A.
+45.82.103.5,443,True,SCL,South America,Santiago,360 ms,Chile,Santiago,CL,AS199524 G-Core Labs S.A.
+45.82.103.7,443,True,SCL,South America,Santiago,354 ms,Chile,Santiago,CL,AS199524 G-Core Labs S.A.
+78.111.103.5,443,True,SEA,North America,Seattle,224 ms,United States,Seattle,US,AS199524 G-Core Labs S.A.
+78.111.103.4,443,True,SEA,North America,Seattle,217 ms,United States,Seattle,US,AS199524 G-Core Labs S.A.
+78.111.103.62,443,True,SEA,North America,Seattle,225 ms,United States,Seattle,US,AS199524 G-Core Labs S.A.
+78.111.103.61,443,True,SEA,North America,Seattle,223 ms,United States,Seattle,US,AS199524 G-Core Labs S.A.
+92.223.116.253,443,True,SIN,Asia Pacific,Singapore,28 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.254,443,True,SIN,Asia Pacific,Singapore,28 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.220,443,True,SIN,Asia Pacific,Singapore,28 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.222,443,True,SIN,Asia Pacific,Singapore,29 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.223,443,True,SIN,Asia Pacific,Singapore,30 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.207,443,True,SIN,Asia Pacific,Singapore,28 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.221,443,True,SIN,Asia Pacific,Singapore,27 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.205,443,True,SIN,Asia Pacific,Singapore,27 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.203,443,True,SIN,Asia Pacific,Singapore,27 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+92.223.116.224,443,True,SIN,Asia Pacific,Singapore,27 ms,Singapore,Singapore,SG,AS199524 G-Core Labs S.A.
+5.101.219.5,443,True,SOF,Europe,Sofia,208 ms,Bulgaria,Sofia,BG,AS199524 G-Core Labs S.A.
+5.101.219.6,443,True,SOF,Europe,Sofia,209 ms,Bulgaria,Sofia,BG,AS199524 G-Core Labs S.A.
+5.101.219.14,443,True,SOF,Europe,Sofia,211 ms,Bulgaria,Sofia,BG,AS199524 G-Core Labs S.A.
+92.223.78.22,443,True,SYD,Oceania,Sydney,114 ms,Australia,Sydney,AU,AS199524 G-Core Labs S.A.
+92.223.78.30,443,True,SYD,Oceania,Sydney,113 ms,Australia,Sydney,AU,AS199524 G-Core Labs S.A.
+92.223.78.23,443,True,SYD,Oceania,Sydney,113 ms,Australia,Sydney,AU,AS199524 G-Core Labs S.A.
+46.49.10.229,443,True,TBS,Europe,Tbilisi,237 ms,Georgia,Tbilisi,GE,AS16010 Magticom Ltd.
+92.223.92.25,443,True,WAW,Europe,Warsaw,176 ms,Poland,Warsaw,PL,AS199524 G-Core Labs S.A.
+92.223.92.26,443,True,WAW,Europe,Warsaw,176 ms,Poland,Warsaw,PL,AS199524 G-Core Labs S.A.
+92.223.92.30,443,True,WAW,Europe,Warsaw,177 ms,Poland,Warsaw,PL,AS199524 G-Core Labs S.A.
+92.223.92.24,443,True,WAW,Europe,Warsaw,199 ms,Poland,Warsaw,PL,AS199524 G-Core Labs S.A.
+92.223.92.23,443,True,WAW,Europe,Warsaw,200 ms,Poland,Warsaw,PL,AS199524 G-Core Labs S.A.
+92.223.92.22,443,True,WAW,Europe,Warsaw,174 ms,Poland,Warsaw,PL,AS199524 G-Core Labs S.A.
+5.101.222.14,443,True,YYZ,North America,Toronto,274 ms,Canada,Toronto,CA,AS199524 G-Core Labs S.A.
+5.101.222.13,443,True,YYZ,North America,Toronto,268 ms,Canada,Toronto,CA,AS199524 G-Core Labs S.A.
+5.101.222.4,443,True,YYZ,North America,Toronto,266 ms,Canada,Toronto,CA,AS199524 G-Core Labs S.A.
+5.101.222.5,443,True,YYZ,North America,Toronto,265 ms,Canada,Toronto,CA,AS199524 G-Core Labs S.A.
