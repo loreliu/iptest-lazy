@@ -2,6 +2,7 @@ import os
 import requests
 import zipfile
 
+
 def download_file(url, save_path):
     try:
         response = requests.get(url)
@@ -17,10 +18,12 @@ def download_file(url, save_path):
         print("An error occurred:", e)
     return False
 
+
 def unzip_file(zip_path, extract_folder):
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         zip_ref.extractall(extract_folder)
         print("Extracted files to:", extract_folder)
+
 
 def merge_ip_files():
     ip_files = []
@@ -44,6 +47,7 @@ def merge_ip_files():
                             ip_output.write(f'{ip_port}\n')
             # os.remove(ip_file)  # Delete the original txt file
 
+
 if __name__ == "__main__":
     url = "https://zip.baipiao.eu.org"  # 修改为你需要下载的压缩文件的 URL
     save_path = os.path.join(os.path.dirname(__file__), "downloaded_file.zip")  # 修改保存路径和文件名
@@ -54,4 +58,3 @@ if __name__ == "__main__":
         unzip_file(save_path, extract_folder)
         os.remove(save_path)  # 删除下载的压缩文件
         merge_ip_files()
-

@@ -9,7 +9,7 @@ if "%speedtest_count%"=="" set "speedtest_count=5"
 if "%test_option%"=="" set "test_option=1"
 
 set "speedtest_url=speed.bestip.one/__down?bytes=50000000"
-set "tcptest_url=www.bing.com" 
+set "tcptest_url=api.gyue.cn.eu.org" 
 
 if "%test_option%"=="1" (
     set "test_tls=true"

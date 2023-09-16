@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"context"
 	"encoding/csv"
 	"encoding/json"
 	"flag"
@@ -26,13 +27,13 @@ const (
 )
 
 var (
-	File         = flag.String("file", "ip.txt", "IP地址文件名称,格式为 ip port ,就是IP和端口之间用空格隔开")   // IP地址文件名称
-	outFile      = flag.String("outfile", "ip.csv", "输出文件名称")                              // 输出文件名称
-	maxThreads   = flag.Int("max", 100, "并发请求最大协程数")                                       // 最大协程数
-	speedTest    = flag.Int("speedtest", 5, "下载测速协程数量,设为0禁用测速")                            // 下载测速协程数量
-	speedTestURL = flag.String("url", "speed.bestip.one/__down?bytes=500000000", "测速文件地址") // 测速文件地址
-	enableTLS    = flag.Bool("tls", true, "是否启用TLS")                                       // TLS是否启用
-	TCPurl       = flag.String("tcpurl", "www.speedtest.net", "TCP请求地址")                   // TCP请求地址
+	File         = flag.String("file", "ip.txt", "IP地址文件名称,格式为 ip port ,就是IP和端口之间用空格隔开")  // IP地址文件名称
+	outFile      = flag.String("outfile", "ip.csv", "输出文件名称")                             // 输出文件名称
+	maxThreads   = flag.Int("max", 200, "并发请求最大协程数")                                      // 最大协程数
+	speedTest    = flag.Int("speedtest", 10, "下载测速协程数量,设为0禁用测速")                          // 下载测速协程数量
+	speedTestURL = flag.String("url", "speed.bestip.one/__down?bytes=50000000", "测速文件地址") // 测速文件地址
+	enableTLS    = flag.Bool("tls", false, "是否启用TLS")                                     // TLS是否启用
+	TCPurl       = flag.String("tcpurl", "speed.bestip.one", "TCP请求地址")                   // TCP请求地址
 )
 
 type result struct {
@@ -70,7 +71,26 @@ func increaseMaxOpenFiles() {
 		fmt.Printf("文件描述符上限已提升!\n")
 	}
 }
+func ConvertToIP(cidrs string) ([]string, error) {
+	var result []string
+	ip, ipnet, err := net.ParseCIDR(cidrs)
+	if err != nil {
+		return nil, err
+	}
+	for ip := ip.Mask(ipnet.Mask); ipnet.Contains(ip); inc(ip) {
+		result = append(result, ip.String())
+	}
 
+	return result, nil
+}
+func inc(ip net.IP) {
+	for j := len(ip) - 1; j >= 0; j-- {
+		ip[j]++
+		if ip[j] > 0 {
+			break
+		}
+	}
+}
 func main() {
 	flag.Parse()
 
@@ -244,13 +264,14 @@ func main() {
 			// 添加用户代理
 			req.Header.Set("User-Agent", "Mozilla/5.0")
 			req.Close = true
+			// 使用context设置超时时间
+			ctx, cancel := context.WithTimeout(context.Background(), maxDuration)
+			defer cancel()
+
+			req = req.WithContext(ctx)
+
 			resp, err := client.Do(req)
 			if err != nil {
-				return
-			}
-
-			duration := time.Since(start)
-			if duration > maxDuration {
 				return
 			}
 
@@ -260,24 +281,40 @@ func main() {
 
 				}
 			}(resp.Body)
-			body, err := io.ReadAll(resp.Body)
-			if err != nil {
+			duration := time.Since(start)
+			if duration > maxDuration {
+				return
+			}
+			// 使用io.ReadAll读取响应，并设置超时处理
+			bodyCh := make(chan []byte, 1)
+			go func() {
+				body, err := io.ReadAll(resp.Body)
+				if err != nil {
+					fmt.Println(err)
+					return
+				}
+				bodyCh <- body
+			}()
+			select {
+			case body := <-bodyCh:
+				if strings.Contains(string(body), "uag=Mozilla/5.0") {
+					if matches := regexp.MustCompile(`colo=([A-Z]+)`).FindStringSubmatch(string(body)); len(matches) > 1 {
+						dataCenter := matches[1]
+						loc, ok := locationMap[dataCenter]
+						if ok {
+							fmt.Printf("发现有效IP %s 端口 %d 位置信息 %s 延迟 %d 毫秒\n", ipAddr, port, loc.City, tcpDuration.Milliseconds())
+							resultChan <- result{ipAddr, port, dataCenter, loc.Region, loc.City, fmt.Sprintf("%d ms", tcpDuration.Milliseconds()), tcpDuration}
+						} else {
+							fmt.Printf("发现有效IP %s 端口 %d 位置信息未知 延迟 %d 毫秒\n", ipAddr, port, tcpDuration.Milliseconds())
+							resultChan <- result{ipAddr, port, dataCenter, "", "", fmt.Sprintf("%d ms", tcpDuration.Milliseconds()), tcpDuration}
+						}
+					}
+				}
+			case <-ctx.Done():
+				//fmt.Println("Request timed out while reading response")
 				return
 			}
 
-			if strings.Contains(string(body), "uag=Mozilla/5.0") {
-				if matches := regexp.MustCompile(`colo=([A-Z]+)`).FindStringSubmatch(string(body)); len(matches) > 1 {
-					dataCenter := matches[1]
-					loc, ok := locationMap[dataCenter]
-					if ok {
-						fmt.Printf("发现有效IP %s 端口 %d 位置信息 %s 延迟 %d 毫秒\n", ipAddr, port, loc.City, tcpDuration.Milliseconds())
-						resultChan <- result{ipAddr, port, dataCenter, loc.Region, loc.City, fmt.Sprintf("%d ms", tcpDuration.Milliseconds()), tcpDuration}
-					} else {
-						fmt.Printf("发现有效IP %s 端口 %d 位置信息未知 延迟 %d 毫秒\n", ipAddr, port, tcpDuration.Milliseconds())
-						resultChan <- result{ipAddr, port, dataCenter, "", "", fmt.Sprintf("%d ms", tcpDuration.Milliseconds()), tcpDuration}
-					}
-				}
-			}
 		}(ip)
 	}
 
@@ -392,15 +429,19 @@ func readIPs(File string) ([]string, error) {
 		}
 		ipAddr := parts[0]
 		portStr := parts[1]
-
 		port, err := strconv.Atoi(portStr)
 		if err != nil {
 			fmt.Printf("端口格式错误: %s\n", portStr)
 			continue
 		}
-
+		//ipAddrs, err := ConvertToIP(ipAddr)
+		//if err != nil {
+		//	continue
+		//}
+		//for _, ipAddr := range ipAddrs {
 		ip := fmt.Sprintf("%s %d", ipAddr, port)
 		ips = append(ips, ip)
+		//}
 	}
 	return ips, scanner.Err()
 }
