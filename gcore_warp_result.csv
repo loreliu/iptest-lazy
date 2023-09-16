@@ -1,0 +1,11 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟
+185.105.1.10,443,true,BOM,Asia Pacific,Mumbai,4 ms
+185.105.1.14,443,true,BOM,Asia Pacific,Mumbai,5 ms
+103.211.151.21,443,true,KTM,Asia Pacific,Kathmandu,5 ms
+103.211.151.21,443,true,KTM,Asia Pacific,Kathmandu,6 ms
+185.105.1.10,443,true,BOM,Asia Pacific,Mumbai,11 ms
+93.123.17.144,443,true,AMS,Europe,Amsterdam,224 ms
+5.101.217.4,443,true,BUD,Europe,Budapest,239 ms
+80.240.113.10,443,true,ARN,Europe,Stockholm,521 ms
+92.223.112.12,443,true,LUX,Europe,Luxembourg City,525 ms
+180.149.90.66,443,true,ULN,Asia Pacific,Ulaanbaatar,653 ms
