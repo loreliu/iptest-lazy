@@ -15,3 +15,11 @@ type gcore-3.csv >> merged.txt
 type gcore-4.csv >> merged.txt
 type gcore.csv >> merged.txt
 ```
+
+```bash
+type gcore_tls_result_0.csv >> gcore_tls_result.csv
+type gcore_tls_result_1.csv >> gcore_tls_result.csv
+type gcore_tls_result_2.csv >> gcore_tls_result.csv
+type gcore_tls_result_3.csv >> gcore_tls_result.csv
+type gcore_tls_result_4.csv >> gcore_tls_result.csv
+```

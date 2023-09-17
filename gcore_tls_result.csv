@@ -1,4 +1,4 @@
-﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟
+IP地址,端口,TLS,数据中心,地区,城市,网络延迟
 5.252.26.6,443,true,SIN,Asia Pacific,Singapore,7 ms
 5.252.26.11,443,true,SIN,Asia Pacific,Singapore,7 ms
 5.252.26.61,443,true,SIN,Asia Pacific,Singapore,7 ms
@@ -433,3 +433,1785 @@
 95.85.92.6,443,true,GIG,South America,Rio de Janeiro,416 ms
 92.223.12.6,443,true,GRU,South America,São Paulo,419 ms
 95.85.92.4,443,true,GIG,South America,Rio de Janeiro,419 ms
+92.223.124.16,443,true,FRA,Europe,Frankfurt,4 ms
+92.223.124.28,443,true,FRA,Europe,Frankfurt,4 ms
+92.223.124.29,443,true,DME,Europe,Moscow,4 ms
+92.223.124.17,443,true,FRA,Europe,Frankfurt,4 ms
+92.223.124.26,443,true,FRA,Europe,Frankfurt,4 ms
+92.223.124.49,443,true,FRA,Europe,Frankfurt,4 ms
+93.123.17.254,443,true,AMS,Europe,Amsterdam,4 ms
+93.123.17.136,443,true,AMS,Europe,Amsterdam,4 ms
+92.223.124.34,443,true,FRA,Europe,Frankfurt,4 ms
+93.123.17.135,443,true,AMS,Europe,Amsterdam,4 ms
+93.123.17.143,443,true,AMS,Europe,Amsterdam,4 ms
+92.223.124.24,443,true,FRA,Europe,Frankfurt,4 ms
+92.223.124.32,443,true,FRA,Europe,Frankfurt,4 ms
+93.123.17.137,443,true,AMS,Europe,Amsterdam,5 ms
+92.223.124.37,443,true,DME,Europe,Moscow,5 ms
+93.123.17.142,443,true,AMS,Europe,Amsterdam,5 ms
+93.123.17.148,443,true,AMS,Europe,Amsterdam,5 ms
+93.123.17.144,443,true,AMS,Europe,Amsterdam,5 ms
+92.223.124.22,443,true,FRA,Europe,Frankfurt,5 ms
+92.223.124.45,443,true,FRA,Europe,Frankfurt,5 ms
+93.123.17.151,443,true,AMS,Europe,Amsterdam,5 ms
+92.223.124.62,443,true,FRA,Europe,Frankfurt,5 ms
+93.123.17.147,443,true,AMS,Europe,Amsterdam,5 ms
+93.123.17.132,443,true,AMS,Europe,Amsterdam,5 ms
+93.123.17.145,443,true,FRA,Europe,Frankfurt,5 ms
+93.123.17.138,443,true,AMS,Europe,Amsterdam,5 ms
+93.123.17.253,443,true,AMS,Europe,Amsterdam,6 ms
+93.123.17.159,443,true,AMS,Europe,Amsterdam,6 ms
+92.223.124.44,443,true,FRA,Europe,Frankfurt,6 ms
+93.123.17.133,443,true,AMS,Europe,Amsterdam,6 ms
+93.123.17.146,443,true,AMS,Europe,Amsterdam,6 ms
+92.223.124.30,443,true,DME,Europe,Moscow,6 ms
+92.223.124.23,443,true,FRA,Europe,Frankfurt,7 ms
+93.123.17.150,443,true,AMS,Europe,Amsterdam,8 ms
+92.223.124.31,443,true,DME,Europe,Moscow,8 ms
+92.223.112.62,443,true,LUX,Europe,Luxembourg City,8 ms
+93.123.11.14,443,true,LHR,Europe,London,9 ms
+93.123.11.12,443,true,LHR,Europe,London,9 ms
+93.123.17.141,443,true,AMS,Europe,Amsterdam,9 ms
+92.223.124.48,443,true,FRA,Europe,Frankfurt,9 ms
+93.123.11.13,443,true,LHR,Europe,London,9 ms
+93.123.17.139,443,true,AMS,Europe,Amsterdam,10 ms
+92.223.112.12,443,true,LUX,Europe,Luxembourg City,10 ms
+92.223.124.25,443,true,FRA,Europe,Frankfurt,11 ms
+93.123.11.61,443,true,LHR,Europe,London,11 ms
+92.223.74.26,443,true,PRG,Europe,Prague,12 ms
+92.223.124.43,443,true,FRA,Europe,Frankfurt,12 ms
+94.176.183.7,443,true,CDG,Europe,Paris,12 ms
+94.176.183.5,443,true,CDG,Europe,Paris,13 ms
+94.176.183.12,443,true,CDG,Europe,Paris,13 ms
+93.123.17.134,443,true,AMS,Europe,Amsterdam,13 ms
+94.176.183.8,443,true,CDG,Europe,Paris,13 ms
+93.123.17.140,443,true,AMS,Europe,Amsterdam,13 ms
+92.223.124.61,443,true,DME,Europe,Moscow,13 ms
+45.82.101.7,443,true,MXP,Europe,Milan,14 ms
+94.176.183.62,443,true,CDG,Europe,Paris,14 ms
+92.223.74.20,443,true,PRG,Europe,Prague,14 ms
+92.223.112.28,443,true,LUX,Europe,Luxembourg City,15 ms
+45.82.101.6,443,true,MXP,Europe,Milan,17 ms
+92.223.74.21,443,true,PRG,Europe,Prague,17 ms
+94.176.183.61,443,true,CDG,Europe,Paris,17 ms
+80.240.113.13,443,true,ARN,Europe,Stockholm,17 ms
+92.223.124.33,443,true,FRA,Europe,Frankfurt,18 ms
+80.240.113.9,443,true,ARN,Europe,Stockholm,18 ms
+80.240.113.10,443,true,ARN,Europe,Stockholm,18 ms
+80.240.113.14,443,true,ARN,Europe,Stockholm,18 ms
+80.240.113.4,443,true,ARN,Europe,Stockholm,19 ms
+80.240.113.61,443,true,ARN,Europe,Stockholm,19 ms
+92.223.92.26,443,true,WAW,Europe,Warsaw,19 ms
+92.223.92.25,443,true,WAW,Europe,Warsaw,19 ms
+45.82.101.9,443,true,MXP,Europe,Milan,19 ms
+92.223.55.6,443,true,MRS,Europe,Marseille,20 ms
+92.223.124.15,443,true,FRA,Europe,Frankfurt,20 ms
+92.223.92.22,443,true,WAW,Europe,Warsaw,21 ms
+92.223.55.5,443,true,MRS,Europe,Marseille,21 ms
+92.223.55.62,443,true,MRS,Europe,Marseille,22 ms
+80.240.113.11,443,true,ARN,Europe,Stockholm,22 ms
+93.123.11.62,443,true,LHR,Europe,London,22 ms
+80.240.113.62,443,true,ARN,Europe,Stockholm,23 ms
+185.244.209.62,443,true,OSL,Europe,Oslo,23 ms
+45.82.101.5,443,true,MXP,Europe,Milan,23 ms
+80.240.113.6,443,true,ARN,Europe,Stockholm,24 ms
+92.223.92.23,443,true,WAW,Europe,Warsaw,24 ms
+80.240.113.5,443,true,ARN,Europe,Stockholm,25 ms
+45.82.101.8,443,true,MXP,Europe,Milan,25 ms
+5.101.217.4,443,true,BUD,Europe,Budapest,25 ms
+80.240.113.7,443,true,ARN,Europe,Stockholm,26 ms
+94.176.183.11,443,true,CDG,Europe,Paris,26 ms
+185.244.209.4,443,true,OSL,Europe,Oslo,27 ms
+92.223.92.30,443,true,WAW,Europe,Warsaw,27 ms
+80.240.113.12,443,true,ARN,Europe,Stockholm,28 ms
+185.249.133.4,443,true,PRG,Europe,Prague,29 ms
+45.82.101.62,443,true,MXP,Europe,Milan,29 ms
+5.101.219.14,443,true,SOF,Europe,Sofia,29 ms
+93.123.38.4,443,true,RIX,Europe,Riga,29 ms
+213.156.156.4,443,true,DUB,Europe,Dublin,30 ms
+95.85.69.62,443,true,OTP,Europe,Bucharest,30 ms
+92.223.55.4,443,true,MRS,Europe,Marseille,30 ms
+213.156.156.61,443,true,DUB,Europe,Dublin,30 ms
+194.44.246.206,443,true,WAW,Europe,Warsaw,30 ms
+5.188.7.12,443,true,KLD,Europe,Tver,30 ms
+95.85.69.6,443,true,OTP,Europe,Bucharest,31 ms
+95.85.69.61,443,true,OTP,Europe,Bucharest,31 ms
+5.101.219.6,443,true,SOF,Europe,Sofia,31 ms
+95.85.69.7,443,true,OTP,Europe,Bucharest,31 ms
+5.188.7.61,443,true,KLD,Europe,Tver,32 ms
+79.133.108.13,443,true,KBP,Europe,Kyiv,32 ms
+79.133.108.23,443,true,KBP,Europe,Kyiv,33 ms
+79.133.108.15,443,true,KBP,Europe,Kyiv,33 ms
+79.133.108.9,443,true,KBP,Europe,Kyiv,33 ms
+79.133.108.5,443,true,KBP,Europe,Kyiv,33 ms
+79.133.108.6,443,true,KBP,Europe,Kyiv,33 ms
+79.133.108.7,443,true,KBP,Europe,Kyiv,34 ms
+5.101.219.5,443,true,SOF,Europe,Sofia,34 ms
+79.133.108.8,443,true,KBP,Europe,Kyiv,34 ms
+79.133.108.16,443,true,KBP,Europe,Kyiv,34 ms
+92.223.124.36,443,true,FRA,Europe,Frankfurt,35 ms
+185.244.209.61,443,true,OSL,Europe,Oslo,36 ms
+79.133.108.14,443,true,KBP,Europe,Kyiv,36 ms
+79.133.108.4,443,true,KBP,Europe,Kyiv,36 ms
+197.215.140.235,443,true,MRS,Europe,Marseille,36 ms
+79.133.108.17,443,true,KBP,Europe,Kyiv,36 ms
+5.188.126.6,443,true,MAD,Europe,Madrid,37 ms
+80.240.113.8,443,true,ARN,Europe,Stockholm,37 ms
+93.123.38.5,443,true,RIX,Europe,Riga,38 ms
+195.22.198.49,443,true,PMO,Europe,Palermo,38 ms
+213.156.156.5,443,true,DUB,Europe,Dublin,38 ms
+92.38.142.21,443,true,IST,Europe,Istanbul,38 ms
+79.133.108.10,443,true,KBP,Europe,Kyiv,38 ms
+79.133.108.24,443,true,KBP,Europe,Kyiv,39 ms
+91.243.87.4,443,true,KIV,Europe,Chișinău,39 ms
+92.38.142.25,443,true,IST,Europe,Istanbul,40 ms
+91.243.87.5,443,true,KIV,Europe,Chișinău,41 ms
+202.78.162.5,443,true,IST,Europe,Istanbul,42 ms
+92.38.142.29,443,true,IST,Europe,Istanbul,42 ms
+202.78.162.4,443,true,IST,Europe,Istanbul,42 ms
+93.123.11.11,443,true,LHR,Europe,London,43 ms
+185.158.211.186,443,true,KBP,Europe,Kyiv,43 ms
+93.123.38.62,443,true,RIX,Europe,Riga,43 ms
+92.223.92.24,443,true,WAW,Europe,Warsaw,44 ms
+5.188.126.5,443,true,MAD,Europe,Madrid,44 ms
+79.133.108.25,443,true,KBP,Europe,Kyiv,44 ms
+80.93.210.4,443,true,ATH,Europe,Athens,45 ms
+202.78.162.62,443,true,IST,Europe,Istanbul,45 ms
+197.215.140.234,443,true,MRS,Europe,Marseille,46 ms
+5.188.126.4,443,true,MAD,Europe,Madrid,47 ms
+5.188.126.14,443,true,MAD,Europe,Madrid,47 ms
+79.133.108.62,443,true,KBP,Europe,Kyiv,48 ms
+94.176.183.6,443,true,CDG,Europe,Paris,48 ms
+202.78.162.61,443,true,IST,Europe,Istanbul,48 ms
+202.78.162.6,443,true,IST,Europe,Istanbul,50 ms
+5.188.126.7,443,true,MAD,Europe,Madrid,50 ms
+92.38.142.30,443,true,IST,Europe,Istanbul,52 ms
+79.133.108.26,443,true,KBP,Europe,Kyiv,55 ms
+91.243.87.62,443,true,OTP,Europe,Bucharest,55 ms
+45.82.100.4,443,true,EVN,Middle East,Yerevan,57 ms
+45.82.100.62,443,true,EVN,Middle East,Yerevan,58 ms
+195.14.146.81,443,true,LCA,Europe,Nicosia,61 ms
+45.82.100.5,443,true,EVN,Middle East,Yerevan,64 ms
+45.82.100.61,443,true,EVN,Middle East,Yerevan,64 ms
+46.49.10.229,443,true,TBS,Europe,Tbilisi,65 ms
+151.248.104.91,443,true,RUH,Middle East,Riyadh,66 ms
+94.43.206.202,443,true,TBS,Europe,Tbilisi,66 ms
+92.223.47.4,443,true,MRS,Europe,Marseille,68 ms
+213.156.156.62,443,true,DUB,Europe,Dublin,69 ms
+92.223.47.62,443,true,MRS,Europe,Marseille,70 ms
+5.188.94.5,443,true,TLV,Middle East,Tel Aviv,70 ms
+92.223.47.61,443,true,MRS,Europe,Marseille,71 ms
+213.244.64.66,443,true,ZDM,Middle East,Ramallah,71 ms
+185.188.144.61,443,true,ARN,Europe,Stockholm,73 ms
+82.213.5.50,443,true,ZDM,Middle East,Ramallah,74 ms
+130.193.166.2,443,true,EBL,Middle East,Erbil,74 ms
+185.188.144.5,443,true,ARN,Europe,Stockholm,75 ms
+92.38.168.13,443,true,EWR,North America,Newark,79 ms
+92.38.168.14,443,true,EWR,North America,Newark,79 ms
+185.188.144.7,443,true,ARN,Europe,Stockholm,79 ms
+92.38.168.5,443,true,EWR,North America,Newark,80 ms
+185.188.144.8,443,true,ARN,Europe,Stockholm,81 ms
+185.188.144.62,443,true,ARN,Europe,Stockholm,81 ms
+185.188.144.4,443,true,ARN,Europe,Stockholm,83 ms
+5.189.207.14,443,true,ALA,Asia Pacific,Almaty,86 ms
+185.76.48.122,443,true,FRA,Europe,Frankfurt,87 ms
+193.169.250.62,443,true,DME,Europe,Moscow,88 ms
+195.216.237.201,443,true,DME,Europe,Moscow,88 ms
+5.189.207.5,443,true,ALA,Asia Pacific,Almaty,89 ms
+92.38.168.7,443,true,EWR,North America,Newark,89 ms
+195.216.237.199,443,true,DME,Europe,Moscow,89 ms
+195.216.237.203,443,true,DME,Europe,Moscow,93 ms
+5.188.132.5,443,true,HKG,Asia Pacific,Hong Kong,93 ms
+80.93.223.4,443,true,BOS,North America,Boston,95 ms
+5.189.207.4,443,true,ALA,Asia Pacific,Almaty,96 ms
+195.216.237.221,443,true,DME,Europe,Moscow,96 ms
+151.248.104.69,443,true,KWI,Middle East,Kuwait City,96 ms
+92.223.68.27,443,true,ORD,North America,Chicago,97 ms
+92.223.118.20,443,true,IAD,North America,Ashburn,97 ms
+92.223.68.30,443,true,ORD,North America,Chicago,98 ms
+92.223.68.25,443,true,ORD,North America,Chicago,99 ms
+5.188.132.14,443,true,HKG,Asia Pacific,Hong Kong,99 ms
+37.110.209.228,443,true,HKG,Asia Pacific,Hong Kong,99 ms
+92.223.118.14,443,true,IAD,North America,Ashburn,99 ms
+80.93.223.61,443,true,BOS,North America,Boston,100 ms
+92.223.118.17,443,true,IAD,North America,Ashburn,100 ms
+92.223.118.19,443,true,IAD,North America,Ashburn,100 ms
+109.68.233.242,443,true,SVX,Asia Pacific,Yekaterinburg,101 ms
+193.169.250.4,443,true,DME,Europe,Moscow,101 ms
+5.101.222.14,443,true,YYZ,North America,Toronto,101 ms
+5.101.222.5,443,true,YYZ,North America,Toronto,101 ms
+92.223.118.15,443,true,IAD,North America,Ashburn,102 ms
+5.101.222.13,443,true,YYZ,North America,Toronto,102 ms
+45.65.8.4,443,true,MSP,North America,Minneapolis,102 ms
+185.215.162.226,443,true,DME,Europe,Moscow,102 ms
+92.223.68.26,443,true,ORD,North America,Chicago,103 ms
+193.169.250.5,443,true,DME,Europe,Moscow,103 ms
+185.48.136.150,443,true,DME,Europe,Moscow,104 ms
+195.216.237.222,443,true,DME,Europe,Moscow,106 ms
+102.67.99.66,443,true,LIS,Europe,Lisbon,106 ms
+62.209.27.232,443,true,RUH,Middle East,Riyadh,106 ms
+92.223.118.16,443,true,IAD,North America,Ashburn,107 ms
+92.38.159.4,443,true,ATL,North America,Atlanta,107 ms
+94.128.12.238,443,true,KWI,Middle East,Kuwait City,109 ms
+5.101.222.4,443,true,YYZ,North America,Toronto,109 ms
+180.149.90.66,443,true,ULN,Asia Pacific,Ulaanbaatar,109 ms
+82.200.205.204,443,true,ALA,Asia Pacific,Almaty,110 ms
+92.38.159.14,443,true,ATL,North America,Atlanta,110 ms
+150.107.126.61,443,true,PMO,Europe,Palermo,111 ms
+195.216.237.197,443,true,DME,Europe,Moscow,111 ms
+92.38.159.5,443,true,ATL,North America,Atlanta,112 ms
+197.148.108.106,443,true,JNB,Africa,Johannesburg,115 ms
+150.107.126.62,443,true,LHR,Europe,London,115 ms
+92.223.107.62,443,true,MIA,North America,Miami,115 ms
+45.65.8.62,443,true,MSP,North America,Minneapolis,116 ms
+150.107.126.4,443,true,PMO,Europe,Palermo,117 ms
+92.223.107.61,443,true,MIA,North America,Miami,119 ms
+92.223.107.40,443,true,MIA,North America,Miami,119 ms
+102.67.99.50,443,true,LIS,Europe,Lisbon,120 ms
+92.223.107.45,443,true,MIA,North America,Miami,121 ms
+80.93.221.62,443,true,DEN,North America,Denver,123 ms
+80.93.221.61,443,true,DEN,North America,Denver,124 ms
+185.101.136.29,443,true,DFW,North America,Dallas,124 ms
+92.223.107.56,443,true,MIA,North America,Miami,125 ms
+185.101.136.7,443,true,DFW,North America,Dallas,125 ms
+134.0.219.26,443,true,MCT,Middle East,Muscat,127 ms
+80.93.223.62,443,true,BOS,North America,Boston,127 ms
+92.223.107.58,443,true,MIA,North America,Miami,127 ms
+185.101.136.12,443,true,DFW,North America,Dallas,128 ms
+185.101.136.30,443,true,DFW,North America,Dallas,129 ms
+45.65.8.61,443,true,MSP,North America,Minneapolis,130 ms
+82.148.98.42,443,true,DOH,Middle East,Doha,131 ms
+185.101.136.8,443,true,DFW,North America,Dallas,132 ms
+5.8.92.5,443,true,MFE,North America,McAllen,132 ms
+92.223.107.44,443,true,MIA,North America,Miami,132 ms
+5.8.92.62,443,true,MFE,North America,McAllen,132 ms
+5.8.92.4,443,true,IAH,North America,Houston,133 ms
+92.223.107.43,443,true,MIA,North America,Miami,134 ms
+80.93.221.4,443,true,DEN,North America,Denver,134 ms
+185.105.1.10,443,true,BOM,Asia Pacific,Mumbai,136 ms
+185.101.136.13,443,true,DFW,North America,Dallas,136 ms
+78.111.103.62,443,true,SEA,North America,Seattle,138 ms
+5.8.92.6,443,true,IAH,North America,Houston,140 ms
+78.111.103.5,443,true,SEA,North America,Seattle,141 ms
+185.105.1.14,443,true,BOM,Asia Pacific,Mumbai,141 ms
+89.223.90.4,443,true,CDG,Europe,Paris,142 ms
+92.223.107.57,443,true,MIA,North America,Miami,143 ms
+78.111.103.4,443,true,SEA,North America,Seattle,145 ms
+213.156.144.7,443,true,IAH,North America,Houston,145 ms
+213.156.144.6,443,true,QRO,North America,Queretaro,145 ms
+213.156.144.62,443,true,QRO,North America,Queretaro,147 ms
+213.156.144.5,443,true,QRO,North America,Queretaro,147 ms
+92.223.107.42,443,true,MIA,North America,Miami,147 ms
+92.223.120.10,443,true,SJC,North America,San Jose,148 ms
+92.223.120.12,443,true,SJC,North America,San Jose,148 ms
+92.223.120.13,443,true,SJC,North America,San Jose,149 ms
+134.0.219.37,443,true,MCT,Middle East,Muscat,149 ms
+185.163.3.62,443,true,HKG,Asia Pacific,Hong Kong,150 ms
+185.163.3.4,443,true,RUH,Middle East,Riyadh,151 ms
+80.240.124.11,443,true,FOR,South America,Fortaleza,152 ms
+80.240.124.5,443,true,FOR,South America,Fortaleza,152 ms
+80.240.124.8,443,true,FOR,South America,Fortaleza,152 ms
+80.240.124.4,443,true,FOR,South America,Fortaleza,153 ms
+92.223.120.15,443,true,SJC,North America,San Jose,153 ms
+80.240.124.10,443,true,FOR,South America,Fortaleza,153 ms
+78.111.103.61,443,true,SEA,North America,Seattle,153 ms
+78.111.101.62,443,true,CPT,Africa,Cape Town,153 ms
+87.120.106.4,443,true,MDE,South America,Medellín,154 ms
+80.240.124.7,443,true,FOR,South America,Fortaleza,155 ms
+92.38.170.6,443,true,LAX,North America,Los Angeles,155 ms
+87.120.106.61,443,true,MDE,South America,Medellín,155 ms
+80.240.124.9,443,true,FOR,South America,Fortaleza,155 ms
+92.223.116.220,443,true,SIN,Asia Pacific,Singapore,156 ms
+80.240.124.61,443,true,FOR,South America,Fortaleza,156 ms
+80.240.124.6,443,true,FOR,South America,Fortaleza,156 ms
+92.38.170.10,443,true,LAX,North America,Los Angeles,156 ms
+92.38.170.7,443,true,LAX,North America,Los Angeles,158 ms
+87.120.106.5,443,true,MDE,South America,Medellín,158 ms
+92.223.120.14,443,true,SJC,North America,San Jose,158 ms
+179.51.50.82,443,true,MIA,North America,Miami,161 ms
+213.156.144.4,443,true,IAH,North America,Houston,161 ms
+87.120.106.9,443,true,BOG,South America,Bogotá,162 ms
+87.120.106.62,443,true,MDE,South America,Medellín,163 ms
+80.93.215.6,443,true,MDE,South America,Medellín,163 ms
+87.120.106.11,443,true,MDE,South America,Medellín,164 ms
+213.156.151.6,443,true,LIM,South America,Lima,165 ms
+213.156.151.5,443,true,LIM,South America,Lima,165 ms
+78.111.101.4,443,true,CPT,Africa,Cape Town,165 ms
+92.223.116.254,443,true,SIN,Asia Pacific,Singapore,166 ms
+92.38.170.8,443,true,LAX,North America,Los Angeles,166 ms
+213.156.151.4,443,true,LIM,South America,Lima,167 ms
+181.174.80.182,443,true,MIA,North America,Miami,167 ms
+213.156.151.61,443,true,SCL,South America,Santiago,168 ms
+213.156.151.62,443,true,LIM,South America,Lima,168 ms
+80.93.215.61,443,true,MDE,South America,Medellín,168 ms
+200.10.177.54,443,true,MIA,North America,Miami,168 ms
+102.68.141.74,443,true,DUR,Africa,Durban,168 ms
+185.101.136.9,443,true,DFW,North America,Dallas,169 ms
+87.120.106.8,443,true,MDE,South America,Medellín,169 ms
+92.223.116.205,443,true,SIN,Asia Pacific,Singapore,170 ms
+92.223.116.224,443,true,SIN,Asia Pacific,Singapore,170 ms
+179.0.200.126,443,true,GUA,North America,Guatemala City,171 ms
+43.245.140.2,443,true,DAC,Asia Pacific,Dhaka,172 ms
+92.223.116.203,443,true,SIN,Asia Pacific,Singapore,173 ms
+92.223.116.221,443,true,SIN,Asia Pacific,Singapore,173 ms
+92.223.76.25,443,true,HKG,Asia Pacific,Hong Kong,173 ms
+92.223.76.23,443,true,HKG,Asia Pacific,Hong Kong,173 ms
+80.93.215.5,443,true,MDE,South America,Medellín,175 ms
+92.223.76.24,443,true,HKG,Asia Pacific,Hong Kong,175 ms
+80.93.215.4,443,true,MDE,South America,Medellín,177 ms
+80.93.215.62,443,true,MDE,South America,Medellín,178 ms
+185.163.3.61,443,true,HKG,Asia Pacific,Hong Kong,178 ms
+78.111.101.61,443,true,CPT,Africa,Cape Town,178 ms
+170.238.234.217,443,true,FOR,South America,Fortaleza,180 ms
+217.76.64.195,443,true,ALA,Asia Pacific,Almaty,180 ms
+80.93.215.7,443,true,MDE,South America,Medellín,182 ms
+92.223.76.20,443,true,HKG,Asia Pacific,Hong Kong,182 ms
+181.39.11.210,443,true,GYE,South America,Guayaquil,185 ms
+80.240.124.62,443,true,FOR,South America,Fortaleza,188 ms
+190.95.248.34,443,true,GYE,South America,Guayaquil,188 ms
+102.130.69.141,443,true,LAD,Africa,Luanda,188 ms
+213.156.144.61,443,true,QRO,North America,Queretaro,188 ms
+92.223.116.253,443,true,SIN,Asia Pacific,Singapore,190 ms
+103.211.151.21,443,true,KTM,Asia Pacific,Kathmandu,190 ms
+92.223.116.207,443,true,SIN,Asia Pacific,Singapore,190 ms
+92.223.116.222,443,true,SIN,Asia Pacific,Singapore,190 ms
+5.188.133.10,443,true,JNB,Africa,Johannesburg,191 ms
+92.223.12.25,443,true,GRU,South America,São Paulo,191 ms
+92.223.12.6,443,true,GRU,South America,São Paulo,192 ms
+45.82.103.5,443,true,SCL,South America,Santiago,192 ms
+45.82.103.4,443,true,SCL,South America,Santiago,192 ms
+45.82.103.6,443,true,SCL,South America,Santiago,192 ms
+92.223.116.223,443,true,SIN,Asia Pacific,Singapore,193 ms
+92.223.12.20,443,true,GRU,South America,São Paulo,195 ms
+92.223.12.7,443,true,GRU,South America,São Paulo,195 ms
+171.229.196.136,443,true,SIN,Asia Pacific,Singapore,195 ms
+92.223.12.27,443,true,GRU,South America,São Paulo,195 ms
+92.223.12.26,443,true,GRU,South America,São Paulo,195 ms
+92.223.12.13,443,true,GRU,South America,São Paulo,196 ms
+92.223.12.8,443,true,GRU,South America,São Paulo,196 ms
+45.82.103.61,443,true,SCL,South America,Santiago,197 ms
+95.85.92.5,443,true,GIG,South America,Rio de Janeiro,197 ms
+95.85.92.4,443,true,GIG,South America,Rio de Janeiro,197 ms
+92.223.76.30,443,true,HKG,Asia Pacific,Hong Kong,198 ms
+171.229.196.135,443,true,SIN,Asia Pacific,Singapore,199 ms
+171.234.242.198,443,true,HKG,Asia Pacific,Hong Kong,199 ms
+95.85.92.7,443,true,GIG,South America,Rio de Janeiro,200 ms
+171.229.196.133,443,true,SIN,Asia Pacific,Singapore,200 ms
+45.82.103.62,443,true,SCL,South America,Santiago,201 ms
+95.85.92.6,443,true,GIG,South America,Rio de Janeiro,201 ms
+92.223.12.12,443,true,GRU,South America,São Paulo,201 ms
+92.223.12.18,443,true,GRU,South America,São Paulo,203 ms
+197.188.22.102,443,true,CPT,Africa,Cape Town,205 ms
+95.85.92.62,443,true,GIG,South America,Rio de Janeiro,205 ms
+92.223.61.30,443,true,ICN,Asia Pacific,Seoul,206 ms
+171.229.196.134,443,true,SIN,Asia Pacific,Singapore,206 ms
+171.229.196.137,443,true,SIN,Asia Pacific,Singapore,207 ms
+87.120.164.62,443,true,EZE,South America,Buenos Aires,212 ms
+87.120.164.61,443,true,EZE,South America,Buenos Aires,212 ms
+95.85.92.8,443,true,GIG,South America,Rio de Janeiro,213 ms
+87.120.164.4,443,true,EZE,South America,Buenos Aires,213 ms
+87.120.164.6,443,true,EZE,South America,Buenos Aires,213 ms
+41.210.189.22,443,true,JNB,Africa,Johannesburg,213 ms
+5.188.133.11,443,true,JNB,Africa,Johannesburg,213 ms
+45.82.103.7,443,true,SCL,South America,Santiago,214 ms
+171.229.196.132,443,true,SIN,Asia Pacific,Singapore,214 ms
+92.223.12.9,443,true,GRU,South America,São Paulo,215 ms
+87.120.164.7,443,true,EZE,South America,Buenos Aires,215 ms
+92.223.12.11,443,true,GRU,South America,São Paulo,215 ms
+92.223.12.30,443,true,GRU,South America,São Paulo,216 ms
+193.36.180.5,443,true,GRU,South America,São Paulo,216 ms
+87.120.164.5,443,true,EZE,South America,Buenos Aires,216 ms
+193.36.180.7,443,true,GRU,South America,São Paulo,218 ms
+92.223.12.4,443,true,GRU,South America,São Paulo,219 ms
+92.223.12.5,443,true,GRU,South America,São Paulo,219 ms
+92.223.12.10,443,true,GRU,South America,São Paulo,220 ms
+171.229.196.138,443,true,SIN,Asia Pacific,Singapore,221 ms
+193.36.180.4,443,true,GRU,South America,São Paulo,223 ms
+82.97.205.62,443,true,EZE,South America,Buenos Aires,224 ms
+92.223.61.23,443,true,ICN,Asia Pacific,Seoul,227 ms
+92.223.61.24,443,true,ICN,Asia Pacific,Seoul,228 ms
+92.223.61.21,443,true,ICN,Asia Pacific,Seoul,228 ms
+193.36.180.6,443,true,GRU,South America,São Paulo,229 ms
+171.234.242.195,443,true,HKG,Asia Pacific,Hong Kong,230 ms
+82.97.205.4,443,true,EZE,South America,Buenos Aires,231 ms
+82.97.205.61,443,true,EZE,South America,Buenos Aires,233 ms
+92.223.63.8,443,true,NRT,Asia Pacific,Tokyo,237 ms
+92.223.63.10,443,true,NRT,Asia Pacific,Tokyo,237 ms
+31.184.207.62,443,true,KIX,Asia Pacific,Osaka,238 ms
+120.28.10.46,443,true,SIN,Asia Pacific,Singapore,238 ms
+31.184.207.5,443,true,KIX,Asia Pacific,Osaka,240 ms
+171.234.242.197,443,true,HKG,Asia Pacific,Hong Kong,240 ms
+31.184.207.4,443,true,KIX,Asia Pacific,Osaka,242 ms
+92.223.63.11,443,true,NRT,Asia Pacific,Tokyo,242 ms
+92.223.63.23,443,true,NRT,Asia Pacific,Tokyo,243 ms
+31.184.207.6,443,true,KIX,Asia Pacific,Osaka,243 ms
+31.184.207.8,443,true,KIX,Asia Pacific,Osaka,243 ms
+92.223.63.22,443,true,NRT,Asia Pacific,Tokyo,245 ms
+31.184.207.7,443,true,KIX,Asia Pacific,Osaka,245 ms
+82.97.205.5,443,true,EZE,South America,Buenos Aires,245 ms
+186.16.19.94,443,true,ASU,South America,Asunción,249 ms
+92.223.63.28,443,true,NRT,Asia Pacific,Tokyo,250 ms
+92.223.78.23,443,true,SYD,Oceania,Sydney,252 ms
+92.223.63.25,443,true,NRT,Asia Pacific,Tokyo,255 ms
+5.252.26.10,443,true,SIN,Asia Pacific,Singapore,255 ms
+92.223.63.6,443,true,NRT,Asia Pacific,Tokyo,259 ms
+5.252.26.4,443,true,SIN,Asia Pacific,Singapore,260 ms
+92.223.63.27,443,true,NRT,Asia Pacific,Tokyo,260 ms
+92.223.78.30,443,true,SYD,Oceania,Sydney,263 ms
+92.223.63.26,443,true,NRT,Asia Pacific,Tokyo,263 ms
+1.37.77.98,443,true,MNL,Asia Pacific,Manila,264 ms
+92.223.63.24,443,true,NRT,Asia Pacific,Tokyo,269 ms
+118.103.136.245,443,true,SIN,Asia Pacific,Singapore,270 ms
+92.223.78.22,443,true,SYD,Oceania,Sydney,270 ms
+5.252.26.5,443,true,SIN,Asia Pacific,Singapore,270 ms
+5.252.26.8,443,true,SIN,Asia Pacific,Singapore,272 ms
+5.252.26.61,443,true,SIN,Asia Pacific,Singapore,273 ms
+197.225.145.26,443,true,MRU,Africa,Port Louis,275 ms
+5.252.26.11,443,true,SIN,Asia Pacific,Singapore,279 ms
+5.252.26.6,443,true,SIN,Asia Pacific,Singapore,279 ms
+92.223.63.4,443,true,NRT,Asia Pacific,Tokyo,280 ms
+5.252.26.9,443,true,SIN,Asia Pacific,Singapore,282 ms
+5.252.26.7,443,true,SIN,Asia Pacific,Singapore,286 ms
+146.185.221.132,443,true,MEL,Oceania,Melbourne,286 ms
+146.185.221.190,443,true,MEL,Oceania,Melbourne,287 ms
+5.252.26.62,443,true,SIN,Asia Pacific,Singapore,289 ms
+92.223.63.21,443,true,NRT,Asia Pacific,Tokyo,315 ms
+92.223.63.9,443,true,NRT,Asia Pacific,Tokyo,363 ms
+92.223.63.7,443,true,NRT,Asia Pacific,Tokyo,376 ms
+92.223.63.29,443,true,NRT,Asia Pacific,Tokyo,406 ms
+92.223.116.223,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.203,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.221,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.220,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.205,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.207,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.253,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.222,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.254,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.224,443,true,SIN,Asia Pacific,Singapore,1 ms
+5.252.26.62,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.11,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.7,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.4,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.10,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.6,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.61,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.5,443,true,SIN,Asia Pacific,Singapore,26 ms
+92.223.76.24,443,true,HKG,Asia Pacific,Hong Kong,34 ms
+92.223.76.23,443,true,HKG,Asia Pacific,Hong Kong,37 ms
+92.223.76.25,443,true,HKG,Asia Pacific,Hong Kong,38 ms
+171.234.242.197,443,true,HKG,Asia Pacific,Hong Kong,38 ms
+120.28.10.46,443,true,MNL,Asia Pacific,Manila,39 ms
+171.229.196.136,443,true,SIN,Asia Pacific,Singapore,40 ms
+171.229.196.135,443,true,SIN,Asia Pacific,Singapore,41 ms
+92.223.76.20,443,true,HKG,Asia Pacific,Hong Kong,42 ms
+92.223.76.30,443,true,HKG,Asia Pacific,Hong Kong,45 ms
+171.229.196.137,443,true,SIN,Asia Pacific,Singapore,45 ms
+171.234.242.195,443,true,HKG,Asia Pacific,Hong Kong,46 ms
+171.229.196.134,443,true,SIN,Asia Pacific,Singapore,47 ms
+171.229.196.132,443,true,SIN,Asia Pacific,Singapore,47 ms
+171.229.196.133,443,true,SIN,Asia Pacific,Singapore,47 ms
+43.245.140.2,443,true,DAC,Asia Pacific,Dhaka,49 ms
+171.229.196.138,443,true,SIN,Asia Pacific,Singapore,52 ms
+185.105.1.14,443,true,BOM,Asia Pacific,Mumbai,57 ms
+171.234.242.199,443,true,HKG,Asia Pacific,Hong Kong,58 ms
+171.234.242.198,443,true,HKG,Asia Pacific,Hong Kong,65 ms
+92.223.63.24,443,true,NRT,Asia Pacific,Tokyo,65 ms
+92.223.63.22,443,true,NRT,Asia Pacific,Tokyo,69 ms
+92.223.63.5,443,true,NRT,Asia Pacific,Tokyo,70 ms
+5.252.26.8,443,true,SIN,Asia Pacific,Singapore,71 ms
+31.184.207.62,443,true,KIX,Asia Pacific,Osaka,72 ms
+92.223.63.9,443,true,NRT,Asia Pacific,Tokyo,73 ms
+92.223.63.25,443,true,NRT,Asia Pacific,Tokyo,73 ms
+92.223.63.6,443,true,NRT,Asia Pacific,Tokyo,73 ms
+92.223.63.23,443,true,NRT,Asia Pacific,Tokyo,74 ms
+89.223.90.4,443,true,CDG,Europe,Paris,74 ms
+92.223.63.29,443,true,NRT,Asia Pacific,Tokyo,75 ms
+92.223.63.7,443,true,NRT,Asia Pacific,Tokyo,76 ms
+92.223.63.10,443,true,NRT,Asia Pacific,Tokyo,76 ms
+118.103.136.245,443,true,SIN,Asia Pacific,Singapore,76 ms
+92.223.63.26,443,true,NRT,Asia Pacific,Tokyo,76 ms
+31.184.207.6,443,true,KIX,Asia Pacific,Osaka,76 ms
+92.223.63.27,443,true,NRT,Asia Pacific,Tokyo,79 ms
+31.184.207.7,443,true,KIX,Asia Pacific,Osaka,79 ms
+92.223.63.28,443,true,NRT,Asia Pacific,Tokyo,79 ms
+31.184.207.5,443,true,KIX,Asia Pacific,Osaka,81 ms
+180.149.90.66,443,true,ULN,Asia Pacific,Ulaanbaatar,82 ms
+31.184.207.8,443,true,KIX,Asia Pacific,Osaka,82 ms
+92.223.61.21,443,true,ICN,Asia Pacific,Seoul,82 ms
+31.184.207.4,443,true,KIX,Asia Pacific,Osaka,82 ms
+103.211.151.21,443,true,KTM,Asia Pacific,Kathmandu,82 ms
+92.223.63.11,443,true,NRT,Asia Pacific,Tokyo,82 ms
+92.223.63.8,443,true,NRT,Asia Pacific,Tokyo,83 ms
+92.223.63.4,443,true,NRT,Asia Pacific,Tokyo,84 ms
+92.223.61.30,443,true,ICN,Asia Pacific,Seoul,85 ms
+82.148.98.42,443,true,DOH,Middle East,Doha,86 ms
+92.223.61.25,443,true,ICN,Asia Pacific,Seoul,87 ms
+92.223.61.24,443,true,ICN,Asia Pacific,Seoul,88 ms
+92.223.78.23,443,true,SYD,Oceania,Sydney,92 ms
+92.223.78.30,443,true,SYD,Oceania,Sydney,92 ms
+92.223.78.22,443,true,SYD,Oceania,Sydney,92 ms
+185.163.3.62,443,true,RUH,Middle East,Riyadh,93 ms
+185.163.3.4,443,true,HKG,Asia Pacific,Hong Kong,93 ms
+92.223.61.23,443,true,ICN,Asia Pacific,Seoul,95 ms
+185.163.3.61,443,true,RUH,Middle East,Riyadh,95 ms
+185.105.1.10,443,true,BOM,Asia Pacific,Mumbai,97 ms
+92.223.63.21,443,true,NRT,Asia Pacific,Tokyo,99 ms
+62.209.27.232,443,true,RUH,Middle East,Riyadh,111 ms
+94.128.12.238,443,true,KWI,Middle East,Kuwait City,124 ms
+5.188.132.5,443,true,HKG,Asia Pacific,Hong Kong,126 ms
+5.188.132.14,443,true,HKG,Asia Pacific,Hong Kong,127 ms
+92.223.55.62,443,true,MRS,Europe,Marseille,137 ms
+92.223.55.5,443,true,MRS,Europe,Marseille,140 ms
+92.223.55.4,443,true,MRS,Europe,Marseille,142 ms
+92.223.124.36,443,true,FRA,Europe,Frankfurt,148 ms
+92.223.124.25,443,true,FRA,Europe,Frankfurt,148 ms
+92.223.124.43,443,true,DME,Europe,Moscow,148 ms
+92.223.124.29,443,true,FRA,Europe,Frankfurt,150 ms
+92.223.124.61,443,true,FRA,Europe,Frankfurt,151 ms
+92.223.124.44,443,true,FRA,Europe,Frankfurt,151 ms
+92.223.124.49,443,true,FRA,Europe,Frankfurt,151 ms
+92.223.124.24,443,true,FRA,Europe,Frankfurt,151 ms
+92.223.124.37,443,true,DME,Europe,Moscow,151 ms
+92.223.124.17,443,true,DME,Europe,Moscow,151 ms
+92.223.124.22,443,true,FRA,Europe,Frankfurt,151 ms
+92.223.124.26,443,true,DME,Europe,Moscow,152 ms
+92.223.124.31,443,true,FRA,Europe,Frankfurt,152 ms
+92.223.112.28,443,true,LUX,Europe,Luxembourg City,152 ms
+92.223.124.15,443,true,FRA,Europe,Frankfurt,152 ms
+92.223.124.35,443,true,FRA,Europe,Frankfurt,152 ms
+92.223.124.48,443,true,FRA,Europe,Frankfurt,152 ms
+93.123.17.138,443,true,AMS,Europe,Amsterdam,153 ms
+92.223.124.23,443,true,FRA,Europe,Frankfurt,153 ms
+93.123.17.139,443,true,AMS,Europe,Amsterdam,154 ms
+92.223.124.62,443,true,FRA,Europe,Frankfurt,154 ms
+93.123.17.136,443,true,AMS,Europe,Amsterdam,154 ms
+93.123.17.148,443,true,AMS,Europe,Amsterdam,154 ms
+92.223.112.62,443,true,LUX,Europe,Luxembourg City,155 ms
+92.223.112.12,443,true,LUX,Europe,Luxembourg City,155 ms
+93.123.17.151,443,true,AMS,Europe,Amsterdam,155 ms
+92.223.124.16,443,true,FRA,Europe,Frankfurt,156 ms
+93.123.17.145,443,true,AMS,Europe,Amsterdam,157 ms
+92.223.124.34,443,true,FRA,Europe,Frankfurt,157 ms
+93.123.17.133,443,true,AMS,Europe,Amsterdam,157 ms
+93.123.17.253,443,true,AMS,Europe,Amsterdam,157 ms
+92.223.124.33,443,true,FRA,Europe,Frankfurt,157 ms
+93.123.17.254,443,true,AMS,Europe,Amsterdam,158 ms
+93.123.17.147,443,true,AMS,Europe,Amsterdam,159 ms
+93.123.17.159,443,true,AMS,Europe,Amsterdam,159 ms
+93.123.17.137,443,true,AMS,Europe,Amsterdam,160 ms
+93.123.17.143,443,true,AMS,Europe,Amsterdam,160 ms
+93.123.17.146,443,true,AMS,Europe,Amsterdam,160 ms
+93.123.17.132,443,true,AMS,Europe,Amsterdam,160 ms
+93.123.17.141,443,true,AMS,Europe,Amsterdam,161 ms
+93.123.17.150,443,true,FRA,Europe,Frankfurt,161 ms
+93.123.11.14,443,true,LHR,Europe,London,161 ms
+93.123.11.12,443,true,LHR,Europe,London,163 ms
+92.223.92.22,443,true,WAW,Europe,Warsaw,164 ms
+92.223.92.23,443,true,WAW,Europe,Warsaw,164 ms
+92.223.92.30,443,true,WAW,Europe,Warsaw,164 ms
+92.223.92.26,443,true,WAW,Europe,Warsaw,165 ms
+93.123.17.134,443,true,AMS,Europe,Amsterdam,165 ms
+92.223.92.24,443,true,WAW,Europe,Warsaw,166 ms
+92.223.92.25,443,true,WAW,Europe,Warsaw,166 ms
+92.223.120.13,443,true,SJC,North America,San Jose,166 ms
+93.123.11.61,443,true,LHR,Europe,London,166 ms
+213.156.156.4,443,true,DUB,Europe,Dublin,170 ms
+92.223.120.15,443,true,SJC,North America,San Jose,171 ms
+217.76.64.195,443,true,ALA,Asia Pacific,Almaty,171 ms
+92.223.120.10,443,true,SJC,North America,San Jose,171 ms
+92.223.120.12,443,true,SJC,North America,San Jose,172 ms
+213.156.156.5,443,true,DUB,Europe,Dublin,172 ms
+213.156.156.61,443,true,DUB,Europe,Dublin,173 ms
+213.156.156.62,443,true,DUB,Europe,Dublin,174 ms
+92.38.170.8,443,true,LAX,North America,Los Angeles,175 ms
+195.22.198.49,443,true,PMO,Europe,Palermo,177 ms
+92.223.120.14,443,true,SJC,North America,San Jose,177 ms
+195.14.146.81,443,true,LCA,Europe,Nicosia,179 ms
+37.110.209.228,443,true,HKG,Asia Pacific,Hong Kong,181 ms
+82.200.205.204,443,true,ALA,Asia Pacific,Almaty,183 ms
+92.38.170.10,443,true,LAX,North America,Los Angeles,186 ms
+92.223.124.32,443,true,FRA,Europe,Frankfurt,190 ms
+92.223.55.6,443,true,MRS,Europe,Marseille,193 ms
+92.223.124.45,443,true,DME,Europe,Moscow,194 ms
+92.38.170.6,443,true,LAX,North America,Los Angeles,197 ms
+80.93.221.62,443,true,DEN,North America,Denver,199 ms
+93.123.17.144,443,true,AMS,Europe,Amsterdam,199 ms
+92.223.124.28,443,true,FRA,Europe,Frankfurt,199 ms
+93.123.17.135,443,true,AMS,Europe,Amsterdam,199 ms
+93.123.17.140,443,true,AMS,Europe,Amsterdam,199 ms
+102.130.69.141,443,true,LAD,Africa,Luanda,199 ms
+93.123.17.142,443,true,AMS,Europe,Amsterdam,199 ms
+80.93.221.61,443,true,DEN,North America,Denver,200 ms
+197.225.145.26,443,true,MRU,Africa,Port Louis,201 ms
+92.223.124.30,443,true,DME,Europe,Moscow,201 ms
+78.111.103.4,443,true,SEA,North America,Seattle,202 ms
+194.44.246.206,443,true,WAW,Europe,Warsaw,203 ms
+78.111.103.5,443,true,SEA,North America,Seattle,204 ms
+146.185.221.190,443,true,MEL,Oceania,Melbourne,204 ms
+80.93.221.4,443,true,DEN,North America,Denver,206 ms
+92.38.170.7,443,true,LAX,North America,Los Angeles,206 ms
+78.111.103.61,443,true,SEA,North America,Seattle,208 ms
+5.8.92.62,443,true,MFE,North America,McAllen,213 ms
+92.223.68.26,443,true,ORD,North America,Chicago,214 ms
+146.185.221.132,443,true,MEL,Oceania,Melbourne,214 ms
+130.193.166.2,443,true,EBL,Middle East,Erbil,215 ms
+46.49.10.229,443,true,TBS,Europe,Tbilisi,216 ms
+185.101.136.9,443,true,DFW,North America,Dallas,217 ms
+92.223.68.27,443,true,ORD,North America,Chicago,217 ms
+92.223.68.30,443,true,ORD,North America,Chicago,217 ms
+185.101.136.12,443,true,DFW,North America,Dallas,217 ms
+78.111.103.62,443,true,SEA,North America,Seattle,218 ms
+185.101.136.7,443,true,DFW,North America,Dallas,221 ms
+195.216.237.222,443,true,DME,Europe,Moscow,222 ms
+185.101.136.13,443,true,DFW,North America,Dallas,223 ms
+5.8.92.5,443,true,MFE,North America,McAllen,224 ms
+185.101.136.29,443,true,DFW,North America,Dallas,224 ms
+80.93.223.4,443,true,BOS,North America,Boston,224 ms
+5.8.92.6,443,true,IAH,North America,Houston,225 ms
+185.101.136.8,443,true,DFW,North America,Dallas,225 ms
+213.156.144.61,443,true,MFE,North America,McAllen,225 ms
+195.216.237.199,443,true,DME,Europe,Moscow,226 ms
+213.156.144.7,443,true,QRO,North America,Queretaro,226 ms
+195.216.237.197,443,true,DME,Europe,Moscow,228 ms
+92.38.168.5,443,true,EWR,North America,Newark,228 ms
+92.223.118.15,443,true,IAD,North America,Ashburn,228 ms
+45.65.8.4,443,true,MSP,North America,Minneapolis,228 ms
+92.223.68.25,443,true,ORD,North America,Chicago,228 ms
+93.123.11.13,443,true,LHR,Europe,London,230 ms
+45.82.101.9,443,true,MXP,Europe,Milan,231 ms
+45.65.8.62,443,true,MSP,North America,Minneapolis,231 ms
+5.8.92.4,443,true,IAH,North America,Houston,233 ms
+45.82.101.6,443,true,MXP,Europe,Milan,234 ms
+93.123.11.62,443,true,LHR,Europe,London,234 ms
+5.101.222.13,443,true,YYZ,North America,Toronto,235 ms
+80.93.223.61,443,true,BOS,North America,Boston,235 ms
+185.215.162.226,443,true,DME,Europe,Moscow,236 ms
+92.38.168.14,443,true,EWR,North America,Newark,236 ms
+92.38.168.13,443,true,EWR,North America,Newark,237 ms
+94.176.183.7,443,true,CDG,Europe,Paris,237 ms
+5.189.207.14,443,true,ALA,Asia Pacific,Almaty,237 ms
+94.176.183.11,443,true,CDG,Europe,Paris,237 ms
+92.223.118.16,443,true,IAD,North America,Ashburn,237 ms
+5.189.207.5,443,true,ALA,Asia Pacific,Almaty,237 ms
+213.156.144.62,443,true,QRO,North America,Queretaro,238 ms
+92.223.118.20,443,true,IAD,North America,Ashburn,238 ms
+92.223.74.21,443,true,PRG,Europe,Prague,238 ms
+5.101.222.4,443,true,YYZ,North America,Toronto,239 ms
+5.189.207.4,443,true,ALA,Asia Pacific,Almaty,240 ms
+213.156.144.4,443,true,QRO,North America,Queretaro,240 ms
+92.38.168.7,443,true,EWR,North America,Newark,240 ms
+185.48.136.150,443,true,DME,Europe,Moscow,241 ms
+5.101.222.5,443,true,YYZ,North America,Toronto,242 ms
+151.248.104.91,443,true,RUH,Middle East,Riyadh,242 ms
+5.101.222.14,443,true,YYZ,North America,Toronto,242 ms
+92.223.107.62,443,true,MIA,North America,Miami,242 ms
+92.223.107.61,443,true,MIA,North America,Miami,243 ms
+92.223.118.14,443,true,IAD,North America,Ashburn,243 ms
+92.223.107.43,443,true,MIA,North America,Miami,243 ms
+94.176.183.6,443,true,CDG,Europe,Paris,243 ms
+93.123.11.11,443,true,LHR,Europe,London,244 ms
+80.93.223.62,443,true,BOS,North America,Boston,244 ms
+92.38.159.5,443,true,ATL,North America,Atlanta,245 ms
+92.223.118.19,443,true,IAD,North America,Ashburn,247 ms
+1.37.77.98,443,true,MNL,Asia Pacific,Manila,247 ms
+45.82.101.7,443,true,MXP,Europe,Milan,248 ms
+102.67.99.66,443,true,LIS,Europe,Lisbon,248 ms
+92.223.107.42,443,true,MIA,North America,Miami,248 ms
+213.156.144.5,443,true,IAH,North America,Houston,248 ms
+92.223.107.58,443,true,MIA,North America,Miami,249 ms
+213.156.144.6,443,true,QRO,North America,Queretaro,249 ms
+92.223.107.45,443,true,MIA,North America,Miami,250 ms
+5.188.126.6,443,true,MAD,Europe,Madrid,250 ms
+92.223.118.17,443,true,IAD,North America,Ashburn,251 ms
+185.101.136.30,443,true,DFW,North America,Dallas,251 ms
+92.223.107.56,443,true,MIA,North America,Miami,251 ms
+134.0.219.37,443,true,MCT,Middle East,Muscat,251 ms
+5.188.126.4,443,true,MAD,Europe,Madrid,252 ms
+92.223.74.26,443,true,PRG,Europe,Prague,254 ms
+92.223.107.40,443,true,MIA,North America,Miami,254 ms
+92.223.74.20,443,true,PRG,Europe,Prague,254 ms
+92.223.107.44,443,true,MIA,North America,Miami,254 ms
+92.38.159.14,443,true,ATL,North America,Atlanta,256 ms
+5.101.219.6,443,true,SOF,Europe,Sofia,257 ms
+95.85.69.61,443,true,OTP,Europe,Bucharest,257 ms
+5.188.126.7,443,true,MAD,Europe,Madrid,258 ms
+92.38.159.4,443,true,ATL,North America,Atlanta,258 ms
+134.0.219.26,443,true,MCT,Middle East,Muscat,259 ms
+181.174.80.182,443,true,MIA,North America,Miami,260 ms
+92.38.142.21,443,true,IST,Europe,Istanbul,261 ms
+95.85.69.6,443,true,OTP,Europe,Bucharest,262 ms
+92.223.107.57,443,true,MIA,North America,Miami,262 ms
+45.82.101.8,443,true,MXP,Europe,Milan,263 ms
+197.215.140.234,443,true,MRS,Europe,Marseille,264 ms
+5.101.219.14,443,true,SOF,Europe,Sofia,264 ms
+45.82.101.5,443,true,MXP,Europe,Milan,264 ms
+92.38.142.25,443,true,IST,Europe,Istanbul,265 ms
+92.38.142.29,443,true,IST,Europe,Istanbul,266 ms
+102.67.99.50,443,true,LIS,Europe,Lisbon,266 ms
+5.101.219.5,443,true,SOF,Europe,Sofia,268 ms
+95.85.69.7,443,true,OTP,Europe,Bucharest,268 ms
+213.244.64.66,443,true,ZDM,Middle East,Ramallah,269 ms
+91.243.87.62,443,true,FRA,Europe,Frankfurt,269 ms
+5.188.7.61,443,true,KLD,Europe,Tver,270 ms
+179.51.50.82,443,true,MIA,North America,Miami,272 ms
+45.82.101.62,443,true,MXP,Europe,Milan,273 ms
+197.215.140.235,443,true,MRS,Europe,Marseille,274 ms
+185.158.211.186,443,true,KBP,Europe,Kyiv,274 ms
+45.82.100.5,443,true,EVN,Middle East,Yerevan,274 ms
+202.78.162.6,443,true,IST,Europe,Istanbul,275 ms
+202.78.162.62,443,true,IST,Europe,Istanbul,278 ms
+92.223.47.62,443,true,MRS,Europe,Marseille,278 ms
+45.82.100.61,443,true,EVN,Middle East,Yerevan,278 ms
+92.38.142.30,443,true,IST,Europe,Istanbul,279 ms
+45.82.100.62,443,true,EVN,Middle East,Yerevan,279 ms
+91.243.87.5,443,true,FRA,Europe,Frankfurt,280 ms
+82.213.5.50,443,true,ZDM,Middle East,Ramallah,280 ms
+92.223.47.61,443,true,MRS,Europe,Marseille,281 ms
+185.76.48.122,443,true,FRA,Europe,Frankfurt,285 ms
+179.0.200.126,443,true,GUA,North America,Guatemala City,286 ms
+202.78.162.5,443,true,IST,Europe,Istanbul,287 ms
+202.78.162.61,443,true,IST,Europe,Istanbul,289 ms
+45.65.8.61,443,true,MSP,North America,Minneapolis,289 ms
+202.78.162.4,443,true,IST,Europe,Istanbul,291 ms
+87.120.106.4,443,true,BOG,South America,Bogotá,292 ms
+80.93.215.62,443,true,MDE,South America,Medellín,293 ms
+92.223.47.4,443,true,MRS,Europe,Marseille,293 ms
+80.93.215.61,443,true,MDE,South America,Medellín,293 ms
+80.93.215.6,443,true,BOG,South America,Bogotá,294 ms
+87.120.106.8,443,true,MDE,South America,Medellín,295 ms
+213.156.151.61,443,true,SCL,South America,Santiago,295 ms
+80.93.215.5,443,true,BOG,South America,Bogotá,296 ms
+87.120.106.11,443,true,MDE,South America,Medellín,296 ms
+80.93.215.4,443,true,MDE,South America,Medellín,297 ms
+87.120.106.61,443,true,MDE,South America,Medellín,297 ms
+87.120.106.62,443,true,MDE,South America,Medellín,298 ms
+5.188.94.5,443,true,TLV,Middle East,Tel Aviv,299 ms
+213.156.151.62,443,true,LIM,South America,Lima,299 ms
+170.238.234.217,443,true,FOR,South America,Fortaleza,299 ms
+80.93.215.7,443,true,MDE,South America,Medellín,299 ms
+190.95.248.34,443,true,GYE,South America,Guayaquil,300 ms
+87.120.106.5,443,true,MDE,South America,Medellín,300 ms
+213.156.151.5,443,true,LIM,South America,Lima,300 ms
+80.240.124.61,443,true,FOR,South America,Fortaleza,301 ms
+200.10.177.54,443,true,MIA,North America,Miami,301 ms
+80.240.124.7,443,true,FOR,South America,Fortaleza,301 ms
+45.82.100.4,443,true,EVN,Middle East,Yerevan,302 ms
+87.120.106.9,443,true,MDE,South America,Medellín,302 ms
+213.156.151.4,443,true,SCL,South America,Santiago,303 ms
+80.240.124.8,443,true,FOR,South America,Fortaleza,304 ms
+193.169.250.62,443,true,DME,Europe,Moscow,305 ms
+80.240.124.62,443,true,FOR,South America,Fortaleza,306 ms
+80.240.124.5,443,true,FOR,South America,Fortaleza,306 ms
+151.248.104.69,443,true,RUH,Middle East,Riyadh,307 ms
+80.240.124.4,443,true,FOR,South America,Fortaleza,307 ms
+193.169.250.5,443,true,DME,Europe,Moscow,308 ms
+80.240.124.10,443,true,FOR,South America,Fortaleza,310 ms
+80.240.113.61,443,true,ARN,Europe,Stockholm,310 ms
+185.188.144.7,443,true,ARN,Europe,Stockholm,311 ms
+185.188.144.4,443,true,ARN,Europe,Stockholm,313 ms
+185.188.144.5,443,true,ARN,Europe,Stockholm,314 ms
+80.240.124.6,443,true,FOR,South America,Fortaleza,315 ms
+94.176.183.62,443,true,CDG,Europe,Paris,316 ms
+80.240.124.11,443,true,FOR,South America,Fortaleza,317 ms
+185.244.209.61,443,true,OSL,Europe,Oslo,319 ms
+80.240.113.14,443,true,ARN,Europe,Stockholm,319 ms
+94.176.183.12,443,true,CDG,Europe,Paris,320 ms
+195.216.237.221,443,true,DME,Europe,Moscow,321 ms
+94.176.183.8,443,true,CDG,Europe,Paris,321 ms
+80.240.113.8,443,true,ARN,Europe,Stockholm,321 ms
+185.188.144.8,443,true,ARN,Europe,Stockholm,322 ms
+181.39.11.210,443,true,GYE,South America,Guayaquil,322 ms
+45.82.103.4,443,true,SCL,South America,Santiago,323 ms
+185.188.144.61,443,true,ARN,Europe,Stockholm,324 ms
+80.240.113.62,443,true,ARN,Europe,Stockholm,324 ms
+80.240.113.10,443,true,ARN,Europe,Stockholm,324 ms
+185.188.144.62,443,true,ARN,Europe,Stockholm,325 ms
+150.107.126.4,443,true,LHR,Europe,London,325 ms
+45.82.103.61,443,true,SCL,South America,Santiago,326 ms
+80.240.113.4,443,true,ARN,Europe,Stockholm,326 ms
+80.240.124.9,443,true,FOR,South America,Fortaleza,326 ms
+102.68.141.74,443,true,DUR,Africa,Durban,327 ms
+45.82.103.5,443,true,SCL,South America,Santiago,327 ms
+185.244.209.4,443,true,OSL,Europe,Oslo,329 ms
+80.240.113.11,443,true,ARN,Europe,Stockholm,330 ms
+82.97.205.62,443,true,EZE,South America,Buenos Aires,331 ms
+195.216.237.203,443,true,DME,Europe,Moscow,331 ms
+80.240.113.7,443,true,ARN,Europe,Stockholm,332 ms
+80.240.113.13,443,true,ARN,Europe,Stockholm,332 ms
+93.123.38.62,443,true,RIX,Europe,Riga,332 ms
+45.82.103.6,443,true,SCL,South America,Santiago,332 ms
+5.188.126.14,443,true,MAD,Europe,Madrid,332 ms
+80.240.113.12,443,true,ARN,Europe,Stockholm,333 ms
+150.107.126.62,443,true,LHR,Europe,London,333 ms
+94.176.183.61,443,true,CDG,Europe,Paris,333 ms
+80.240.113.9,443,true,ARN,Europe,Stockholm,334 ms
+185.244.209.62,443,true,OSL,Europe,Oslo,334 ms
+45.82.103.7,443,true,SCL,South America,Santiago,336 ms
+93.123.38.4,443,true,RIX,Europe,Riga,337 ms
+185.249.133.4,443,true,PRG,Europe,Prague,338 ms
+80.240.113.6,443,true,ARN,Europe,Stockholm,339 ms
+197.148.108.106,443,true,JNB,Africa,Johannesburg,340 ms
+45.82.103.62,443,true,SCL,South America,Santiago,341 ms
+213.156.151.6,443,true,SCL,South America,Santiago,341 ms
+93.123.38.5,443,true,RIX,Europe,Riga,342 ms
+79.133.108.25,443,true,KBP,Europe,Kyiv,343 ms
+94.176.183.5,443,true,CDG,Europe,Paris,343 ms
+80.240.113.5,443,true,ARN,Europe,Stockholm,343 ms
+92.223.12.12,443,true,GRU,South America,São Paulo,347 ms
+79.133.108.7,443,true,KBP,Europe,Kyiv,347 ms
+87.120.164.5,443,true,EZE,South America,Buenos Aires,347 ms
+92.223.12.9,443,true,GRU,South America,São Paulo,348 ms
+79.133.108.10,443,true,KBP,Europe,Kyiv,348 ms
+41.210.189.22,443,true,JNB,Africa,Johannesburg,348 ms
+87.120.164.4,443,true,EZE,South America,Buenos Aires,348 ms
+87.120.164.6,443,true,EZE,South America,Buenos Aires,348 ms
+5.101.217.4,443,true,BUD,Europe,Budapest,349 ms
+79.133.108.24,443,true,KBP,Europe,Kyiv,350 ms
+79.133.108.14,443,true,KBP,Europe,Kyiv,351 ms
+82.97.205.61,443,true,EZE,South America,Buenos Aires,351 ms
+87.120.164.62,443,true,EZE,South America,Buenos Aires,351 ms
+92.223.12.26,443,true,GRU,South America,São Paulo,352 ms
+79.133.108.15,443,true,KBP,Europe,Kyiv,352 ms
+92.223.12.5,443,true,GRU,South America,São Paulo,352 ms
+95.85.92.5,443,true,GIG,South America,Rio de Janeiro,353 ms
+193.36.180.5,443,true,GRU,South America,São Paulo,353 ms
+79.133.108.9,443,true,KBP,Europe,Kyiv,353 ms
+79.133.108.4,443,true,KBP,Europe,Kyiv,354 ms
+92.223.12.10,443,true,GRU,South America,São Paulo,355 ms
+92.223.12.20,443,true,GRU,South America,São Paulo,355 ms
+193.36.180.7,443,true,GRU,South America,São Paulo,355 ms
+92.223.12.11,443,true,GRU,South America,São Paulo,356 ms
+78.111.101.62,443,true,CPT,Africa,Cape Town,356 ms
+95.85.92.4,443,true,GIG,South America,Rio de Janeiro,356 ms
+79.133.108.8,443,true,KBP,Europe,Kyiv,356 ms
+193.36.180.6,443,true,GRU,South America,São Paulo,357 ms
+87.120.164.61,443,true,EZE,South America,Buenos Aires,357 ms
+92.223.12.25,443,true,GRU,South America,São Paulo,357 ms
+95.85.92.6,443,true,GIG,South America,Rio de Janeiro,357 ms
+92.223.12.13,443,true,GRU,South America,São Paulo,358 ms
+193.36.180.4,443,true,GRU,South America,São Paulo,358 ms
+79.133.108.16,443,true,KBP,Europe,Kyiv,358 ms
+92.223.12.8,443,true,GRU,South America,São Paulo,359 ms
+95.85.69.62,443,true,OTP,Europe,Bucharest,359 ms
+92.223.12.4,443,true,GRU,South America,São Paulo,359 ms
+79.133.108.17,443,true,KBP,Europe,Kyiv,359 ms
+79.133.108.26,443,true,KBP,Europe,Kyiv,360 ms
+5.188.7.12,443,true,KLD,Europe,Tver,361 ms
+95.85.92.62,443,true,GIG,South America,Rio de Janeiro,362 ms
+79.133.108.13,443,true,KBP,Europe,Kyiv,364 ms
+79.133.108.23,443,true,KBP,Europe,Kyiv,364 ms
+92.223.12.30,443,true,GRU,South America,São Paulo,365 ms
+92.223.12.7,443,true,GRU,South America,São Paulo,367 ms
+87.120.164.7,443,true,EZE,South America,Buenos Aires,368 ms
+92.223.12.6,443,true,GRU,South America,São Paulo,368 ms
+79.133.108.5,443,true,KBP,Europe,Kyiv,370 ms
+95.85.92.7,443,true,GIG,South America,Rio de Janeiro,372 ms
+79.133.108.6,443,true,KBP,Europe,Kyiv,372 ms
+91.243.87.4,443,true,OTP,Europe,Bucharest,373 ms
+95.85.92.8,443,true,GIG,South America,Rio de Janeiro,375 ms
+78.111.101.4,443,true,CPT,Africa,Cape Town,379 ms
+193.169.250.4,443,true,DME,Europe,Moscow,383 ms
+79.133.108.62,443,true,KBP,Europe,Kyiv,388 ms
+5.188.133.10,443,true,JNB,Africa,Johannesburg,389 ms
+78.111.101.61,443,true,CPT,Africa,Cape Town,393 ms
+80.93.210.4,443,true,ATH,Europe,Athens,398 ms
+92.223.12.18,443,true,GRU,South America,São Paulo,399 ms
+92.223.12.27,443,true,GRU,South America,São Paulo,399 ms
+186.16.19.94,443,true,ASU,South America,Asunción,411 ms
+5.188.133.11,443,true,JNB,Africa,Johannesburg,411 ms
+94.43.206.202,443,true,TBS,Europe,Tbilisi,414 ms
+5.252.26.9,443,true,SIN,Asia Pacific,Singapore,458 ms
+92.223.116.222,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.205,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.224,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.220,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.253,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.203,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.207,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.221,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.223,443,true,SIN,Asia Pacific,Singapore,1 ms
+92.223.116.254,443,true,SIN,Asia Pacific,Singapore,1 ms
+171.229.196.138,443,true,SIN,Asia Pacific,Singapore,20 ms
+171.229.196.136,443,true,SIN,Asia Pacific,Singapore,20 ms
+171.229.196.135,443,true,SIN,Asia Pacific,Singapore,21 ms
+171.229.196.134,443,true,SIN,Asia Pacific,Singapore,21 ms
+171.229.196.133,443,true,SIN,Asia Pacific,Singapore,22 ms
+171.229.196.132,443,true,SIN,Asia Pacific,Singapore,22 ms
+171.229.196.137,443,true,SIN,Asia Pacific,Singapore,24 ms
+5.252.26.62,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.61,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.9,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.6,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.11,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.7,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.8,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.5,443,true,SIN,Asia Pacific,Singapore,26 ms
+5.252.26.10,443,true,SIN,Asia Pacific,Singapore,28 ms
+5.252.26.4,443,true,SIN,Asia Pacific,Singapore,28 ms
+92.223.76.20,443,true,HKG,Asia Pacific,Hong Kong,33 ms
+92.223.76.30,443,true,HKG,Asia Pacific,Hong Kong,35 ms
+92.223.76.23,443,true,HKG,Asia Pacific,Hong Kong,36 ms
+92.223.76.25,443,true,HKG,Asia Pacific,Hong Kong,36 ms
+120.28.10.46,443,true,MNL,Asia Pacific,Manila,39 ms
+171.234.242.195,443,true,HKG,Asia Pacific,Hong Kong,41 ms
+171.234.242.199,443,true,HKG,Asia Pacific,Hong Kong,41 ms
+92.223.76.24,443,true,HKG,Asia Pacific,Hong Kong,42 ms
+171.234.242.198,443,true,HKG,Asia Pacific,Hong Kong,43 ms
+171.234.242.197,443,true,HKG,Asia Pacific,Hong Kong,48 ms
+43.245.140.2,443,true,DAC,Asia Pacific,Dhaka,54 ms
+92.223.63.28,443,true,NRT,Asia Pacific,Tokyo,68 ms
+92.223.63.10,443,true,NRT,Asia Pacific,Tokyo,70 ms
+92.223.63.7,443,true,NRT,Asia Pacific,Tokyo,70 ms
+92.223.63.21,443,true,NRT,Asia Pacific,Tokyo,70 ms
+92.223.63.8,443,true,NRT,Asia Pacific,Tokyo,70 ms
+92.223.63.25,443,true,NRT,Asia Pacific,Tokyo,71 ms
+31.184.207.5,443,true,KIX,Asia Pacific,Osaka,71 ms
+31.184.207.4,443,true,KIX,Asia Pacific,Osaka,72 ms
+92.223.63.4,443,true,NRT,Asia Pacific,Tokyo,73 ms
+92.223.63.24,443,true,NRT,Asia Pacific,Tokyo,73 ms
+92.223.63.29,443,true,NRT,Asia Pacific,Tokyo,74 ms
+134.0.219.37,443,true,MCT,Middle East,Muscat,74 ms
+92.223.63.6,443,true,NRT,Asia Pacific,Tokyo,76 ms
+92.223.63.26,443,true,NRT,Asia Pacific,Tokyo,76 ms
+134.0.219.26,443,true,MCT,Middle East,Muscat,76 ms
+92.223.63.5,443,true,NRT,Asia Pacific,Tokyo,76 ms
+197.225.145.26,443,true,MRU,Africa,Port Louis,77 ms
+118.103.136.245,443,true,SIN,Asia Pacific,Singapore,77 ms
+31.184.207.7,443,true,KIX,Asia Pacific,Osaka,79 ms
+92.223.63.27,443,true,NRT,Asia Pacific,Tokyo,79 ms
+31.184.207.6,443,true,KIX,Asia Pacific,Osaka,80 ms
+92.223.63.23,443,true,NRT,Asia Pacific,Tokyo,82 ms
+31.184.207.8,443,true,KIX,Asia Pacific,Osaka,84 ms
+103.211.151.21,443,true,KTM,Asia Pacific,Kathmandu,85 ms
+82.148.98.42,443,true,DOH,Middle East,Doha,85 ms
+92.223.63.11,443,true,NRT,Asia Pacific,Tokyo,85 ms
+92.223.61.25,443,true,ICN,Asia Pacific,Seoul,85 ms
+92.223.61.30,443,true,ICN,Asia Pacific,Seoul,86 ms
+92.223.61.23,443,true,ICN,Asia Pacific,Seoul,86 ms
+92.223.63.9,443,true,NRT,Asia Pacific,Tokyo,86 ms
+146.185.221.190,443,true,MEL,Oceania,Melbourne,86 ms
+92.223.61.21,443,true,ICN,Asia Pacific,Seoul,86 ms
+92.223.61.24,443,true,ICN,Asia Pacific,Seoul,86 ms
+146.185.221.132,443,true,MEL,Oceania,Melbourne,87 ms
+31.184.207.62,443,true,KIX,Asia Pacific,Osaka,88 ms
+185.105.1.14,443,true,BOM,Asia Pacific,Mumbai,89 ms
+92.223.63.22,443,true,NRT,Asia Pacific,Tokyo,89 ms
+92.223.78.22,443,true,SYD,Oceania,Sydney,92 ms
+185.105.1.10,443,true,BOM,Asia Pacific,Mumbai,95 ms
+185.163.3.61,443,true,HKG,Asia Pacific,Hong Kong,95 ms
+185.163.3.62,443,true,HKG,Asia Pacific,Hong Kong,95 ms
+185.163.3.4,443,true,KWI,Middle East,Kuwait City,97 ms
+5.188.132.5,443,true,HKG,Asia Pacific,Hong Kong,121 ms
+5.188.132.14,443,true,HKG,Asia Pacific,Hong Kong,124 ms
+92.223.55.6,443,true,MRS,Europe,Marseille,137 ms
+151.248.104.91,443,true,RUH,Middle East,Riyadh,145 ms
+94.176.183.61,443,true,CDG,Europe,Paris,146 ms
+94.176.183.5,443,true,CDG,Europe,Paris,147 ms
+94.176.183.8,443,true,CDG,Europe,Paris,147 ms
+94.176.183.11,443,true,CDG,Europe,Paris,149 ms
+94.176.183.62,443,true,CDG,Europe,Paris,150 ms
+92.223.55.4,443,true,MRS,Europe,Marseille,151 ms
+5.188.126.7,443,true,MAD,Europe,Madrid,151 ms
+5.188.126.6,443,true,MAD,Europe,Madrid,151 ms
+5.188.126.14,443,true,MAD,Europe,Madrid,152 ms
+93.123.11.12,443,true,LHR,Europe,London,153 ms
+93.123.11.13,443,true,LHR,Europe,London,154 ms
+93.123.11.14,443,true,LHR,Europe,London,154 ms
+92.223.124.32,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.28,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.31,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.24,443,true,FRA,Europe,Frankfurt,157 ms
+94.176.183.6,443,true,CDG,Europe,Paris,158 ms
+92.223.124.30,443,true,FRA,Europe,Frankfurt,158 ms
+92.223.124.22,443,true,FRA,Europe,Frankfurt,159 ms
+92.223.124.29,443,true,FRA,Europe,Frankfurt,159 ms
+92.223.55.5,443,true,MRS,Europe,Marseille,161 ms
+92.223.124.17,443,true,FRA,Europe,Frankfurt,161 ms
+5.188.126.4,443,true,MAD,Europe,Madrid,162 ms
+92.223.124.15,443,true,DME,Europe,Moscow,163 ms
+93.123.11.62,443,true,LHR,Europe,London,163 ms
+92.223.124.45,443,true,DME,Europe,Moscow,163 ms
+92.223.124.16,443,true,FRA,Europe,Frankfurt,163 ms
+92.223.124.61,443,true,FRA,Europe,Frankfurt,163 ms
+92.223.124.36,443,true,FRA,Europe,Frankfurt,164 ms
+92.223.124.37,443,true,FRA,Europe,Frankfurt,164 ms
+92.223.124.49,443,true,FRA,Europe,Frankfurt,164 ms
+92.223.120.10,443,true,SJC,North America,San Jose,165 ms
+92.223.120.12,443,true,SJC,North America,San Jose,165 ms
+92.223.120.15,443,true,SJC,North America,San Jose,165 ms
+92.223.55.62,443,true,MRS,Europe,Marseille,165 ms
+92.223.124.35,443,true,DME,Europe,Moscow,165 ms
+5.188.126.5,443,true,MAD,Europe,Madrid,165 ms
+92.223.124.44,443,true,FRA,Europe,Frankfurt,166 ms
+92.223.124.43,443,true,FRA,Europe,Frankfurt,166 ms
+62.209.27.232,443,true,RUH,Middle East,Riyadh,166 ms
+102.68.141.74,443,true,DUR,Africa,Durban,167 ms
+92.223.112.12,443,true,LUX,Europe,Luxembourg City,167 ms
+92.223.124.34,443,true,FRA,Europe,Frankfurt,168 ms
+92.223.124.23,443,true,FRA,Europe,Frankfurt,168 ms
+92.223.112.62,443,true,LUX,Europe,Luxembourg City,168 ms
+93.123.17.147,443,true,FRA,Europe,Frankfurt,168 ms
+93.123.17.137,443,true,AMS,Europe,Amsterdam,169 ms
+92.223.74.26,443,true,PRG,Europe,Prague,169 ms
+93.123.17.148,443,true,AMS,Europe,Amsterdam,169 ms
+185.244.209.4,443,true,OSL,Europe,Oslo,169 ms
+92.223.112.28,443,true,LUX,Europe,Luxembourg City,170 ms
+92.223.124.33,443,true,FRA,Europe,Frankfurt,170 ms
+92.223.120.14,443,true,SJC,North America,San Jose,170 ms
+92.223.120.13,443,true,SJC,North America,San Jose,170 ms
+93.123.17.150,443,true,FRA,Europe,Frankfurt,170 ms
+93.123.17.138,443,true,AMS,Europe,Amsterdam,170 ms
+92.223.124.62,443,true,FRA,Europe,Frankfurt,171 ms
+194.44.246.206,443,true,WAW,Europe,Warsaw,171 ms
+89.223.90.4,443,true,CDG,Europe,Paris,172 ms
+213.156.156.4,443,true,DUB,Europe,Dublin,172 ms
+78.111.103.61,443,true,SEA,North America,Seattle,172 ms
+78.111.103.5,443,true,SEA,North America,Seattle,172 ms
+78.111.103.4,443,true,SEA,North America,Seattle,172 ms
+93.123.17.136,443,true,AMS,Europe,Amsterdam,172 ms
+92.223.124.25,443,true,FRA,Europe,Frankfurt,173 ms
+93.123.17.144,443,true,AMS,Europe,Amsterdam,173 ms
+93.123.17.133,443,true,AMS,Europe,Amsterdam,173 ms
+80.240.113.9,443,true,ARN,Europe,Stockholm,173 ms
+213.156.156.5,443,true,DUB,Europe,Dublin,173 ms
+80.240.113.10,443,true,ARN,Europe,Stockholm,173 ms
+92.223.124.26,443,true,FRA,Europe,Frankfurt,173 ms
+80.240.113.13,443,true,ARN,Europe,Stockholm,174 ms
+93.123.17.253,443,true,AMS,Europe,Amsterdam,174 ms
+94.176.183.12,443,true,CDG,Europe,Paris,175 ms
+93.123.17.143,443,true,AMS,Europe,Amsterdam,175 ms
+5.101.219.6,443,true,SOF,Europe,Sofia,176 ms
+93.123.17.254,443,true,AMS,Europe,Amsterdam,176 ms
+93.123.17.159,443,true,AMS,Europe,Amsterdam,177 ms
+93.123.17.132,443,true,AMS,Europe,Amsterdam,177 ms
+93.123.17.141,443,true,AMS,Europe,Amsterdam,177 ms
+93.123.17.140,443,true,AMS,Europe,Amsterdam,177 ms
+5.101.219.5,443,true,SOF,Europe,Sofia,177 ms
+93.123.17.134,443,true,AMS,Europe,Amsterdam,179 ms
+93.123.17.146,443,true,AMS,Europe,Amsterdam,179 ms
+93.123.17.145,443,true,AMS,Europe,Amsterdam,179 ms
+93.123.17.142,443,true,AMS,Europe,Amsterdam,179 ms
+92.223.124.48,443,true,DME,Europe,Moscow,179 ms
+93.123.17.139,443,true,AMS,Europe,Amsterdam,179 ms
+79.133.108.7,443,true,KBP,Europe,Kyiv,179 ms
+92.223.92.23,443,true,WAW,Europe,Warsaw,179 ms
+93.123.17.151,443,true,AMS,Europe,Amsterdam,180 ms
+79.133.108.17,443,true,KBP,Europe,Kyiv,180 ms
+94.176.183.7,443,true,CDG,Europe,Paris,180 ms
+79.133.108.15,443,true,KBP,Europe,Kyiv,180 ms
+5.188.7.61,443,true,KLD,Europe,Tver,180 ms
+92.223.74.20,443,true,PRG,Europe,Prague,181 ms
+92.223.74.21,443,true,PRG,Europe,Prague,181 ms
+93.123.17.135,443,true,AMS,Europe,Amsterdam,181 ms
+95.85.69.62,443,true,OTP,Europe,Bucharest,181 ms
+80.240.113.62,443,true,ARN,Europe,Stockholm,182 ms
+80.240.113.5,443,true,ARN,Europe,Stockholm,182 ms
+5.101.217.4,443,true,BUD,Europe,Budapest,183 ms
+213.156.156.62,443,true,DUB,Europe,Dublin,184 ms
+92.38.170.7,443,true,LAX,North America,Los Angeles,185 ms
+93.123.11.11,443,true,LHR,Europe,London,186 ms
+80.93.221.62,443,true,DEN,North America,Denver,187 ms
+80.93.221.61,443,true,DEN,North America,Denver,187 ms
+80.240.113.6,443,true,ARN,Europe,Stockholm,187 ms
+185.244.209.61,443,true,OSL,Europe,Oslo,187 ms
+217.76.64.195,443,true,DME,Europe,Moscow,188 ms
+180.149.90.66,443,true,ULN,Asia Pacific,Ulaanbaatar,189 ms
+95.85.69.61,443,true,OTP,Europe,Bucharest,190 ms
+80.240.113.11,443,true,ARN,Europe,Stockholm,190 ms
+37.110.209.228,443,true,HKG,Asia Pacific,Hong Kong,191 ms
+79.133.108.16,443,true,KBP,Europe,Kyiv,191 ms
+213.156.156.61,443,true,DUB,Europe,Dublin,191 ms
+80.240.113.4,443,true,ARN,Europe,Stockholm,191 ms
+80.240.113.61,443,true,ARN,Europe,Stockholm,191 ms
+78.111.103.62,443,true,SEA,North America,Seattle,192 ms
+92.223.92.30,443,true,WAW,Europe,Warsaw,192 ms
+80.240.113.12,443,true,ARN,Europe,Stockholm,193 ms
+93.123.38.5,443,true,RIX,Europe,Riga,193 ms
+185.249.133.4,443,true,PRG,Europe,Prague,193 ms
+5.188.7.12,443,true,KLD,Europe,Tver,193 ms
+93.123.11.61,443,true,LHR,Europe,London,193 ms
+82.200.205.204,443,true,ALA,Asia Pacific,Almaty,194 ms
+80.240.113.7,443,true,ARN,Europe,Stockholm,194 ms
+79.133.108.23,443,true,KBP,Europe,Kyiv,194 ms
+79.133.108.14,443,true,KBP,Europe,Kyiv,194 ms
+95.85.69.6,443,true,OTP,Europe,Bucharest,196 ms
+91.243.87.62,443,true,FRA,Europe,Frankfurt,196 ms
+92.223.92.22,443,true,WAW,Europe,Warsaw,196 ms
+92.223.92.24,443,true,WAW,Europe,Warsaw,196 ms
+93.123.38.62,443,true,RIX,Europe,Riga,196 ms
+79.133.108.13,443,true,KBP,Europe,Kyiv,196 ms
+79.133.108.62,443,true,KBP,Europe,Kyiv,197 ms
+79.133.108.26,443,true,KBP,Europe,Kyiv,197 ms
+79.133.108.10,443,true,KBP,Europe,Kyiv,197 ms
+79.133.108.4,443,true,KBP,Europe,Kyiv,197 ms
+195.14.146.81,443,true,LCA,Europe,Nicosia,198 ms
+80.240.113.8,443,true,ARN,Europe,Stockholm,199 ms
+102.130.69.141,443,true,LAD,Africa,Luanda,199 ms
+92.223.78.30,443,true,SYD,Oceania,Sydney,200 ms
+5.101.219.14,443,true,SOF,Europe,Sofia,200 ms
+185.76.48.122,443,true,FRA,Europe,Frankfurt,202 ms
+93.123.38.4,443,true,VNO,Europe,Vilnius,202 ms
+79.133.108.6,443,true,KBP,Europe,Kyiv,203 ms
+92.223.68.30,443,true,ORD,North America,Chicago,203 ms
+92.223.92.26,443,true,WAW,Europe,Warsaw,203 ms
+92.223.68.25,443,true,ORD,North America,Chicago,203 ms
+92.223.92.25,443,true,WAW,Europe,Warsaw,203 ms
+185.244.209.62,443,true,OSL,Europe,Oslo,204 ms
+195.22.198.49,443,true,PMO,Europe,Palermo,204 ms
+79.133.108.8,443,true,KBP,Europe,Kyiv,207 ms
+151.248.104.69,443,true,KWI,Middle East,Kuwait City,209 ms
+45.65.8.62,443,true,MSP,North America,Minneapolis,209 ms
+45.65.8.4,443,true,MSP,North America,Minneapolis,209 ms
+91.243.87.4,443,true,OTP,Europe,Bucharest,210 ms
+5.188.94.5,443,true,TLV,Middle East,Tel Aviv,210 ms
+95.85.69.7,443,true,OTP,Europe,Bucharest,211 ms
+79.133.108.9,443,true,KBP,Europe,Kyiv,211 ms
+94.128.12.238,443,true,KWI,Middle East,Kuwait City,211 ms
+185.101.136.7,443,true,DFW,North America,Dallas,211 ms
+79.133.108.24,443,true,KBP,Europe,Kyiv,211 ms
+1.37.77.98,443,true,HKG,Asia Pacific,Hong Kong,213 ms
+79.133.108.25,443,true,KBP,Europe,Kyiv,214 ms
+5.8.92.62,443,true,IAH,North America,Houston,216 ms
+79.133.108.5,443,true,KBP,Europe,Kyiv,216 ms
+80.240.113.14,443,true,ARN,Europe,Stockholm,216 ms
+185.188.144.61,443,true,ARN,Europe,Stockholm,218 ms
+91.243.87.5,443,true,KIV,Europe,Chișinău,218 ms
+185.101.136.9,443,true,DFW,North America,Dallas,220 ms
+185.101.136.13,443,true,DFW,North America,Dallas,220 ms
+185.101.136.30,443,true,DFW,North America,Dallas,221 ms
+92.223.78.23,443,true,SYD,Oceania,Sydney,221 ms
+185.188.144.4,443,true,ARN,Europe,Stockholm,223 ms
+92.223.68.26,443,true,ORD,North America,Chicago,224 ms
+92.223.68.27,443,true,ORD,North America,Chicago,224 ms
+5.101.222.5,443,true,YYZ,North America,Toronto,227 ms
+185.101.136.12,443,true,DFW,North America,Dallas,228 ms
+92.223.118.19,443,true,IAD,North America,Ashburn,230 ms
+92.223.107.62,443,true,MIA,North America,Miami,231 ms
+92.38.170.6,443,true,LAX,North America,Los Angeles,232 ms
+92.38.168.7,443,true,EWR,North America,Newark,232 ms
+92.38.168.5,443,true,EWR,North America,Newark,232 ms
+92.38.168.13,443,true,EWR,North America,Newark,232 ms
+130.193.166.2,443,true,EBL,Middle East,Erbil,233 ms
+92.223.118.14,443,true,IAD,North America,Ashburn,233 ms
+92.223.107.45,443,true,MIA,North America,Miami,234 ms
+92.223.107.42,443,true,MIA,North America,Miami,234 ms
+92.223.107.58,443,true,MIA,North America,Miami,235 ms
+185.188.144.62,443,true,ARN,Europe,Stockholm,236 ms
+92.38.159.4,443,true,ATL,North America,Atlanta,236 ms
+92.223.118.15,443,true,IAD,North America,Ashburn,236 ms
+92.223.118.20,443,true,IAD,North America,Ashburn,237 ms
+213.156.144.4,443,true,IAH,North America,Houston,237 ms
+80.93.223.4,443,true,BOS,North America,Boston,238 ms
+80.93.223.62,443,true,BOS,North America,Boston,238 ms
+92.223.107.44,443,true,MIA,North America,Miami,239 ms
+92.223.107.56,443,true,MIA,North America,Miami,239 ms
+92.38.170.10,443,true,LAX,North America,Los Angeles,241 ms
+92.223.118.17,443,true,IAD,North America,Ashburn,241 ms
+92.38.170.8,443,true,LAX,North America,Los Angeles,242 ms
+92.223.107.43,443,true,MIA,North America,Miami,243 ms
+92.38.159.14,443,true,ATL,North America,Atlanta,244 ms
+185.188.144.7,443,true,ARN,Europe,Stockholm,245 ms
+92.223.118.16,443,true,IAD,North America,Ashburn,246 ms
+92.223.107.61,443,true,MIA,North America,Miami,247 ms
+185.48.136.150,443,true,DME,Europe,Moscow,247 ms
+5.101.222.13,443,true,YYZ,North America,Toronto,247 ms
+5.101.222.14,443,true,YYZ,North America,Toronto,248 ms
+5.101.222.4,443,true,YYZ,North America,Toronto,249 ms
+150.107.126.61,443,true,LHR,Europe,London,249 ms
+92.223.107.57,443,true,MIA,North America,Miami,250 ms
+80.93.221.4,443,true,DEN,North America,Denver,252 ms
+185.188.144.8,443,true,ARN,Europe,Stockholm,252 ms
+185.188.144.5,443,true,ARN,Europe,Stockholm,252 ms
+45.82.101.8,443,true,MXP,Europe,Milan,253 ms
+92.223.107.40,443,true,MIA,North America,Miami,253 ms
+5.189.207.4,443,true,ALA,Asia Pacific,Almaty,253 ms
+150.107.126.62,443,true,LHR,Europe,London,254 ms
+185.215.162.226,443,true,DME,Europe,Moscow,257 ms
+185.101.136.8,443,true,DFW,North America,Dallas,257 ms
+5.189.207.14,443,true,ALA,Asia Pacific,Almaty,259 ms
+193.169.250.62,443,true,DME,Europe,Moscow,259 ms
+45.82.101.9,443,true,MXP,Europe,Milan,260 ms
+5.189.207.5,443,true,ALA,Asia Pacific,Almaty,261 ms
+170.238.234.217,443,true,FOR,South America,Fortaleza,261 ms
+45.82.101.62,443,true,MXP,Europe,Milan,265 ms
+195.216.237.221,443,true,DME,Europe,Moscow,267 ms
+185.101.136.29,443,true,DFW,North America,Dallas,268 ms
+195.216.237.222,443,true,DME,Europe,Moscow,268 ms
+193.169.250.5,443,true,DME,Europe,Moscow,270 ms
+195.216.237.201,443,true,DME,Europe,Moscow,272 ms
+202.78.162.4,443,true,IST,Europe,Istanbul,272 ms
+5.8.92.6,443,true,MFE,North America,McAllen,273 ms
+45.82.101.7,443,true,MXP,Europe,Milan,274 ms
+45.65.8.61,443,true,MSP,North America,Minneapolis,274 ms
+195.216.237.197,443,true,DME,Europe,Moscow,274 ms
+195.216.237.199,443,true,DME,Europe,Moscow,275 ms
+45.82.101.6,443,true,MXP,Europe,Milan,277 ms
+92.38.142.30,443,true,IST,Europe,Istanbul,277 ms
+195.216.237.203,443,true,DME,Europe,Moscow,278 ms
+193.169.250.4,443,true,DME,Europe,Moscow,278 ms
+181.174.80.182,443,true,MIA,North America,Miami,279 ms
+5.8.92.5,443,true,IAH,North America,Houston,279 ms
+92.38.142.25,443,true,IST,Europe,Istanbul,279 ms
+202.78.162.61,443,true,IST,Europe,Istanbul,280 ms
+92.223.47.62,443,true,MRS,Europe,Marseille,282 ms
+213.156.151.62,443,true,SCL,South America,Santiago,283 ms
+213.156.151.5,443,true,SCL,South America,Santiago,283 ms
+92.38.142.29,443,true,IST,Europe,Istanbul,284 ms
+45.82.101.5,443,true,MXP,Europe,Milan,284 ms
+213.156.151.6,443,true,SCL,South America,Santiago,284 ms
+197.215.140.235,443,true,MRS,Europe,Marseille,285 ms
+213.156.144.62,443,true,QRO,North America,Queretaro,285 ms
+213.156.144.5,443,true,QRO,North America,Queretaro,287 ms
+213.156.144.7,443,true,QRO,North America,Queretaro,287 ms
+179.0.200.126,443,true,GUA,North America,Guatemala City,288 ms
+213.156.151.4,443,true,SCL,South America,Santiago,289 ms
+213.156.151.61,443,true,SCL,South America,Santiago,289 ms
+46.49.10.229,443,true,TBS,Europe,Tbilisi,290 ms
+202.78.162.6,443,true,IST,Europe,Istanbul,291 ms
+197.215.140.234,443,true,MRS,Europe,Marseille,291 ms
+92.223.47.61,443,true,MRS,Europe,Marseille,292 ms
+5.8.92.4,443,true,IAH,North America,Houston,292 ms
+92.223.47.4,443,true,MRS,Europe,Marseille,292 ms
+92.38.159.5,443,true,ATL,North America,Atlanta,292 ms
+202.78.162.62,443,true,IST,Europe,Istanbul,293 ms
+213.156.144.6,443,true,IAH,North America,Houston,293 ms
+109.68.233.242,443,true,SVX,Asia Pacific,Yekaterinburg,293 ms
+45.82.100.5,443,true,EVN,Middle East,Yerevan,294 ms
+213.156.144.61,443,true,QRO,North America,Queretaro,294 ms
+213.244.64.66,443,true,ZDM,Middle East,Ramallah,296 ms
+45.82.100.4,443,true,EVN,Middle East,Yerevan,296 ms
+185.158.211.186,443,true,KBP,Europe,Kyiv,297 ms
+82.213.5.50,443,true,ZDM,Middle East,Ramallah,297 ms
+200.10.177.54,443,true,MIA,North America,Miami,297 ms
+92.38.168.14,443,true,EWR,North America,Newark,297 ms
+80.240.124.61,443,true,FOR,South America,Fortaleza,298 ms
+80.240.124.7,443,true,FOR,South America,Fortaleza,298 ms
+80.240.124.62,443,true,FOR,South America,Fortaleza,298 ms
+80.240.124.6,443,true,FOR,South America,Fortaleza,298 ms
+80.240.124.8,443,true,FOR,South America,Fortaleza,298 ms
+80.240.124.4,443,true,FOR,South America,Fortaleza,299 ms
+45.82.100.61,443,true,EVN,Middle East,Yerevan,300 ms
+45.82.100.62,443,true,EVN,Middle East,Yerevan,302 ms
+80.93.210.4,443,true,ATH,Europe,Athens,302 ms
+202.78.162.5,443,true,IST,Europe,Istanbul,303 ms
+80.240.124.5,443,true,FOR,South America,Fortaleza,303 ms
+92.38.142.21,443,true,IST,Europe,Istanbul,303 ms
+80.240.124.10,443,true,FOR,South America,Fortaleza,303 ms
+80.240.124.9,443,true,FOR,South America,Fortaleza,304 ms
+87.120.106.9,443,true,BOG,South America,Bogotá,304 ms
+80.93.215.5,443,true,MDE,South America,Medellín,305 ms
+181.39.11.210,443,true,GYE,South America,Guayaquil,307 ms
+80.93.215.6,443,true,MDE,South America,Medellín,307 ms
+78.111.101.62,443,true,CPT,Africa,Cape Town,308 ms
+80.93.215.62,443,true,MDE,South America,Medellín,308 ms
+87.120.106.5,443,true,MDE,South America,Medellín,308 ms
+78.111.101.4,443,true,CPT,Africa,Cape Town,309 ms
+80.240.124.11,443,true,FOR,South America,Fortaleza,309 ms
+45.82.103.4,443,true,SCL,South America,Santiago,312 ms
+45.82.103.7,443,true,SCL,South America,Santiago,312 ms
+80.93.223.61,443,true,BOS,North America,Boston,315 ms
+45.82.103.6,443,true,SCL,South America,Santiago,317 ms
+94.43.206.202,443,true,TBS,Europe,Tbilisi,317 ms
+45.82.103.5,443,true,SCL,South America,Santiago,317 ms
+45.82.103.62,443,true,SCL,South America,Santiago,317 ms
+45.82.103.61,443,true,SCL,South America,Santiago,320 ms
+179.51.50.82,443,true,MIA,North America,Miami,321 ms
+87.120.106.62,443,true,MDE,South America,Medellín,322 ms
+80.93.215.4,443,true,MDE,South America,Medellín,324 ms
+5.188.133.11,443,true,JNB,Africa,Johannesburg,328 ms
+102.67.99.50,443,true,LIS,Europe,Lisbon,329 ms
+197.188.22.102,443,true,CPT,Africa,Cape Town,330 ms
+87.120.164.6,443,true,EZE,South America,Buenos Aires,330 ms
+87.120.164.61,443,true,EZE,South America,Buenos Aires,333 ms
+102.67.99.66,443,true,LIS,Europe,Lisbon,336 ms
+87.120.164.62,443,true,EZE,South America,Buenos Aires,338 ms
+78.111.101.61,443,true,CPT,Africa,Cape Town,338 ms
+87.120.164.5,443,true,EZE,South America,Buenos Aires,340 ms
+87.120.164.7,443,true,EZE,South America,Buenos Aires,340 ms
+87.120.164.4,443,true,EZE,South America,Buenos Aires,342 ms
+5.188.133.10,443,true,JNB,Africa,Johannesburg,347 ms
+41.210.189.22,443,true,JNB,Africa,Johannesburg,351 ms
+197.148.108.106,443,true,JNB,Africa,Johannesburg,351 ms
+87.120.106.61,443,true,MDE,South America,Medellín,354 ms
+92.223.12.8,443,true,GRU,South America,São Paulo,358 ms
+92.223.12.4,443,true,GRU,South America,São Paulo,358 ms
+193.36.180.5,443,true,GRU,South America,São Paulo,359 ms
+92.223.12.5,443,true,GRU,South America,São Paulo,360 ms
+92.223.12.30,443,true,GRU,South America,São Paulo,360 ms
+92.223.12.6,443,true,GRU,South America,São Paulo,360 ms
+92.223.12.27,443,true,GRU,South America,São Paulo,360 ms
+193.36.180.4,443,true,GRU,South America,São Paulo,360 ms
+92.223.12.25,443,true,GRU,South America,São Paulo,361 ms
+92.223.12.11,443,true,GRU,South America,São Paulo,361 ms
+193.36.180.6,443,true,GRU,South America,São Paulo,361 ms
+80.93.215.7,443,true,MDE,South America,Medellín,361 ms
+80.93.215.61,443,true,BOG,South America,Bogotá,364 ms
+95.85.92.5,443,true,GIG,South America,Rio de Janeiro,365 ms
+92.223.12.12,443,true,GRU,South America,São Paulo,366 ms
+95.85.92.6,443,true,GIG,South America,Rio de Janeiro,366 ms
+92.223.12.20,443,true,GRU,South America,São Paulo,367 ms
+82.97.205.61,443,true,EZE,South America,Buenos Aires,367 ms
+92.223.12.7,443,true,GRU,South America,São Paulo,367 ms
+92.223.12.9,443,true,GRU,South America,São Paulo,367 ms
+92.223.12.13,443,true,GRU,South America,São Paulo,368 ms
+95.85.92.8,443,true,GIG,South America,Rio de Janeiro,373 ms
+95.85.92.4,443,true,GIG,South America,Rio de Janeiro,373 ms
+87.120.106.4,443,true,MDE,South America,Medellín,375 ms
+82.97.205.4,443,true,EZE,South America,Buenos Aires,375 ms
+92.223.12.10,443,true,GRU,South America,São Paulo,375 ms
+92.223.12.18,443,true,GRU,South America,São Paulo,375 ms
+92.223.12.26,443,true,GRU,South America,São Paulo,375 ms
+193.36.180.7,443,true,GRU,South America,São Paulo,376 ms
+82.97.205.62,443,true,EZE,South America,Buenos Aires,415 ms
+82.97.205.5,443,true,EZE,South America,Buenos Aires,417 ms
+95.85.92.62,443,true,GIG,South America,Rio de Janeiro,419 ms
+95.85.92.7,443,true,GIG,South America,Rio de Janeiro,424 ms
+190.95.248.34,443,true,GYE,South America,Guayaquil,431 ms
+186.16.19.94,443,true,ASU,South America,Asunción,439 ms
+92.223.120.15,443,true,SJC,North America,San Jose,1 ms
+92.223.120.13,443,true,SJC,North America,San Jose,2 ms
+92.223.120.12,443,true,SJC,North America,San Jose,2 ms
+92.223.120.14,443,true,SJC,North America,San Jose,2 ms
+92.223.120.10,443,true,SJC,North America,San Jose,2 ms
+92.38.170.10,443,true,LAX,North America,Los Angeles,7 ms
+92.38.170.7,443,true,LAX,North America,Los Angeles,7 ms
+92.38.170.8,443,true,LAX,North America,Los Angeles,7 ms
+92.38.170.6,443,true,LAX,North America,Los Angeles,8 ms
+78.111.103.61,443,true,SEA,North America,Seattle,19 ms
+78.111.103.4,443,true,SEA,North America,Seattle,20 ms
+78.111.103.62,443,true,SEA,North America,Seattle,21 ms
+78.111.103.5,443,true,SEA,North America,Seattle,21 ms
+80.93.221.4,443,true,DEN,North America,Denver,25 ms
+80.93.221.62,443,true,DEN,North America,Denver,25 ms
+80.93.221.61,443,true,DEN,North America,Denver,25 ms
+185.101.136.13,443,true,DFW,North America,Dallas,37 ms
+185.101.136.7,443,true,DFW,North America,Dallas,37 ms
+185.101.136.30,443,true,DFW,North America,Dallas,37 ms
+185.101.136.29,443,true,DFW,North America,Dallas,37 ms
+185.101.136.9,443,true,DFW,North America,Dallas,37 ms
+185.101.136.12,443,true,DFW,North America,Dallas,37 ms
+185.101.136.8,443,true,DFW,North America,Dallas,37 ms
+92.223.68.25,443,true,ORD,North America,Chicago,47 ms
+92.223.68.30,443,true,ORD,North America,Chicago,47 ms
+92.223.68.26,443,true,ORD,North America,Chicago,47 ms
+45.65.8.4,443,true,MSP,North America,Minneapolis,47 ms
+45.65.8.61,443,true,MSP,North America,Minneapolis,47 ms
+92.223.68.27,443,true,ORD,North America,Chicago,47 ms
+5.8.92.5,443,true,IAH,North America,Houston,48 ms
+5.8.92.4,443,true,IAH,North America,Houston,48 ms
+5.8.92.6,443,true,IAH,North America,Houston,48 ms
+45.65.8.62,443,true,MSP,North America,Minneapolis,48 ms
+5.8.92.62,443,true,IAH,North America,Houston,49 ms
+92.38.159.5,443,true,ATL,North America,Atlanta,54 ms
+92.38.159.14,443,true,ATL,North America,Atlanta,55 ms
+92.38.159.4,443,true,ATL,North America,Atlanta,55 ms
+5.101.222.14,443,true,YYZ,North America,Toronto,59 ms
+5.101.222.4,443,true,YYZ,North America,Toronto,60 ms
+5.101.222.5,443,true,YYZ,North America,Toronto,60 ms
+5.101.222.13,443,true,YYZ,North America,Toronto,60 ms
+213.156.144.6,443,true,IAH,North America,Houston,60 ms
+213.156.144.7,443,true,MFE,North America,McAllen,60 ms
+213.156.144.61,443,true,QRO,North America,Queretaro,60 ms
+213.156.144.5,443,true,IAH,North America,Houston,60 ms
+213.156.144.4,443,true,QRO,North America,Queretaro,60 ms
+213.156.144.62,443,true,QRO,North America,Queretaro,60 ms
+92.223.107.56,443,true,MIA,North America,Miami,70 ms
+92.38.168.14,443,true,EWR,North America,Newark,70 ms
+92.223.107.43,443,true,MIA,North America,Miami,70 ms
+92.223.107.61,443,true,MIA,North America,Miami,70 ms
+92.223.107.58,443,true,MIA,North America,Miami,70 ms
+92.38.168.13,443,true,EWR,North America,Newark,70 ms
+92.223.107.40,443,true,MIA,North America,Miami,70 ms
+92.223.107.57,443,true,MIA,North America,Miami,70 ms
+92.223.107.62,443,true,MIA,North America,Miami,70 ms
+92.223.107.42,443,true,MIA,North America,Miami,70 ms
+92.38.168.5,443,true,EWR,North America,Newark,70 ms
+92.38.168.7,443,true,EWR,North America,Newark,70 ms
+92.223.107.45,443,true,MIA,North America,Miami,70 ms
+92.223.107.44,443,true,MIA,North America,Miami,70 ms
+92.223.118.20,443,true,IAD,North America,Ashburn,75 ms
+92.223.118.16,443,true,IAD,North America,Ashburn,75 ms
+80.93.223.62,443,true,BOS,North America,Boston,76 ms
+92.223.118.17,443,true,IAD,North America,Ashburn,76 ms
+80.93.223.61,443,true,BOS,North America,Boston,76 ms
+92.223.118.15,443,true,IAD,North America,Ashburn,76 ms
+92.223.118.14,443,true,IAD,North America,Ashburn,76 ms
+80.93.223.4,443,true,BOS,North America,Boston,76 ms
+92.223.118.19,443,true,IAD,North America,Ashburn,77 ms
+179.51.50.82,443,true,MIA,North America,Miami,96 ms
+181.174.80.182,443,true,MIA,North America,Miami,98 ms
+87.120.106.11,443,true,MDE,South America,Medellín,103 ms
+92.223.63.24,443,true,NRT,Asia Pacific,Tokyo,103 ms
+87.120.106.5,443,true,MDE,South America,Medellín,103 ms
+87.120.106.9,443,true,MDE,South America,Medellín,103 ms
+87.120.106.8,443,true,MDE,South America,Medellín,103 ms
+87.120.106.62,443,true,MDE,South America,Medellín,103 ms
+87.120.106.4,443,true,MDE,South America,Medellín,104 ms
+87.120.106.61,443,true,MDE,South America,Medellín,104 ms
+31.184.207.5,443,true,KIX,Asia Pacific,Osaka,104 ms
+31.184.207.62,443,true,KIX,Asia Pacific,Osaka,104 ms
+31.184.207.4,443,true,KIX,Asia Pacific,Osaka,105 ms
+31.184.207.8,443,true,KIX,Asia Pacific,Osaka,105 ms
+31.184.207.7,443,true,KIX,Asia Pacific,Osaka,106 ms
+92.223.63.25,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.22,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.6,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.7,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.8,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.23,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.29,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.5,443,true,NRT,Asia Pacific,Tokyo,106 ms
+92.223.63.21,443,true,NRT,Asia Pacific,Tokyo,107 ms
+92.223.63.27,443,true,NRT,Asia Pacific,Tokyo,107 ms
+92.223.63.11,443,true,NRT,Asia Pacific,Tokyo,107 ms
+31.184.207.6,443,true,KIX,Asia Pacific,Osaka,107 ms
+92.223.63.4,443,true,NRT,Asia Pacific,Tokyo,107 ms
+92.223.63.10,443,true,NRT,Asia Pacific,Tokyo,109 ms
+92.223.63.28,443,true,NRT,Asia Pacific,Tokyo,110 ms
+92.223.63.26,443,true,NRT,Asia Pacific,Tokyo,110 ms
+92.223.63.9,443,true,NRT,Asia Pacific,Tokyo,110 ms
+80.93.215.7,443,true,MDE,South America,Medellín,114 ms
+80.93.215.5,443,true,MDE,South America,Medellín,114 ms
+80.93.215.6,443,true,MDE,South America,Medellín,115 ms
+80.93.215.4,443,true,MDE,South America,Medellín,115 ms
+80.93.215.61,443,true,MDE,South America,Medellín,116 ms
+213.156.151.5,443,true,SCL,South America,Santiago,116 ms
+213.156.151.62,443,true,SCL,South America,Santiago,117 ms
+213.156.151.4,443,true,SCL,South America,Santiago,117 ms
+213.156.151.61,443,true,LIM,South America,Lima,117 ms
+213.156.151.6,443,true,LIM,South America,Lima,118 ms
+179.0.200.126,443,true,GUA,North America,Guatemala City,119 ms
+80.93.215.62,443,true,MDE,South America,Medellín,119 ms
+80.240.124.6,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.9,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.5,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.62,443,true,FOR,South America,Fortaleza,131 ms
+200.10.177.54,443,true,MIA,North America,Miami,131 ms
+80.240.124.7,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.10,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.4,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.11,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.61,443,true,FOR,South America,Fortaleza,131 ms
+80.240.124.8,443,true,FOR,South America,Fortaleza,132 ms
+190.95.248.34,443,true,GYE,South America,Guayaquil,138 ms
+93.123.11.14,443,true,LHR,Europe,London,139 ms
+93.123.11.11,443,true,LHR,Europe,London,140 ms
+92.223.61.30,443,true,ICN,Asia Pacific,Seoul,141 ms
+92.223.61.21,443,true,ICN,Asia Pacific,Seoul,141 ms
+92.223.61.25,443,true,ICN,Asia Pacific,Seoul,141 ms
+92.223.61.24,443,true,ICN,Asia Pacific,Seoul,141 ms
+93.123.11.62,443,true,LHR,Europe,London,141 ms
+92.223.61.23,443,true,ICN,Asia Pacific,Seoul,141 ms
+93.123.11.12,443,true,LHR,Europe,London,143 ms
+93.123.17.144,443,true,AMS,Europe,Amsterdam,144 ms
+93.123.17.134,443,true,AMS,Europe,Amsterdam,144 ms
+93.123.17.136,443,true,AMS,Europe,Amsterdam,144 ms
+93.123.17.147,443,true,AMS,Europe,Amsterdam,144 ms
+93.123.17.253,443,true,AMS,Europe,Amsterdam,144 ms
+93.123.11.13,443,true,LHR,Europe,London,144 ms
+93.123.11.61,443,true,LHR,Europe,London,144 ms
+45.82.103.62,443,true,SCL,South America,Santiago,145 ms
+93.123.17.133,443,true,AMS,Europe,Amsterdam,145 ms
+45.82.103.6,443,true,SCL,South America,Santiago,145 ms
+45.82.103.7,443,true,SCL,South America,Santiago,145 ms
+45.82.103.61,443,true,SCL,South America,Santiago,145 ms
+45.82.103.5,443,true,SCL,South America,Santiago,145 ms
+45.82.103.4,443,true,SCL,South America,Santiago,145 ms
+93.123.17.141,443,true,AMS,Europe,Amsterdam,147 ms
+93.123.17.148,443,true,AMS,Europe,Amsterdam,147 ms
+93.123.17.138,443,true,AMS,Europe,Amsterdam,148 ms
+93.123.17.143,443,true,AMS,Europe,Amsterdam,148 ms
+93.123.17.142,443,true,AMS,Europe,Amsterdam,148 ms
+93.123.17.135,443,true,AMS,Europe,Amsterdam,148 ms
+93.123.17.132,443,true,AMS,Europe,Amsterdam,148 ms
+94.176.183.62,443,true,CDG,Europe,Paris,148 ms
+93.123.17.150,443,true,AMS,Europe,Amsterdam,148 ms
+94.176.183.61,443,true,CDG,Europe,Paris,148 ms
+94.176.183.5,443,true,CDG,Europe,Paris,148 ms
+94.176.183.7,443,true,CDG,Europe,Paris,148 ms
+94.176.183.11,443,true,CDG,Europe,Paris,149 ms
+93.123.17.140,443,true,AMS,Europe,Amsterdam,149 ms
+213.156.156.61,443,true,DUB,Europe,Dublin,149 ms
+93.123.17.139,443,true,AMS,Europe,Amsterdam,149 ms
+94.176.183.12,443,true,CDG,Europe,Paris,149 ms
+181.39.11.210,443,true,GYE,South America,Guayaquil,150 ms
+94.176.183.6,443,true,CDG,Europe,Paris,151 ms
+93.123.17.151,443,true,FRA,Europe,Frankfurt,151 ms
+93.123.17.146,443,true,AMS,Europe,Amsterdam,152 ms
+94.176.183.8,443,true,CDG,Europe,Paris,152 ms
+93.123.17.145,443,true,AMS,Europe,Amsterdam,152 ms
+93.123.17.254,443,true,AMS,Europe,Amsterdam,152 ms
+93.123.17.137,443,true,AMS,Europe,Amsterdam,152 ms
+93.123.17.159,443,true,AMS,Europe,Amsterdam,152 ms
+92.223.124.35,443,true,FRA,Europe,Frankfurt,153 ms
+92.223.112.62,443,true,LUX,Europe,Luxembourg City,154 ms
+92.223.124.34,443,true,FRA,Europe,Frankfurt,154 ms
+92.223.124.16,443,true,FRA,Europe,Frankfurt,154 ms
+92.223.124.22,443,true,FRA,Europe,Frankfurt,154 ms
+92.223.76.30,443,true,HKG,Asia Pacific,Hong Kong,154 ms
+92.223.124.32,443,true,FRA,Europe,Frankfurt,154 ms
+80.240.113.8,443,true,ARN,Europe,Stockholm,155 ms
+92.223.76.25,443,true,HKG,Asia Pacific,Hong Kong,155 ms
+80.240.113.7,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.11,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.10,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.5,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.61,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.4,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.13,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.14,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.9,443,true,ARN,Europe,Stockholm,155 ms
+213.156.156.5,443,true,DUB,Europe,Dublin,155 ms
+80.240.113.6,443,true,ARN,Europe,Stockholm,155 ms
+80.240.113.62,443,true,ARN,Europe,Stockholm,155 ms
+213.156.156.4,443,true,DUB,Europe,Dublin,155 ms
+213.156.156.62,443,true,DUB,Europe,Dublin,155 ms
+185.244.209.61,443,true,OSL,Europe,Oslo,155 ms
+185.244.209.62,443,true,OSL,Europe,Oslo,156 ms
+92.223.76.23,443,true,HKG,Asia Pacific,Hong Kong,156 ms
+92.223.76.20,443,true,HKG,Asia Pacific,Hong Kong,156 ms
+80.240.113.12,443,true,ARN,Europe,Stockholm,156 ms
+92.223.124.33,443,true,FRA,Europe,Frankfurt,156 ms
+92.223.124.17,443,true,FRA,Europe,Frankfurt,156 ms
+92.223.124.23,443,true,FRA,Europe,Frankfurt,156 ms
+92.223.124.29,443,true,DME,Europe,Moscow,156 ms
+92.223.124.61,443,true,FRA,Europe,Frankfurt,156 ms
+92.223.124.24,443,true,DME,Europe,Moscow,156 ms
+92.223.124.45,443,true,FRA,Europe,Frankfurt,156 ms
+92.223.124.37,443,true,FRA,Europe,Frankfurt,156 ms
+92.223.124.62,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.30,443,true,DME,Europe,Moscow,157 ms
+92.223.124.49,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.43,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.112.12,443,true,LUX,Europe,Luxembourg City,157 ms
+92.223.124.36,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.31,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.48,443,true,FRA,Europe,Frankfurt,157 ms
+92.223.124.28,443,true,FRA,Europe,Frankfurt,157 ms
+185.244.209.4,443,true,OSL,Europe,Oslo,157 ms
+92.223.112.28,443,true,LUX,Europe,Luxembourg City,157 ms
+45.82.101.8,443,true,MXP,Europe,Milan,158 ms
+92.223.76.24,443,true,HKG,Asia Pacific,Hong Kong,158 ms
+92.223.55.6,443,true,MRS,Europe,Marseille,158 ms
+92.223.55.62,443,true,MRS,Europe,Marseille,158 ms
+92.223.55.5,443,true,MRS,Europe,Marseille,158 ms
+92.223.124.25,443,true,FRA,Europe,Frankfurt,159 ms
+92.223.124.44,443,true,FRA,Europe,Frankfurt,159 ms
+92.223.124.15,443,true,FRA,Europe,Frankfurt,160 ms
+92.223.124.26,443,true,FRA,Europe,Frankfurt,160 ms
+120.28.10.46,443,true,MNL,Asia Pacific,Manila,160 ms
+45.82.101.9,443,true,MXP,Europe,Milan,162 ms
+92.223.55.4,443,true,MRS,Europe,Marseille,162 ms
+92.223.116.205,443,true,SIN,Asia Pacific,Singapore,163 ms
+92.223.116.207,443,true,SIN,Asia Pacific,Singapore,163 ms
+92.223.116.220,443,true,SIN,Asia Pacific,Singapore,163 ms
+92.223.116.203,443,true,SIN,Asia Pacific,Singapore,163 ms
+93.123.38.4,443,true,RIX,Europe,Riga,163 ms
+93.123.38.5,443,true,VNO,Europe,Vilnius,163 ms
+93.123.38.62,443,true,VNO,Europe,Vilnius,163 ms
+92.223.92.25,443,true,WAW,Europe,Warsaw,164 ms
+45.82.101.7,443,true,MXP,Europe,Milan,164 ms
+87.120.164.62,443,true,EZE,South America,Buenos Aires,165 ms
+87.120.164.6,443,true,EZE,South America,Buenos Aires,165 ms
+87.120.164.5,443,true,EZE,South America,Buenos Aires,165 ms
+87.120.164.61,443,true,EZE,South America,Buenos Aires,165 ms
+87.120.164.4,443,true,EZE,South America,Buenos Aires,165 ms
+87.120.164.7,443,true,EZE,South America,Buenos Aires,165 ms
+170.238.234.217,443,true,FOR,South America,Fortaleza,165 ms
+92.223.92.24,443,true,WAW,Europe,Warsaw,167 ms
+92.223.92.30,443,true,WAW,Europe,Warsaw,167 ms
+45.82.101.6,443,true,MXP,Europe,Milan,167 ms
+92.223.92.22,443,true,WAW,Europe,Warsaw,167 ms
+92.223.92.26,443,true,WAW,Europe,Warsaw,168 ms
+92.223.74.20,443,true,PRG,Europe,Prague,169 ms
+92.223.74.21,443,true,PRG,Europe,Prague,169 ms
+45.82.101.5,443,true,MXP,Europe,Milan,170 ms
+5.188.126.7,443,true,MAD,Europe,Madrid,170 ms
+5.188.126.5,443,true,MAD,Europe,Madrid,171 ms
+92.223.92.23,443,true,WAW,Europe,Warsaw,171 ms
+5.101.217.4,443,true,BUD,Europe,Budapest,171 ms
+194.44.246.206,443,true,WAW,Europe,Warsaw,172 ms
+45.82.101.62,443,true,MXP,Europe,Milan,172 ms
+92.223.74.26,443,true,PRG,Europe,Prague,172 ms
+5.188.126.6,443,true,MAD,Europe,Madrid,175 ms
+5.188.126.14,443,true,MAD,Europe,Madrid,175 ms
+5.188.126.4,443,true,MAD,Europe,Madrid,175 ms
+195.22.198.49,443,true,PMO,Europe,Palermo,175 ms
+5.188.7.12,443,true,KLD,Europe,Tver,176 ms
+185.249.133.4,443,true,PRG,Europe,Prague,178 ms
+5.101.219.6,443,true,SOF,Europe,Sofia,178 ms
+92.223.78.23,443,true,SYD,Oceania,Sydney,179 ms
+79.133.108.25,443,true,KBP,Europe,Kyiv,179 ms
+79.133.108.8,443,true,KBP,Europe,Kyiv,180 ms
+5.101.219.14,443,true,SOF,Europe,Sofia,180 ms
+95.85.69.61,443,true,OTP,Europe,Bucharest,181 ms
+79.133.108.16,443,true,KBP,Europe,Kyiv,181 ms
+79.133.108.10,443,true,KBP,Europe,Kyiv,181 ms
+197.215.140.234,443,true,MRS,Europe,Marseille,181 ms
+197.215.140.235,443,true,MRS,Europe,Marseille,181 ms
+79.133.108.17,443,true,KBP,Europe,Kyiv,182 ms
+95.85.69.62,443,true,OTP,Europe,Bucharest,182 ms
+5.101.219.5,443,true,SOF,Europe,Sofia,182 ms
+79.133.108.26,443,true,KBP,Europe,Kyiv,182 ms
+79.133.108.62,443,true,KBP,Europe,Kyiv,182 ms
+95.85.69.7,443,true,OTP,Europe,Bucharest,182 ms
+79.133.108.9,443,true,KBP,Europe,Kyiv,182 ms
+79.133.108.4,443,true,KBP,Europe,Kyiv,183 ms
+92.223.78.22,443,true,SYD,Oceania,Sydney,183 ms
+79.133.108.15,443,true,KBP,Europe,Kyiv,183 ms
+92.223.78.30,443,true,SYD,Oceania,Sydney,183 ms
+79.133.108.5,443,true,KBP,Europe,Kyiv,183 ms
+5.188.7.61,443,true,KLD,Europe,Tver,184 ms
+79.133.108.24,443,true,KBP,Europe,Kyiv,184 ms
+79.133.108.7,443,true,KBP,Europe,Kyiv,184 ms
+79.133.108.6,443,true,KBP,Europe,Kyiv,184 ms
+95.85.69.6,443,true,OTP,Europe,Bucharest,185 ms
+79.133.108.23,443,true,KBP,Europe,Kyiv,185 ms
+171.229.196.136,443,true,SIN,Asia Pacific,Singapore,186 ms
+79.133.108.14,443,true,KBP,Europe,Kyiv,186 ms
+79.133.108.13,443,true,KBP,Europe,Kyiv,187 ms
+92.38.142.29,443,true,IST,Europe,Istanbul,189 ms
+171.229.196.138,443,true,SIN,Asia Pacific,Singapore,190 ms
+92.38.142.30,443,true,IST,Europe,Istanbul,190 ms
+185.158.211.186,443,true,KBP,Europe,Kyiv,190 ms
+5.252.26.5,443,true,SIN,Asia Pacific,Singapore,190 ms
+5.252.26.7,443,true,SIN,Asia Pacific,Singapore,190 ms
+91.243.87.62,443,true,OTP,Europe,Bucharest,190 ms
+5.252.26.62,443,true,SIN,Asia Pacific,Singapore,190 ms
+5.252.26.8,443,true,SIN,Asia Pacific,Singapore,190 ms
+92.38.142.21,443,true,IST,Europe,Istanbul,191 ms
+171.229.196.133,443,true,SIN,Asia Pacific,Singapore,191 ms
+82.97.205.4,443,true,EZE,South America,Buenos Aires,192 ms
+91.243.87.5,443,true,KIV,Europe,Chișinău,192 ms
+82.97.205.5,443,true,EZE,South America,Buenos Aires,192 ms
+146.185.221.190,443,true,MEL,Oceania,Melbourne,192 ms
+92.223.12.7,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.26,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.13,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.4,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.8,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.20,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.5,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.30,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.6,443,true,GRU,South America,São Paulo,193 ms
+82.97.205.62,443,true,EZE,South America,Buenos Aires,193 ms
+91.243.87.4,443,true,KIV,Europe,Chișinău,193 ms
+92.223.12.9,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.25,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.27,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.10,443,true,GRU,South America,São Paulo,193 ms
+92.223.12.18,443,true,GRU,South America,São Paulo,194 ms
+193.36.180.7,443,true,GRU,South America,São Paulo,194 ms
+92.38.142.25,443,true,IST,Europe,Istanbul,194 ms
+92.223.12.11,443,true,GRU,South America,São Paulo,194 ms
+193.36.180.6,443,true,GRU,South America,São Paulo,194 ms
+92.223.12.12,443,true,GRU,South America,São Paulo,194 ms
+193.36.180.4,443,true,GRU,South America,São Paulo,194 ms
+80.93.210.4,443,true,ATH,Europe,Athens,195 ms
+171.229.196.137,443,true,SIN,Asia Pacific,Singapore,195 ms
+193.36.180.5,443,true,GRU,South America,São Paulo,195 ms
+5.252.26.4,443,true,SIN,Asia Pacific,Singapore,195 ms
+202.78.162.6,443,true,IST,Europe,Istanbul,196 ms
+5.252.26.11,443,true,SIN,Asia Pacific,Singapore,196 ms
+171.229.196.135,443,true,SIN,Asia Pacific,Singapore,196 ms
+202.78.162.5,443,true,IST,Europe,Istanbul,197 ms
+5.252.26.61,443,true,SIN,Asia Pacific,Singapore,197 ms
+5.188.94.5,443,true,TLV,Middle East,Tel Aviv,197 ms
+82.97.205.61,443,true,EZE,South America,Buenos Aires,197 ms
+171.229.196.134,443,true,SIN,Asia Pacific,Singapore,197 ms
+202.78.162.61,443,true,IST,Europe,Istanbul,198 ms
+95.85.92.6,443,true,GIG,South America,Rio de Janeiro,198 ms
+195.14.146.81,443,true,LCA,Europe,Nicosia,198 ms
+202.78.162.4,443,true,IST,Europe,Istanbul,198 ms
+95.85.92.4,443,true,GIG,South America,Rio de Janeiro,199 ms
+95.85.92.62,443,true,GIG,South America,Rio de Janeiro,199 ms
+95.85.92.7,443,true,GIG,South America,Rio de Janeiro,199 ms
+95.85.92.8,443,true,GIG,South America,Rio de Janeiro,199 ms
+202.78.162.62,443,true,IST,Europe,Istanbul,199 ms
+95.85.92.5,443,true,GIG,South America,Rio de Janeiro,199 ms
+92.223.47.61,443,true,MRS,Europe,Marseille,200 ms
+92.223.47.62,443,true,MRS,Europe,Marseille,201 ms
+92.223.47.4,443,true,MRS,Europe,Marseille,201 ms
+171.229.196.132,443,true,SIN,Asia Pacific,Singapore,202 ms
+5.252.26.10,443,true,SIN,Asia Pacific,Singapore,202 ms
+5.252.26.9,443,true,SIN,Asia Pacific,Singapore,202 ms
+171.234.242.199,443,true,HKG,Asia Pacific,Hong Kong,203 ms
+5.252.26.6,443,true,SIN,Asia Pacific,Singapore,203 ms
+186.16.19.94,443,true,ASU,South America,Asunción,203 ms
+146.185.221.132,443,true,MEL,Oceania,Melbourne,203 ms
+171.234.242.195,443,true,HKG,Asia Pacific,Hong Kong,205 ms
+151.248.104.91,443,true,RUH,Middle East,Riyadh,205 ms
+45.82.100.61,443,true,EVN,Middle East,Yerevan,206 ms
+45.82.100.62,443,true,EVN,Middle East,Yerevan,209 ms
+45.82.100.5,443,true,EVN,Middle East,Yerevan,209 ms
+45.82.100.4,443,true,EVN,Middle East,Yerevan,209 ms
+185.76.48.122,443,true,FRA,Europe,Frankfurt,211 ms
+46.49.10.229,443,true,TBS,Europe,Tbilisi,213 ms
+180.149.90.66,443,true,ULN,Asia Pacific,Ulaanbaatar,214 ms
+213.244.64.66,443,true,ZDM,Middle East,Ramallah,215 ms
+82.213.5.50,443,true,ZDM,Middle East,Ramallah,216 ms
+171.234.242.198,443,true,HKG,Asia Pacific,Hong Kong,218 ms
+171.234.242.197,443,true,HKG,Asia Pacific,Hong Kong,218 ms
+130.193.166.2,443,true,EBL,Middle East,Erbil,223 ms
+185.188.144.4,443,true,ARN,Europe,Stockholm,224 ms
+193.169.250.4,443,true,DME,Europe,Moscow,225 ms
+193.169.250.62,443,true,DME,Europe,Moscow,226 ms
+193.169.250.5,443,true,DME,Europe,Moscow,226 ms
+102.130.69.141,443,true,LAD,Africa,Luanda,226 ms
+92.223.116.254,443,true,SIN,Asia Pacific,Singapore,227 ms
+92.223.116.223,443,true,SIN,Asia Pacific,Singapore,227 ms
+92.223.116.224,443,true,SIN,Asia Pacific,Singapore,228 ms
+102.67.99.66,443,true,LIS,Europe,Lisbon,228 ms
+185.188.144.5,443,true,ARN,Europe,Stockholm,228 ms
+5.189.207.5,443,true,ALA,Asia Pacific,Almaty,230 ms
+195.216.237.203,443,true,DME,Europe,Moscow,230 ms
+185.188.144.7,443,true,ARN,Europe,Stockholm,231 ms
+195.216.237.197,443,true,DME,Europe,Moscow,231 ms
+195.216.237.222,443,true,DME,Europe,Moscow,231 ms
+185.188.144.8,443,true,ARN,Europe,Stockholm,232 ms
+195.216.237.201,443,true,DME,Europe,Moscow,232 ms
+195.216.237.199,443,true,DME,Europe,Moscow,232 ms
+94.43.206.202,443,true,TBS,Europe,Tbilisi,232 ms
+185.188.144.62,443,true,ARN,Europe,Stockholm,233 ms
+5.189.207.14,443,true,ALA,Asia Pacific,Almaty,233 ms
+217.76.64.195,443,true,ALA,Asia Pacific,Almaty,234 ms
+185.188.144.61,443,true,ARN,Europe,Stockholm,234 ms
+197.148.108.106,443,true,JNB,Africa,Johannesburg,235 ms
+195.216.237.221,443,true,DME,Europe,Moscow,235 ms
+5.189.207.4,443,true,ALA,Asia Pacific,Almaty,238 ms
+109.68.233.242,443,true,SVX,Asia Pacific,Yekaterinburg,239 ms
+92.223.116.221,443,true,SIN,Asia Pacific,Singapore,240 ms
+92.223.116.222,443,true,SIN,Asia Pacific,Singapore,240 ms
+185.48.136.150,443,true,DME,Europe,Moscow,241 ms
+94.128.12.238,443,true,KWI,Middle East,Kuwait City,242 ms
+102.67.99.50,443,true,LIS,Europe,Lisbon,243 ms
+62.209.27.232,443,true,RUH,Middle East,Riyadh,243 ms
+92.223.116.253,443,true,SIN,Asia Pacific,Singapore,244 ms
+185.215.162.226,443,true,DME,Europe,Moscow,244 ms
+82.200.205.204,443,true,ALA,Asia Pacific,Almaty,245 ms
+150.107.126.62,443,true,LHR,Europe,London,246 ms
+185.105.1.14,443,true,BOM,Asia Pacific,Mumbai,248 ms
+134.0.219.37,443,true,MCT,Middle East,Muscat,250 ms
+151.248.104.69,443,true,RUH,Middle East,Riyadh,253 ms
+185.105.1.10,443,true,BOM,Asia Pacific,Mumbai,254 ms
+150.107.126.4,443,true,PMO,Europe,Palermo,254 ms
+150.107.126.61,443,true,PMO,Europe,Palermo,255 ms
+134.0.219.26,443,true,MCT,Middle East,Muscat,256 ms
+82.148.98.42,443,true,DOH,Middle East,Doha,260 ms
+185.163.3.61,443,true,HKG,Asia Pacific,Hong Kong,266 ms
+185.163.3.62,443,true,HKG,Asia Pacific,Hong Kong,268 ms
+89.223.90.4,443,true,CDG,Europe,Paris,275 ms
+118.103.136.245,443,true,SIN,Asia Pacific,Singapore,278 ms
+78.111.101.4,443,true,CPT,Africa,Cape Town,290 ms
+78.111.101.61,443,true,CPT,Africa,Cape Town,292 ms
+78.111.101.62,443,true,CPT,Africa,Cape Town,293 ms
+103.211.151.21,443,true,KTM,Asia Pacific,Kathmandu,293 ms
+102.68.141.74,443,true,DUR,Africa,Durban,300 ms
+5.188.133.10,443,true,JNB,Africa,Johannesburg,308 ms
+197.188.22.102,443,true,CPT,Africa,Cape Town,310 ms
+43.245.140.2,443,true,DAC,Asia Pacific,Dhaka,313 ms
+5.188.133.11,443,true,JNB,Africa,Johannesburg,319 ms
+41.210.189.22,443,true,JNB,Africa,Johannesburg,326 ms
+197.225.145.26,443,true,MRU,Africa,Port Louis,336 ms
+1.37.77.98,443,true,MNL,Asia Pacific,Manila,338 ms
