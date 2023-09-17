@@ -1,0 +1,451 @@
+ip,fetch_error,bogon,hostname,anycast,city,region,country,postal,loc,timezone,org
+217.76.64.195,,,217.76.64.195.altel.kz,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS29555 Mobile Telecom-Service LLP
+5.189.207.14,,,,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS199524 G-Core Labs S.A.
+93.123.17.144,,,am3-hw-edge-gc82.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+5.189.207.4,,,kal-hw-edge-gc10.fe.gc.onl,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS199524 G-Core Labs S.A.
+93.123.17.146,,,am3-hw-edge-gc84.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.136,,,am3-hw-edge-gc78.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+80.240.113.61,,,,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+87.120.106.9,,,inc-hw-edge-gc9.fe.gc.onl,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+93.123.17.133,,,am3-hw-edge-gc75.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.132,,,am3-hw-edge-gc74.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.147,,,am3-hw-edge-gc87.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+185.188.144.5,,,,,Baku,Baki,AZ,AZ 1001,"40.3777,49.8920",Asia/Baku,AS199524 G-Core Labs S.A.
+93.123.17.135,,,am3-hw-edge-gc77.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+82.200.205.204,,,,,Pavlodar,Pavlodar Region,KZ,,"52.2833,76.9667",Asia/Almaty,AS9198 JSC Kazakhtelecom
+93.123.17.151,,,am3-hw-edge-gc96.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.140,,,am3-hw-edge-gc63.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+94.176.183.8,,,pa5-hw-edge-gc8.fe.gc.onl,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+93.123.17.254,,,,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.142,,,am3-hw-edge-gc72.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.143,,,am3-hw-edge-gc73.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.253,,,,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.137,,,am3-hw-edge-gc54.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+80.240.113.12,,,sto5-hw-edge-gc18.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+80.240.113.14,,,sto5-hw-edge-gc20.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+93.123.17.150,,,am3-hw-edge-gc92.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+80.240.113.10,,,sto5-hw-edge-gc16.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+80.240.113.7,,,sto5-hw-edge-gc13.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+89.223.90.4,,,eti-hw-edge-gc4.fe.gc.onl,,Al Fujairah City,Fujairah,AE,,"25.1164,56.3414",Asia/Dubai,AS199524 G-Core Labs S.A.
+93.123.17.138,,,am3-hw-edge-gc61.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+80.240.113.5,,,sto5-hw-edge-gc11.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+87.120.106.61,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+80.240.113.13,,,sto5-hw-edge-gc19.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+185.105.1.10,,,,,Airoli,Maharashtra,IN,400701,"19.1167,72.9833",Asia/Kolkata,AS199524 G-Core Labs S.A.
+185.188.144.4,,,,,Baku,Baki,AZ,AZ 1001,"40.3777,49.8920",Asia/Baku,AS199524 G-Core Labs S.A.
+92.38.159.14,,,,,Atlanta,Georgia,US,30303,"33.7525,-84.3888",America/New_York,AS199524 G-Core Labs S.A.
+92.38.159.5,,,atl2-hw-edge-gc5.fe.gc.onl,,Atlanta,Georgia,US,30303,"33.7525,-84.3888",America/New_York,AS199524 G-Core Labs S.A.
+5.189.207.5,,,kal-hw-edge-gc11.fe.gc.onl,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS199524 G-Core Labs S.A.
+5.101.217.4,,,bix-hw-edge-canary-gc10.fe.gc.onl,,Budapest,Budapest,HU,1132,"47.4984,19.0404",Europe/Budapest,AS199524 G-Core Labs S.A.
+43.245.140.2,,,43.245.140.2.summitiig.net,,Paltan,Dhaka,BD,1214,"23.7418,90.4277",Asia/Dhaka,AS58717 Summit Communications Ltd
+93.123.17.141,,,am3-hw-edge-gc65.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+93.123.17.159,,,am3-hw-edge-gc98.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+94.176.183.11,,,pa5-hw-edge-gc11.fe.gc.onl,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+80.240.113.4,,,sto5-hw-edge-gc10.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+80.240.113.8,,,sto5-hw-edge-gc14.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+80.240.113.11,,,sto5-hw-edge-gc17.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+94.176.183.6,,,pa5-hw-edge-gc6.fe.gc.onl,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+185.188.144.61,,,,,Baku,Baki,AZ,AZ 1001,"40.3777,49.8920",Asia/Baku,AS199524 G-Core Labs S.A.
+185.188.144.7,,,,,Baku,Baki,AZ,AZ 1001,"40.3777,49.8920",Asia/Baku,AS199524 G-Core Labs S.A.
+80.93.210.4,,,,,Athens,Attica,GR,,"37.9838,23.7278",Europe/Athens,AS199524 G-Core Labs S.A.
+78.111.101.62,,,,,Cape Town,Western Cape,ZA,7560,"-33.8667,18.6833",Africa/Johannesburg,AS199524 G-Core Labs S.A.
+80.93.215.62,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+93.123.17.145,,,am3-hw-edge-gc83.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+185.188.144.8,,,,,Baku,Baki,AZ,AZ 1001,"40.3777,49.8920",Asia/Baku,AS199524 G-Core Labs S.A.
+185.101.136.29,,,,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+80.240.113.62,,,,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+185.188.144.62,,,,,Baku,Baki,AZ,AZ 1001,"40.3777,49.8920",Asia/Baku,AS199524 G-Core Labs S.A.
+80.240.113.6,,,sto5-hw-edge-gc12.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+185.101.136.13,,,da6-hw-edge-gc19.fe.gc.onl,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+80.93.215.6,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+80.240.113.9,,,sto5-hw-edge-gc15.fe.gc.onl,,Stockholm,Stockholm,SE,100 05,"59.3294,18.0687",Europe/Stockholm,AS199524 G-Core Labs S.A.
+186.16.19.94,,,host-home-94-19-16-186.telecel.com.py,,Fernando de la Mora,Central,PY,,"-25.3386,-57.5217",America/Asuncion,AS23201 Telecel S.A.
+92.38.159.4,,,atl2-hw-edge-gc4.fe.gc.onl,,Atlanta,Georgia,US,30303,"33.7525,-84.3888",America/New_York,AS199524 G-Core Labs S.A.
+193.169.250.62,,,,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS199524 G-Core Labs S.A.
+185.105.1.14,,,,,Airoli,Maharashtra,IN,400701,"19.1167,72.9833",Asia/Kolkata,AS199524 G-Core Labs S.A.
+94.176.183.7,,,pa5-hw-edge-gc7.fe.gc.onl,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+92.223.124.48,,,fr5-hw-edge-gc56.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+197.188.22.102,,,,,Cape Town,Western Cape,ZA,7945,"-33.9258,18.4232",Africa/Johannesburg,AS36996 Telecom Namibia
+195.216.237.201,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS47237 NUR Telecom LLC
+185.101.136.8,,,da6-hw-edge-gc16.fe.gc.onl,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+195.216.237.203,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS47237 NUR Telecom LLC
+195.216.237.222,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS47237 NUR Telecom LLC
+193.169.250.4,,,,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS199524 G-Core Labs S.A.
+195.216.237.197,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS47237 NUR Telecom LLC
+94.176.183.12,,,pa5-hw-edge-gc12.fe.gc.onl,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+195.216.237.221,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS47237 NUR Telecom LLC
+193.169.250.5,,,,,Almaty,Almaty,KZ,,"43.2500,76.9167",Asia/Almaty,AS199524 G-Core Labs S.A.
+195.216.237.199,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS47237 NUR Telecom LLC
+92.223.124.30,,,fr5-hw-edge-gc31.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+94.176.183.62,,,,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+92.223.124.35,,,fr5-hw-edge-canary-gc36.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+80.93.223.4,,,,,Boston,Massachusetts,US,2110,"42.3576,-71.0514",America/New_York,AS199524 G-Core Labs S.A.
+80.93.223.62,,,,,Boston,Massachusetts,US,2110,"42.3576,-71.0514",America/New_York,AS199524 G-Core Labs S.A.
+80.93.223.61,,,,,Boston,Massachusetts,US,2110,"42.3576,-71.0514",America/New_York,AS199524 G-Core Labs S.A.
+80.93.221.62,,,,,Denver,Colorado,US,80202,"39.7491,-104.9946",America/Denver,AS199524 G-Core Labs S.A.
+80.93.221.4,,,de1-hw-edge-gc4.fe.gc.onl,,Denver,Colorado,US,80202,"39.7491,-104.9946",America/Denver,AS199524 G-Core Labs S.A.
+213.156.156.62,,,,,Dublin,Leinster,IE,D02,"53.3331,-6.2489",Europe/Dublin,AS199524 G-Core Labs S.A.
+213.156.156.5,,,,,Dublin,Leinster,IE,D02,"53.3331,-6.2489",Europe/Dublin,AS199524 G-Core Labs S.A.
+213.156.156.61,,,,,Dublin,Leinster,IE,D02,"53.3331,-6.2489",Europe/Dublin,AS199524 G-Core Labs S.A.
+102.68.141.74,,,gcore.nbo1.kemnet.ke,,Nairobi,Nairobi Area,KE,,"-1.2833,36.8167",Africa/Nairobi,AS328578 KEMNET TECHNOLOGIES LIMITED
+130.193.166.2,,,,,Erbil,Arbīl,IQ,,"36.1833,44.0119",Asia/Baghdad,AS21277 Allay Nawroz Telecom Company for Communication/Ltd.
+185.215.162.226,,,,,Astana,Astana,KZ,,"51.1801,71.4460",Asia/Almaty,AS205516 NLS ASTANA LLP
+213.156.156.4,,,,,Dublin,Leinster,IE,D02,"53.3331,-6.2489",Europe/Dublin,AS199524 G-Core Labs S.A.
+94.176.183.5,,,pa5-hw-edge-gc5.fe.gc.onl,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+185.101.136.30,,,,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+185.101.136.12,,,da6-hw-edge-gc18.fe.gc.onl,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+185.101.136.7,,,da6-hw-edge-gc15.fe.gc.onl,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+94.176.183.61,,,,,Aubervilliers,Île-de-France,FR,93300,"48.9167,2.3833",Europe/Paris,AS199524 G-Core Labs S.A.
+185.48.136.150,,,,,Bishkek,Bishkek,KG,,"42.8700,74.5900",Asia/Bishkek,AS50223 Alfa Telecom CJSC
+185.101.136.9,,,da6-hw-edge-gc17.fe.gc.onl,,Dallas,Texas,US,75207,"32.7939,-96.8319",America/Chicago,AS199524 G-Core Labs S.A.
+78.111.101.61,,,,,Cape Town,Western Cape,ZA,7560,"-33.8667,18.6833",Africa/Johannesburg,AS199524 G-Core Labs S.A.
+82.148.98.42,,,,,Doha,Baladīyat ad Dawḩah,QA,,"25.2855,51.5310",Asia/Qatar,AS8781 Ooredoo Q.S.C.
+92.223.124.33,,,fr5-hw-edge-gc34.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+78.111.101.4,,,ct2-hw-edge-gc4.fe.gc.onl,,Cape Town,Western Cape,ZA,7560,"-33.8667,18.6833",Africa/Johannesburg,AS199524 G-Core Labs S.A.
+45.82.100.5,,,ucom-hw-edge-gc4.fe.gc.onl,,Yerevan,Yerevan,AM,,"40.1811,44.5136",Asia/Yerevan,AS199524 G-Core Labs S.A.
+45.82.100.61,,,,,Yerevan,Yerevan,AM,,"40.1811,44.5136",Asia/Yerevan,AS199524 G-Core Labs S.A.
+45.82.100.62,,,,,Yerevan,Yerevan,AM,,"40.1811,44.5136",Asia/Yerevan,AS199524 G-Core Labs S.A.
+92.38.168.7,,,ny2-hw-edge-gc7.fe.gc.onl,,Secaucus,New Jersey,US,7094,"40.7895,-74.0565",America/New_York,AS199524 G-Core Labs S.A.
+80.93.221.61,,,,,Denver,Colorado,US,80202,"39.7491,-104.9946",America/Denver,AS199524 G-Core Labs S.A.
+82.97.205.5,,,ezen-hw-edge-gc5.fe.gc.onl,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+82.97.205.62,,,,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+87.120.164.7,,,syt-hw-edge-gc7.fe.gc.onl,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+45.82.100.4,,,ucom-hw-edge-gc82.fe.gc.onl,,Yerevan,Yerevan,AM,,"40.1811,44.5136",Asia/Yerevan,AS199524 G-Core Labs S.A.
+92.38.168.14,,,,,Secaucus,New Jersey,US,7094,"40.7895,-74.0565",America/New_York,AS199524 G-Core Labs S.A.
+92.38.168.13,,,,,Secaucus,New Jersey,US,7094,"40.7895,-74.0565",America/New_York,AS199524 G-Core Labs S.A.
+92.38.168.5,,,ny2-hw-edge-gc5.fe.gc.onl,,Secaucus,New Jersey,US,7094,"40.7895,-74.0565",America/New_York,AS199524 G-Core Labs S.A.
+87.120.164.61,,,,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+92.223.124.37,,,fr5-hw-edge-gc38.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+93.123.17.134,,,am3-hw-edge-gc76.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+80.240.124.7,,,flz-hw-edge-gc7.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+82.97.205.61,,,,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+170.238.234.217,,,217.234.238.170.angolacables.ao,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS37468 Angola Cables
+80.240.124.8,,,flz-hw-edge-gc8.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+92.223.124.34,,,fr5-hw-edge-gc35.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+185.76.48.122,,,185-76-48-122.cdnsquared.net,,Larnaca,Larnaka,CY,6010,"34.9229,33.6233",Asia/Nicosia,AS49911 CDN Squared Limited
+92.223.124.31,,,fr5-hw-edge-gc32.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+91.243.87.62,,,,,Chisinau,Chișinău Municipality,MD,MD-2000,"47.0056,28.8575",Europe/Chisinau,AS199524 G-Core Labs S.A.
+92.223.124.62,,,,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.15,,,fr5-hw-edge-gc12.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.12.6,,,sp3-hw-edge-gc24.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.124.26,,,fr5-hw-edge-gc17.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+82.97.205.4,,,ezen-hw-edge-gc4.fe.gc.onl,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+92.223.12.13,,,sp3-hw-edge-gc31.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+80.240.124.5,,,flz-hw-edge-gc5.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+92.223.12.5,,,sp3-hw-edge-gc23.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+193.36.180.5,,,,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.118.20,,,dc3-hw-edge-gc41.fe.gc.onl,,Ashburn,Virginia,US,20147,"39.0437,-77.4875",America/New_York,AS199524 G-Core Labs S.A.
+92.223.118.15,,,dc3-hw-edge-gc34.fe.gc.onl,,Ashburn,Virginia,US,20147,"39.0437,-77.4875",America/New_York,AS199524 G-Core Labs S.A.
+95.85.92.62,,,,,Rio de Janeiro,Rio de Janeiro,BR,20000-000,"-22.9064,-43.1822",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.12.8,,,sp3-hw-edge-gc26.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+193.36.180.4,,,,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+91.243.87.5,,,mlt-hw-edge-gc11.fe.gc.onl,,Chisinau,Chișinău Municipality,MD,MD-2000,"47.0056,28.8575",Europe/Chisinau,AS199524 G-Core Labs S.A.
+92.223.12.18,,,sp3-hw-edge-gc4.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+193.36.180.7,,,,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.124.29,,,fr5-hw-edge-gc30.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.12.30,,,,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+93.123.17.148,,,am3-hw-edge-gc90.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+95.85.92.7,,,rj2-hw-edge-gc13.fe.gc.onl,,Rio de Janeiro,Rio de Janeiro,BR,20000-000,"-22.9064,-43.1822",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.12.7,,,sp3-hw-edge-gc25.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+5.188.132.14,,,,,Tashkent,Tashkent,UZ,,"41.2647,69.2163",Asia/Tashkent,AS199524 G-Core Labs S.A.
+92.223.12.11,,,sp3-hw-edge-gc29.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+193.36.180.6,,,,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+171.234.242.198,,,dynamic-adsl.viettel.vn,,Hanoi,Hanoi,VN,10000,"21.0245,105.8412",Asia/Bangkok,AS7552 Viettel Group
+87.120.164.62,,,,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+92.223.118.17,,,dc3-hw-edge-gc36.fe.gc.onl,,Ashburn,Virginia,US,20147,"39.0437,-77.4875",America/New_York,AS199524 G-Core Labs S.A.
+5.188.132.5,,,uzt-hw-edge-gc10.fe.gc.onl,,Tashkent,Tashkent,UZ,,"41.2647,69.2163",Asia/Tashkent,AS199524 G-Core Labs S.A.
+87.120.164.4,,,syt-hw-edge-gc4.fe.gc.onl,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+171.234.242.199,,,dynamic-ip-adsl.viettel.vn,,Hanoi,Hanoi,VN,10000,"21.0245,105.8412",Asia/Bangkok,AS7552 Viettel Group
+80.240.124.11,,,flz-hw-edge-gc11.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+185.163.3.62,,,,,Dubai,Dubai,AE,,"25.0772,55.3093",Asia/Dubai,AS199524 G-Core Labs S.A.
+92.223.12.12,,,sp3-hw-edge-gc30.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+87.120.164.5,,,syt-hw-edge-gc5.fe.gc.onl,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+80.240.124.61,,,,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+87.120.164.6,,,syt-hw-edge-gc6.fe.gc.onl,,Buenos Aires,Buenos Aires F.D.,AR,1871,"-34.6131,-58.3772",America/Argentina/Buenos_Aires,AS199524 G-Core Labs S.A.
+179.0.200.126,,,,,Panamá,Panamá,PA,,"8.9936,-79.5197",America/Panama,AS272037 InteRED Panama
+171.234.242.197,,,dynamic-ip-adsl.viettel.vn,,Hanoi,Hanoi,VN,10000,"21.0245,105.8412",Asia/Bangkok,AS7552 Viettel Group
+37.110.209.228,,,,,Tashkent,Tashkent,UZ,,"41.2647,69.2163",Asia/Tashkent,AS41202 UNITEL LLC
+80.240.124.62,,,,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+92.223.76.20,,,hk2-hw-edge-gc20.fe.gc.onl,,Hong Kong,Central and Western,HK,,"22.2783,114.1747",Asia/Hong_Kong,AS199524 G-Core Labs S.A.
+80.240.124.6,,,flz-hw-edge-gc6.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+80.240.124.9,,,flz-hw-edge-gc9.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+92.223.76.24,,,hk2-hw-edge-gc12.fe.gc.onl,,Hong Kong,Central and Western,HK,,"22.2783,114.1747",Asia/Hong_Kong,AS199524 G-Core Labs S.A.
+92.223.124.61,,,,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+80.240.124.4,,,flz-hw-edge-gc4.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+80.240.124.10,,,flz-hw-edge-gc10.fe.gc.onl,,Fortaleza,Ceará,BR,60000-000,"-3.7172,-38.5431",America/Fortaleza,AS199524 G-Core Labs S.A.
+92.223.76.25,,,hk2-hw-edge-gc13.fe.gc.onl,,Hong Kong,Central and Western,HK,,"22.2783,114.1747",Asia/Hong_Kong,AS199524 G-Core Labs S.A.
+92.223.124.44,,,fr5-hw-edge-gc52.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.25,,,fr5-hw-edge-gc16.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.49,,,fr5-hw-edge-gc57.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.17,,,fr5-hw-edge-gc26.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.76.23,,,hk2-hw-edge-gc11.fe.gc.onl,,Hong Kong,Central and Western,HK,,"22.2783,114.1747",Asia/Hong_Kong,AS199524 G-Core Labs S.A.
+92.223.124.23,,,fr5-hw-edge-gc8.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.22,,,fr5-hw-edge-gc27.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.32,,,fr5-hw-edge-gc33.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.24,,,fr5-hw-edge-gc15.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.36,,,fr5-hw-edge-gc37.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.16,,,fr5-hw-edge-gc22.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.124.43,,,fr5-hw-edge-gc51.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+95.85.92.4,,,rj2-hw-edge-gc10.fe.gc.onl,,Rio de Janeiro,Rio de Janeiro,BR,20000-000,"-22.9064,-43.1822",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+93.123.17.139,,,am3-hw-edge-gc62.fe.gc.onl,,Amsterdam,North Holland,NL,1012,"52.3740,4.8897",Europe/Amsterdam,AS199524 G-Core Labs S.A.
+92.223.124.28,,,fr5-hw-edge-gc29.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+95.85.92.5,,,rj2-hw-edge-gc11.fe.gc.onl,,Rio de Janeiro,Rio de Janeiro,BR,20000-000,"-22.9064,-43.1822",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.124.45,,,fr5-hw-edge-gc53.fe.gc.onl,,Frankfurt am Main,Hesse,DE,60326,"50.1025,8.6299",Europe/Berlin,AS199524 G-Core Labs S.A.
+92.223.12.25,,,sp3-hw-edge-gc14.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+95.85.92.6,,,rj2-hw-edge-gc12.fe.gc.onl,,Rio de Janeiro,Rio de Janeiro,BR,20000-000,"-22.9064,-43.1822",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.12.9,,,sp3-hw-edge-gc27.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+95.85.92.8,,,rj2-hw-edge-gc14.fe.gc.onl,,Rio de Janeiro,Rio de Janeiro,BR,20000-000,"-22.9064,-43.1822",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+181.39.11.210,,,host-181-39-11-210.telconet.net,,Quito,Pichincha,EC,,"-0.2298,-78.5250",America/Guayaquil,AS27947 Telconet S.A
+92.223.12.27,,,sp3-hw-edge-gc16.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.12.20,,,sp3-hw-edge-gc13.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.12.26,,,sp3-hw-edge-gc15.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.12.4,,,sp3-hw-edge-gc22.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+92.223.76.30,,,,,Hong Kong,Central and Western,HK,,"22.2783,114.1747",Asia/Hong_Kong,AS199524 G-Core Labs S.A.
+92.223.12.10,,,sp3-hw-edge-gc28.fe.gc.onl,,São Paulo,São Paulo,BR,01000-000,"-23.5475,-46.6361",America/Sao_Paulo,AS199524 G-Core Labs S.A.
+5.8.92.4,,,mca-hw-edge-gc10.fe.gc.onl,,McAllen,Texas,US,78501,"26.2154,-98.2359",America/Chicago,AS199524 G-Core Labs S.A.
+5.8.92.62,,,,,McAllen,Texas,US,78501,"26.2154,-98.2359",America/Chicago,AS199524 G-Core Labs S.A.
+92.223.61.23,,,,,Seoul,Seoul,KR,3141,"37.5660,126.9784",Asia/Seoul,AS199524 G-Core Labs S.A.
+92.223.61.21,,,,,Seoul,Seoul,KR,3141,"37.5660,126.9784",Asia/Seoul,AS199524 G-Core Labs S.A.
+92.223.61.30,,,,,Seoul,Seoul,KR,3141,"37.5660,126.9784",Asia/Seoul,AS199524 G-Core Labs S.A.
+190.95.248.34,,,,,Quito,Pichincha,EC,,"-0.2298,-78.5250",America/Guayaquil,AS27947 Telconet S.A
+92.223.118.14,,,dc3-hw-edge-gc33.fe.gc.onl,,Ashburn,Virginia,US,20147,"39.0437,-77.4875",America/New_York,AS199524 G-Core Labs S.A.
+92.223.118.16,,,dc3-hw-edge-gc35.fe.gc.onl,,Ashburn,Virginia,US,20147,"39.0437,-77.4875",America/New_York,AS199524 G-Core Labs S.A.
+171.234.242.195,,,dynamic-adsl.viettel.vn,,Hanoi,Hanoi,VN,10000,"21.0245,105.8412",Asia/Bangkok,AS7552 Viettel Group
+92.223.118.19,,,dc3-hw-edge-gc40.fe.gc.onl,,Ashburn,Virginia,US,20147,"39.0437,-77.4875",America/New_York,AS199524 G-Core Labs S.A.
+92.223.61.25,,,,,Seoul,Seoul,KR,3141,"37.5660,126.9784",Asia/Seoul,AS199524 G-Core Labs S.A.
+92.223.61.24,,,,,Seoul,Seoul,KR,3141,"37.5660,126.9784",Asia/Seoul,AS199524 G-Core Labs S.A.
+202.78.162.62,,,,,Istanbul,Istanbul,TR,34096,"41.0138,28.9497",Europe/Istanbul,AS199524 G-Core Labs S.A.
+5.8.92.5,,,mca-hw-edge-gc11.fe.gc.onl,,McAllen,Texas,US,78501,"26.2154,-98.2359",America/Chicago,AS199524 G-Core Labs S.A.
+5.8.92.6,,,mca-hw-edge-gc12.fe.gc.onl,,McAllen,Texas,US,78501,"26.2154,-98.2359",America/Chicago,AS199524 G-Core Labs S.A.
+79.133.108.62,,,,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+79.133.108.15,,,gn-hw-edge-gc13.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+79.133.108.10,,,gn-hw-edge-gc31.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+41.210.189.22,,,h3d16.n1.ips.mtn.co.ug,,Kampala,Central Region,UG,,"0.3163,32.5822",Africa/Kampala,AS20294 MTN Uganda
+197.148.108.106,,,,,Lomé,Maritime,TG,,"6.1287,1.2215",Africa/Lome,"AS24691 TogoTelecom, Togo"
+202.78.162.4,,,,,Istanbul,Istanbul,TR,34096,"41.0138,28.9497",Europe/Istanbul,AS199524 G-Core Labs S.A.
+92.38.142.25,,,tii-hw-edge-gc15.fe.gc.onl,,Bahçelievler,Istanbul,TR,34196,"41.0065,28.8397",Europe/Istanbul,AS199524 G-Core Labs S.A.
+79.133.108.25,,,gn-hw-edge-gc27.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+92.38.142.30,,,,,Bahçelievler,Istanbul,TR,34196,"41.0065,28.8397",Europe/Istanbul,AS199524 G-Core Labs S.A.
+79.133.108.7,,,gn-hw-edge-gc20.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+92.38.142.29,,,,,Bahçelievler,Istanbul,TR,34196,"41.0065,28.8397",Europe/Istanbul,AS199524 G-Core Labs S.A.
+5.188.133.11,,,jb1-hw-edge-gc11.fe.gc.onl,,Johannesburg,Gauteng,ZA,2041,"-26.2023,28.0436",Africa/Johannesburg,AS199524 G-Core Labs S.A.
+202.78.162.5,,,,,Istanbul,Istanbul,TR,34096,"41.0138,28.9497",Europe/Istanbul,AS199524 G-Core Labs S.A.
+202.78.162.61,,,,,Istanbul,Istanbul,TR,34096,"41.0138,28.9497",Europe/Istanbul,AS199524 G-Core Labs S.A.
+200.10.177.54,,,,,San José,San José,CR,40602,"9.9333,-84.0833",America/Costa_Rica,AS263779 Academia Nacional de Ciencias
+202.78.162.6,,,,,Istanbul,Istanbul,TR,34096,"41.0138,28.9497",Europe/Istanbul,AS199524 G-Core Labs S.A.
+92.38.142.21,,,tii-hw-edge-gc4.fe.gc.onl,,Bahçelievler,Istanbul,TR,34196,"41.0065,28.8397",Europe/Istanbul,AS199524 G-Core Labs S.A.
+5.188.133.10,,,jb1-hw-edge-gc10.fe.gc.onl,,Johannesburg,Gauteng,ZA,2041,"-26.2023,28.0436",Africa/Johannesburg,AS199524 G-Core Labs S.A.
+185.158.211.186,,,,,Kyiv,Kyiv City,UA,3027,"50.4547,30.5238",Europe/Kyiv,AS59613 Ukrainian Backbone Networks LLC
+79.133.108.14,,,gn-hw-edge-gc24.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+79.133.108.24,,,gn-hw-edge-gc26.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+79.133.108.16,,,gn-hw-edge-gc14.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+31.184.207.6,,,os1-hw-edge-gc12.fe.gc.onl,,Osaka,Ōsaka,JP,550-0013,"34.6772,135.4913",Asia/Tokyo,AS199524 G-Core Labs S.A.
+79.133.108.17,,,gn-hw-edge-gc15.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+5.188.7.61,,,,,Minsk,Minsk City,BY,220002,"53.9000,27.5667",Europe/Minsk,AS210756 EdgeCenter LLC
+92.38.170.8,,,la2-hw-edge-gc8.fe.gc.onl,,Los Angeles,California,US,90017,"34.0559,-118.2666",America/Los_Angeles,AS199524 G-Core Labs S.A.
+5.188.7.12,,,,,Minsk,Minsk City,BY,220002,"53.9000,27.5667",Europe/Minsk,AS210756 EdgeCenter LLC
+93.123.11.13,,,thn2-hw-edge-gc13.fe.gc.onl,,London,England,GB,E1W,"51.5085,-0.1257",Europe/London,AS199524 G-Core Labs S.A.
+92.38.170.7,,,la2-hw-edge-gc7.fe.gc.onl,,Los Angeles,California,US,90017,"34.0559,-118.2666",America/Los_Angeles,AS199524 G-Core Labs S.A.
+31.184.207.62,,,,,Osaka,Ōsaka,JP,550-0013,"34.6772,135.4913",Asia/Tokyo,AS199524 G-Core Labs S.A.
+151.248.104.91,,,,,Kuwait City,Al Asimah,KW,,"29.3697,47.9783",Asia/Kuwait,AS59605 MENA LEVANT W.L.L
+213.156.151.5,,,llp-hw-edge-gc5.fe.gc.onl,,Vitarte,Lima region,PE,15023,"-12.0842,-76.9636",America/Lima,AS199524 G-Core Labs S.A.
+92.223.112.62,,,,,Luxembourg,Luxembourg,LU,L-1882,"49.5806,6.1118",Europe/Luxembourg,AS199524 G-Core Labs S.A.
+150.107.126.4,,,lgs-hw-edge-gc4.fe.gc.onl,,Lagos,Lagos,NG,,"6.4541,3.3947",Africa/Lagos,AS199524 G-Core Labs S.A.
+80.93.215.4,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+213.156.151.62,,,,,Vitarte,Lima region,PE,15023,"-12.0842,-76.9636",America/Lima,AS199524 G-Core Labs S.A.
+92.223.112.12,,,,,Luxembourg,Luxembourg,LU,L-1882,"49.5806,6.1118",Europe/Luxembourg,AS199524 G-Core Labs S.A.
+31.184.207.4,,,os1-hw-edge-gc10.fe.gc.onl,,Osaka,Ōsaka,JP,550-0013,"34.6772,135.4913",Asia/Tokyo,AS199524 G-Core Labs S.A.
+79.133.108.13,,,gn-hw-edge-gc23.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+94.128.12.238,,,,,Ḩawallī,Hawalli,KW,,"29.3328,48.0286",Asia/Kuwait,AS47589 Kuwait Telecommunication Company (Under Association)
+79.133.108.5,,,gn-hw-edge-gc18.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+79.133.108.8,,,gn-hw-edge-gc12.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+79.133.108.4,,,gn-hw-edge-gc17.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+150.107.126.61,,,,,Lagos,Lagos,NG,,"6.4541,3.3947",Africa/Lagos,AS199524 G-Core Labs S.A.
+5.188.126.6,,,,,Alcobendas,Madrid,ES,28108,"40.5316,-3.6475",Europe/Madrid,AS199524 G-Core Labs S.A.
+91.243.87.4,,,mlt-hw-edge-gc10.fe.gc.onl,,Chisinau,Chișinău Municipality,MD,MD-2000,"47.0056,28.8575",Europe/Chisinau,AS199524 G-Core Labs S.A.
+31.184.207.7,,,os1-hw-edge-gc13.fe.gc.onl,,Osaka,Ōsaka,JP,550-0013,"34.6772,135.4913",Asia/Tokyo,AS199524 G-Core Labs S.A.
+93.123.11.61,,,,,London,England,GB,E1W,"51.5085,-0.1257",Europe/London,AS199524 G-Core Labs S.A.
+87.120.106.4,,,inc-hw-edge-gc5.fe.gc.onl,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+31.184.207.8,,,os1-hw-edge-gc14.fe.gc.onl,,Osaka,Ōsaka,JP,550-0013,"34.6772,135.4913",Asia/Tokyo,AS199524 G-Core Labs S.A.
+62.209.27.232,,,62-209-27-232.rev.bb.zain.com,,Jidd Ḩafş,Manama,BH,,"26.2186,50.5478",Asia/Bahrain,AS31452 ZAIN BAHRAIN B.S.C.
+5.188.126.14,,,,,Alcobendas,Madrid,ES,28108,"40.5316,-3.6475",Europe/Madrid,AS199524 G-Core Labs S.A.
+92.223.107.43,,,mi1-hw-edge-gc14.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+151.248.104.69,,,,,Kuwait City,Al Asimah,KW,,"29.3697,47.9783",Asia/Kuwait,AS59605 MENA LEVANT W.L.L
+102.130.69.141,,,,,Luanda,Luanda,AO,,"-8.8368,13.2343",Africa/Luanda,AS37468 Angola Cables
+134.0.219.37,,,,,Muscat,Muscat,OM,,"23.5841,58.4078",Asia/Muscat,AS8529 Oman Telecommunications Company (S.A.O.G)
+79.133.108.26,,,gn-hw-edge-gc28.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+92.38.170.10,,,la2-hw-edge-gc10.fe.gc.onl,,Los Angeles,California,US,90017,"34.0559,-118.2666",America/Los_Angeles,AS199524 G-Core Labs S.A.
+92.38.170.6,,,la2-hw-edge-gc6.fe.gc.onl,,Los Angeles,California,US,90017,"34.0559,-118.2666",America/Los_Angeles,AS199524 G-Core Labs S.A.
+92.223.107.56,,,mi1-hw-edge-gc24.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+92.223.107.62,,,,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+1.37.77.98,,,,,Makati City,Metro Manila,PH,1201,"14.5503,121.0327",Asia/Manila,AS4775 Globe Telecoms
+197.215.140.234,,,,,Tripoli,Tripoli,LY,,"32.8874,13.1873",Africa/Tripoli,AS37558 LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY
+79.133.108.6,,,gn-hw-edge-gc19.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+92.223.107.40,,,mi1-hw-edge-gc10.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+195.14.146.81,,,195-146-81.ftth.cytanet.com.cy,,Nicosia,Nicosia,CY,1010,"35.1753,33.3642",Asia/Nicosia,AS6866 Cyprus Telecommunications Authority
+93.123.11.11,,,thn2-hw-edge-gc11.fe.gc.onl,,London,England,GB,E1W,"51.5085,-0.1257",Europe/London,AS199524 G-Core Labs S.A.
+80.93.215.5,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+80.93.215.7,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+79.133.108.23,,,gn-hw-edge-gc25.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+93.123.11.12,,,thn2-hw-edge-gc12.fe.gc.onl,,London,England,GB,E1W,"51.5085,-0.1257",Europe/London,AS199524 G-Core Labs S.A.
+93.123.11.62,,,,,London,England,GB,E1W,"51.5085,-0.1257",Europe/London,AS199524 G-Core Labs S.A.
+80.93.215.61,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+79.133.108.9,,,gn-hw-edge-gc30.fe.gc.onl,,Sofiyivska Borschagivka,Kiev,UA,1033,"50.4547,30.5238",Europe/Kyiv,AS199524 G-Core Labs S.A.
+102.67.99.66,,,,,Ouagadougou,Centre,BF,,"12.3657,-1.5339",Africa/Ouagadougou,AS37721 Virtual Technologies & Solutions
+92.223.112.28,,,,,Luxembourg,Luxembourg,LU,L-1882,"49.5806,6.1118",Europe/Luxembourg,AS199524 G-Core Labs S.A.
+87.120.106.5,,,inc-hw-edge-gc6.fe.gc.onl,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+31.184.207.5,,,os1-hw-edge-gc11.fe.gc.onl,,Osaka,Ōsaka,JP,550-0013,"34.6772,135.4913",Asia/Tokyo,AS199524 G-Core Labs S.A.
+5.188.126.4,,,,,Alcobendas,Madrid,ES,28108,"40.5316,-3.6475",Europe/Madrid,AS199524 G-Core Labs S.A.
+87.120.106.11,,,inc-hw-edge-gc11.fe.gc.onl,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+92.223.107.45,,,mi1-hw-edge-gc28.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+5.188.126.5,,,,,Alcobendas,Madrid,ES,28108,"40.5316,-3.6475",Europe/Madrid,AS199524 G-Core Labs S.A.
+146.185.221.190,,,,,Melbourne,Victoria,AU,3000,"-37.8140,144.9633",Australia/Melbourne,AS199524 G-Core Labs S.A.
+103.211.151.21,,,,,Kathmandu,Bagmati Province,NP,,"27.7017,85.3206",Asia/Kathmandu,AS137187 WorldLink Communications
+134.0.219.26,,,,,Muscat,Muscat,OM,,"23.5841,58.4078",Asia/Muscat,AS8529 Oman Telecommunications Company (S.A.O.G)
+93.123.11.14,,,thn2-hw-edge-gc14.fe.gc.onl,,London,England,GB,E1W,"51.5085,-0.1257",Europe/London,AS199524 G-Core Labs S.A.
+213.156.151.6,,,llp-hw-edge-gc6.fe.gc.onl,,Vitarte,Lima region,PE,15023,"-12.0842,-76.9636",America/Lima,AS199524 G-Core Labs S.A.
+146.185.221.132,,,,,Melbourne,Victoria,AU,3000,"-37.8140,144.9633",Australia/Melbourne,AS199524 G-Core Labs S.A.
+92.223.107.58,,,mi1-hw-edge-gc26.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+102.67.99.50,,,gcore-node-50-99-67-102.oua2.vts.bf,,Lagos,Lagos,NG,,"6.4541,3.3947",Africa/Lagos,AS37721 Virtual Technologies & Solutions
+5.188.126.7,,,,,Alcobendas,Madrid,ES,28108,"40.5316,-3.6475",Europe/Madrid,AS199524 G-Core Labs S.A.
+87.120.106.8,,,inc-hw-edge-gc8.fe.gc.onl,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+92.223.107.61,,,,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+87.120.106.62,,,,,Bogotá,Bogota D.C.,CO,110921,"4.6768,-74.1548",America/Bogota,AS199524 G-Core Labs S.A.
+181.174.80.182,,,,,Guatemala City,Guatemala,GT,1001,"14.6407,-90.5133",America/Guatemala,AS23243 COMCEL GUATEMALA S.A.
+92.223.107.42,,,mi1-hw-edge-gc13.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+179.51.50.82,,,,,San Miguel,San Miguel,SV,,"13.4833,-88.1833",America/El_Salvador,AS27773 MILLICOM CABLE EL SALVADOR S.A. DE C.V.
+92.223.107.44,,,mi1-hw-edge-gc27.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+92.223.107.57,,,mi1-hw-edge-gc25.fe.gc.onl,,Miami,Florida,US,33132,"25.7867,-80.1800",America/New_York,AS199524 G-Core Labs S.A.
+92.223.47.61,,,,,Giza,Giza,EG,,"30.0094,31.2086",Africa/Cairo,AS199524 G-Core Labs S.A.
+92.223.55.4,,,mrs2-hw-edge-gc10.fe.gc.onl,,Septèmes-les-Vallons,Provence-Alpes-Côte d'Azur,FR,13015,"43.3722,5.3539",Europe/Paris,AS199524 G-Core Labs S.A.
+92.223.55.5,,,mrs2-hw-edge-gc11.fe.gc.onl,,Septèmes-les-Vallons,Provence-Alpes-Côte d'Azur,FR,13015,"43.3722,5.3539",Europe/Paris,AS199524 G-Core Labs S.A.
+92.223.47.4,,,,,Giza,Giza,EG,,"30.0094,31.2086",Africa/Cairo,AS199524 G-Core Labs S.A.
+92.223.47.62,,,,,Giza,Giza,EG,,"30.0094,31.2086",Africa/Cairo,AS199524 G-Core Labs S.A.
+92.223.55.6,,,mrs2-hw-edge-gc12.fe.gc.onl,,Septèmes-les-Vallons,Provence-Alpes-Côte d'Azur,FR,13015,"43.3722,5.3539",Europe/Paris,AS199524 G-Core Labs S.A.
+197.215.140.235,,,,,Tripoli,Tripoli,LY,,"32.8874,13.1873",Africa/Tripoli,AS37558 LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY
+197.225.145.26,,,,,Port Louis,Port Louis,MU,,"-20.1619,57.4989",Indian/Mauritius,AS23889 Mauritius Telecom Ltd
+45.65.8.4,,,min4-up-gc5.fe.gc.onl,,Minneapolis,Minnesota,US,55415,"44.9742,-93.2585",America/Chicago,AS199524 G-Core Labs S.A.
+45.65.8.62,,,,,Minneapolis,Minnesota,US,55415,"44.9742,-93.2585",America/Chicago,AS199524 G-Core Labs S.A.
+45.82.101.8,,,,,Milan,Lombardy,IT,20144,"45.4643,9.1895",Europe/Rome,AS199524 G-Core Labs S.A.
+45.82.101.7,,,,,Milan,Lombardy,IT,20144,"45.4643,9.1895",Europe/Rome,AS199524 G-Core Labs S.A.
+92.223.55.62,,,,,Septèmes-les-Vallons,Provence-Alpes-Côte d'Azur,FR,13015,"43.3722,5.3539",Europe/Paris,AS199524 G-Core Labs S.A.
+45.82.101.6,,,,,Milan,Lombardy,IT,20144,"45.4643,9.1895",Europe/Rome,AS199524 G-Core Labs S.A.
+45.82.101.62,,,,,Milan,Lombardy,IT,20144,"45.4643,9.1895",Europe/Rome,AS199524 G-Core Labs S.A.
+92.223.63.29,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.10,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.6,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.7,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.5,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.27,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.25,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+185.244.209.4,,,,,Oslo,Oslo,NO,598,"59.8457,10.7823",Europe/Oslo,AS199524 G-Core Labs S.A.
+45.82.101.9,,,,,Milan,Lombardy,IT,20144,"45.4643,9.1895",Europe/Rome,AS199524 G-Core Labs S.A.
+45.65.8.61,,,,,Minneapolis,Minnesota,US,55415,"44.9742,-93.2585",America/Chicago,AS199524 G-Core Labs S.A.
+45.82.103.4,,,sdch-hw-edge-gc4.fe.gc.onl,,Santiago,Santiago Metropolitan,CL,7500000,"-33.4362,-70.6090",America/Santiago,AS199524 G-Core Labs S.A.
+45.82.103.62,,,,,Santiago,Santiago Metropolitan,CL,7500000,"-33.4362,-70.6090",America/Santiago,AS199524 G-Core Labs S.A.
+92.223.63.8,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.68.27,,,,,Chicago,Illinois,US,60616,"41.8426,-87.6306",America/Chicago,AS199524 G-Core Labs S.A.
+185.249.133.4,,,,,Belgrade,Central Serbia,RS,11000,"44.8040,20.4651",Europe/Belgrade,AS199524 G-Core Labs S.A.
+95.85.69.62,,,,,Bucharest,București,RO,50011,"44.4323,26.1063",Europe/Bucharest,AS199524 G-Core Labs S.A.
+45.82.101.5,,,,,Milan,Lombardy,IT,20144,"45.4643,9.1895",Europe/Rome,AS199524 G-Core Labs S.A.
+213.156.144.6,,,sqr-hw-edge-gc6.fe.gc.onl,,El Colorado,Querétaro,MX,76246,"20.5618,-100.2452",America/Mexico_City,AS199524 G-Core Labs S.A.
+185.163.3.4,,,dx1-hw-edge-gc4.fe.gc.onl,,Dubai,Dubai,AE,,"25.0772,55.3093",Asia/Dubai,AS199524 G-Core Labs S.A.
+92.223.63.22,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.11,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.24,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+185.244.209.61,,,,,Oslo,Oslo,NO,598,"59.8457,10.7823",Europe/Oslo,AS199524 G-Core Labs S.A.
+92.223.63.23,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+95.85.69.7,,,bu2-hw-edge-gc5.fe.gc.onl,,Bucharest,București,RO,50011,"44.4323,26.1063",Europe/Bucharest,AS199524 G-Core Labs S.A.
+92.223.63.26,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.74.21,,,,,Prague,Prague,CZ,110 00,"50.0880,14.4208",Europe/Prague,AS199524 G-Core Labs S.A.
+150.107.126.62,,,,,Lagos,Lagos,NG,,"6.4541,3.3947",Africa/Lagos,AS199524 G-Core Labs S.A.
+92.223.63.4,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+213.156.144.7,,,sqr-hw-edge-gc7.fe.gc.onl,,El Colorado,Querétaro,MX,76246,"20.5618,-100.2452",America/Mexico_City,AS199524 G-Core Labs S.A.
+92.223.68.26,,,,,Chicago,Illinois,US,60616,"41.8426,-87.6306",America/Chicago,AS199524 G-Core Labs S.A.
+92.223.74.20,,,,,Prague,Prague,CZ,110 00,"50.0880,14.4208",Europe/Prague,AS199524 G-Core Labs S.A.
+92.223.68.25,,,,,Chicago,Illinois,US,60616,"41.8426,-87.6306",America/Chicago,AS199524 G-Core Labs S.A.
+185.244.209.62,,,,,Oslo,Oslo,NO,598,"59.8457,10.7823",Europe/Oslo,AS199524 G-Core Labs S.A.
+213.156.144.5,,,sqr-hw-edge-gc5.fe.gc.onl,,El Colorado,Querétaro,MX,76246,"20.5618,-100.2452",America/Mexico_City,AS199524 G-Core Labs S.A.
+95.85.69.61,,,,,Bucharest,București,RO,50011,"44.4323,26.1063",Europe/Bucharest,AS199524 G-Core Labs S.A.
+213.156.144.4,,,sqr-hw-edge-gc4.fe.gc.onl,,El Colorado,Querétaro,MX,76246,"20.5618,-100.2452",America/Mexico_City,AS199524 G-Core Labs S.A.
+92.223.63.9,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.21,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+92.223.63.28,,,,,Urayasu,Tokyo,JP,135-0061,"35.6309,139.7917",Asia/Tokyo,AS199524 G-Core Labs S.A.
+95.85.69.6,,,bu2-hw-edge-gc4.fe.gc.onl,,Bucharest,București,RO,50011,"44.4323,26.1063",Europe/Bucharest,AS199524 G-Core Labs S.A.
+92.223.68.30,,,,,Chicago,Illinois,US,60616,"41.8426,-87.6306",America/Chicago,AS199524 G-Core Labs S.A.
+171.229.196.134,,,dynamic-ip-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+92.223.120.12,,,sv5-hw-edge-gc25.fe.gc.onl,,Sunnyvale,California,US,94088,"37.3688,-122.0363",America/Los_Angeles,AS199524 G-Core Labs S.A.
+92.223.120.13,,,sv5-hw-edge-gc26.fe.gc.onl,,Sunnyvale,California,US,94088,"37.3688,-122.0363",America/Los_Angeles,AS199524 G-Core Labs S.A.
+92.223.120.14,,,sv5-hw-edge-gc27.fe.gc.onl,,Sunnyvale,California,US,94088,"37.3688,-122.0363",America/Los_Angeles,AS199524 G-Core Labs S.A.
+5.101.219.5,,,tsc-hw-edge-gc11.fe.gc.onl,,Sofia,Sofia-Capital,BG,1000,"42.6975,23.3241",Europe/Sofia,AS199524 G-Core Labs S.A.
+92.223.78.23,,,,,Sydney,New South Wales,AU,2015,"-33.9092,151.1940",Australia/Sydney,AS199524 G-Core Labs S.A.
+78.111.103.5,,,wbs-hw-edge-gc5.fe.gc.onl,,Seattle,Washington,US,98121,"47.6151,-122.3447",America/Los_Angeles,AS199524 G-Core Labs S.A.
+45.82.103.61,,,,,Santiago,Santiago Metropolitan,CL,7500000,"-33.4362,-70.6090",America/Santiago,AS199524 G-Core Labs S.A.
+92.223.116.203,,,sg1-hw-edge-gc49.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+78.111.103.4,,,wbs-hw-edge-gc4.fe.gc.onl,,Seattle,Washington,US,98121,"47.6151,-122.3447",America/Los_Angeles,AS199524 G-Core Labs S.A.
+120.28.10.46,,,,,Manila,Metro Manila,PH,1006,"14.6042,120.9822",Asia/Manila,AS4775 Globe Telecoms
+92.223.116.222,,,sg1-hw-edge-gc62.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+92.223.116.224,,,sg1-hw-edge-gc64.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+5.252.26.4,,,tidc-hw-edge-gc4.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+5.252.26.7,,,tidc-hw-edge-gc7.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+5.252.26.5,,,tidc-hw-edge-gc5.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+45.82.103.6,,,sdch-hw-edge-gc6.fe.gc.onl,,Santiago,Santiago Metropolitan,CL,7500000,"-33.4362,-70.6090",America/Santiago,AS199524 G-Core Labs S.A.
+5.252.26.10,,,tidc-hw-edge-gc10.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+92.223.116.207,,,sg1-hw-edge-gc53.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+45.82.103.7,,,sdch-hw-edge-gc7.fe.gc.onl,,Santiago,Santiago Metropolitan,CL,7500000,"-33.4362,-70.6090",America/Santiago,AS199524 G-Core Labs S.A.
+171.229.196.133,,,dynamic-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+78.111.103.62,,,,,Seattle,Washington,US,98121,"47.6151,-122.3447",America/Los_Angeles,AS199524 G-Core Labs S.A.
+92.223.116.221,,,sg1-hw-edge-gc61.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+5.252.26.61,,,,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+45.82.103.5,,,sdch-hw-edge-gc5.fe.gc.onl,,Santiago,Santiago Metropolitan,CL,7500000,"-33.4362,-70.6090",America/Santiago,AS199524 G-Core Labs S.A.
+92.223.116.223,,,sg1-hw-edge-gc63.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+78.111.103.61,,,,,Seattle,Washington,US,98121,"47.6151,-122.3447",America/Los_Angeles,AS199524 G-Core Labs S.A.
+92.223.116.254,,,,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+92.223.116.253,,,,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+5.252.26.6,,,tidc-hw-edge-gc6.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+92.223.116.205,,,sg1-hw-edge-gc51.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+118.103.136.245,,,,,Thimphu,Thimphu District,BT,,"27.4661,89.6419",Asia/Thimphu,AS23955 Tashi InfoComm Limited
+171.229.196.137,,,dynamic-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+213.156.151.4,,,llp-hw-edge-gc4.fe.gc.onl,,Vitarte,Lima region,PE,15023,"-12.0842,-76.9636",America/Lima,AS199524 G-Core Labs S.A.
+171.229.196.138,,,dynamic-ip-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+5.252.26.62,,,,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+171.229.196.136,,,dynamic-ip-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+171.229.196.132,,,dynamic-ip-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+5.252.26.9,,,tidc-hw-edge-gc9.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+5.252.26.8,,,tidc-hw-edge-gc8.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+5.252.26.11,,,tidc-hw-edge-gc11.fe.gc.onl,,Pak Kret,Nonthaburi,TH,11120,"13.9130,100.4988",Asia/Bangkok,AS199524 G-Core Labs S.A.
+94.43.206.202,,,94-43-206-202.dsl.utg.ge,,Tbilisi,T'bilisi,GE,,"41.6941,44.8337",Asia/Tbilisi,"AS35805 JSC ""Silknet"""
+5.188.94.5,,,,,Petaẖ Tiqva,Central District,IL,,"32.0871,34.8875",Asia/Jerusalem,AS199524 G-Core Labs S.A.
+180.149.90.66,,,,,Ulan Bator,Ulaanbaatar,MN,,"47.9077,106.8832",Asia/Ulaanbaatar,AS45204 GEMNET LLC
+93.123.38.4,,,rtc-hw-edge-gc4.fe.gc.onl,,Riga,Riga,LV,LV-1012,"56.9460,24.1059",Europe/Riga,AS199524 G-Core Labs S.A.
+92.223.92.25,,,pl1-hw-edge-gc11.fe.gc.onl,,Warsaw,Mazovia,PL,00-697,"52.2286,21.0071",Europe/Warsaw,AS199524 G-Core Labs S.A.
+92.223.92.24,,,pl1-hw-edge-gc10.fe.gc.onl,,Warsaw,Mazovia,PL,00-697,"52.2286,21.0071",Europe/Warsaw,AS199524 G-Core Labs S.A.
+92.223.120.15,,,sv5-hw-edge-gc28.fe.gc.onl,,Sunnyvale,California,US,94088,"37.3688,-122.0363",America/Los_Angeles,AS199524 G-Core Labs S.A.
+5.101.219.6,,,tsc-hw-edge-gc4.fe.gc.onl,,Sofia,Sofia-Capital,BG,1000,"42.6975,23.3241",Europe/Sofia,AS199524 G-Core Labs S.A.
+109.68.233.242,,,,,Dushanbe,Dushanbe,TJ,,"38.5358,68.7790",Asia/Dushanbe,AS43197 Closed Joint Stock Company TT mobile
+92.223.78.22,,,,,Sydney,New South Wales,AU,2015,"-33.9092,151.1940",Australia/Sydney,AS199524 G-Core Labs S.A.
+92.223.78.30,,,,,Sydney,New South Wales,AU,2015,"-33.9092,151.1940",Australia/Sydney,AS199524 G-Core Labs S.A.
+195.22.198.49,,,,,Palermo,Sicily,IT,90100,"38.1166,13.3636",Europe/Rome,AS6762 TELECOM ITALIA SPARKLE S.p.A.
+92.223.74.26,,,,,Prague,Prague,CZ,110 00,"50.0880,14.4208",Europe/Prague,AS199524 G-Core Labs S.A.
+213.156.144.62,,,,,El Colorado,Querétaro,MX,76246,"20.5618,-100.2452",America/Mexico_City,AS199524 G-Core Labs S.A.
+213.156.144.61,,,,,El Colorado,Querétaro,MX,76246,"20.5618,-100.2452",America/Mexico_City,AS199524 G-Core Labs S.A.
+5.101.219.14,,,,,Sofia,Sofia-Capital,BG,1000,"42.6975,23.3241",Europe/Sofia,AS199524 G-Core Labs S.A.
+185.163.3.61,,,,,Dubai,Dubai,AE,,"25.0772,55.3093",Asia/Dubai,AS199524 G-Core Labs S.A.
+92.223.92.30,,,,,Warsaw,Mazovia,PL,00-697,"52.2286,21.0071",Europe/Warsaw,AS199524 G-Core Labs S.A.
+5.101.222.4,,,td2-hw-edge-gc10.fe.gc.onl,,Toronto,Ontario,CA,M5A,"43.7001,-79.4163",America/Toronto,AS199524 G-Core Labs S.A.
+5.101.222.13,,,,,Toronto,Ontario,CA,M5A,"43.7001,-79.4163",America/Toronto,AS199524 G-Core Labs S.A.
+5.101.222.5,,,td2-hw-edge-gc11.fe.gc.onl,,Toronto,Ontario,CA,M5A,"43.7001,-79.4163",America/Toronto,AS199524 G-Core Labs S.A.
+92.223.92.23,,,pl1-hw-edge-gc7.fe.gc.onl,,Warsaw,Mazovia,PL,00-697,"52.2286,21.0071",Europe/Warsaw,AS199524 G-Core Labs S.A.
+92.223.92.26,,,pl1-hw-edge-gc12.fe.gc.onl,,Warsaw,Mazovia,PL,00-697,"52.2286,21.0071",Europe/Warsaw,AS199524 G-Core Labs S.A.
+93.123.38.5,,,rtc-hw-edge-gc5.fe.gc.onl,,Riga,Riga,LV,LV-1012,"56.9460,24.1059",Europe/Riga,AS199524 G-Core Labs S.A.
+194.44.246.206,,,,,Kyiv,Kyiv City,UA,3027,"50.4547,30.5238",Europe/Kyiv,"AS3255 State Enterprise Scientific and Telecommunication Centre ""Ukrainian Academic and Research Network"" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet)"
+93.123.38.62,,,,,Riga,Riga,LV,LV-1012,"56.9460,24.1059",Europe/Riga,AS199524 G-Core Labs S.A.
+82.213.5.50,,,,,Nablus,West Bank,PS,,"32.2211,35.2544",Asia/Hebron,AS12975 Palestine Telecommunications Company (PALTEL)
+213.244.64.66,,,,,Nablus,West Bank,PS,,"32.2211,35.2544",Asia/Hebron,AS12975 Palestine Telecommunications Company (PALTEL)
+92.223.92.22,,,pl1-hw-edge-gc6.fe.gc.onl,,Warsaw,Mazovia,PL,00-697,"52.2286,21.0071",Europe/Warsaw,AS199524 G-Core Labs S.A.
+213.156.151.61,,,,,Vitarte,Lima region,PE,15023,"-12.0842,-76.9636",America/Lima,AS199524 G-Core Labs S.A.
+92.223.116.220,,,sg1-hw-edge-gc60.fe.gc.onl,,Singapore,Singapore,SG,139964,"1.2951,103.7893",Asia/Singapore,AS199524 G-Core Labs S.A.
+171.229.196.135,,,dynamic-ip-adsl.viettel.vn,,Ho Chi Minh City,Ho Chi Minh,VN,71606,"10.8230,106.6296",Asia/Ho_Chi_Minh,AS7552 Viettel Group
+92.223.120.10,,,sv5-hw-edge-gc10.fe.gc.onl,,Sunnyvale,California,US,94088,"37.3688,-122.0363",America/Los_Angeles,AS199524 G-Core Labs S.A.
+46.49.10.229,,,,,Tbilisi,T'bilisi,GE,,"41.6941,44.8337",Asia/Tbilisi,AS16010 Magticom Ltd.
+5.101.222.14,,,,,Toronto,Ontario,CA,M5A,"43.7001,-79.4163",America/Toronto,AS199524 G-Core Labs S.A.
