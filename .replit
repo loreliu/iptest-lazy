@@ -1,4 +1,4 @@
-run = "./main -max 1000 -speedtest 100 -url www.takina.lol -tcpurl www.takina.lol"
+run = "./main"
 hidden = ["main"]
 compile = "go build -o main ."
 
